@@ -34,6 +34,7 @@ import { XMLParser } from "fast-xml-parser";
 const INDEX_URL = "https://mp3s.nashownotes.com/";
 const FEED_URL = "https://mp3s.nashownotes.com/pc20rss.xml";
 const CDX = "https://web.archive.org/cdx/search/cdx";
+const ART_URL = "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg";
 
 // Any file whose name starts with PC20-<ep>...
 const PC20_ANY_RE = /^PC20-(\d{1,4})\b/i;
@@ -346,6 +347,7 @@ function buildFeed(bundles: Bundle[], meta: Map<string, FeedItem>, range: { min:
       <pubDate>${pubDate}</pubDate>
       <guid isPermaLink="false">${xmlEsc(guid)}</guid>
       <enclosure url="${xmlEsc(audio.url)}" length="${len}" type="audio/mpeg"/>
+      <itunes:image href="${xmlEsc(ART_URL)}"/>
       <itunes:episode>${b.episode}</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>${duration}${extrasBlock}
     </item>`;
@@ -362,6 +364,12 @@ function buildFeed(bundles: Bundle[], meta: Map<string, FeedItem>, range: { min:
     <link>https://podcastindex.org/podcast/920666</link>
     <description>Back-catalog feed for the Podcasting 2.0 podcast. Audio hosted by Adam Curry at mp3s.nashownotes.com. Item metadata reconstructed from Wayback Machine snapshots of the original RSS feed; transcripts and chapters pulled from companion files in the same directory.</description>
     <language>en-us</language>
+    <image>
+      <url>${ART_URL}</url>
+      <title>Podcasting 2.0 — Archive (Eps ${range.min}–${range.max})</title>
+      <link>https://podcastindex.org/podcast/920666</link>
+    </image>
+    <itunes:image href="${ART_URL}"/>
     <itunes:author>Adam Curry &amp; Dave Jones</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
