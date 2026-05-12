@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcasting 2.0 — Archive (Eps 1–100)</title>
+    <link>https://podcastindex.org/podcast/920666</link>
+    <description>Back-catalog feed for the Podcasting 2.0 podcast. Audio hosted by Adam Curry at mp3s.nashownotes.com. Item metadata reconstructed from Wayback Machine snapshots of the original RSS feed; transcripts and chapters pulled from companion files in the same directory.</description>
+    <language>en-us</language>
+    <itunes:author>Adam Curry &amp; Dave Jones</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <podcast:guid>pc20-archive-1-100</podcast:guid>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:remoteItem feedGuid="917393e3-1b1e-5cef-ace4-edaa54e1f810" feedUrl="https://mp3s.nashownotes.com/pc20rss.xml"/>
+    <item>
+      <title>Episode 1: We are upgrading podcasting</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+Adam Curry and Dave Jones kick off The Podcast Index Project with a historical review of Podcasting and how to make it more open and better for all. Join us and support us at podcastindex.org</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 28 Aug 2020 21:12:19 GMT</pubDate>
+      <guid isPermaLink="false">http://podcastindex.org/</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-01-2020-08-28-Final.mp3" length="61222288" type="audio/mpeg"/>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-01-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 2: We Have Liftoff!</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for September 11th 2020 Episode 2:  We Have Liftoff!</b></p><p>
+<b>Shownotes</b></p><p>
+Adam Curry and Dave Jones Discuss the start of the project and all that we have learned in the past two weeks. Thanks to all the donors who support the project at <a href="http://PodcastIndex.org">podcastindex.org</a></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 11 Sep 2020 18:51:09 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200220200911Podcas-LlFZgcrGrvRXQJDpxwScJ27mc96jKr.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-02-2020-09-11-Final.mp3" length="59902895" type="audio/mpeg"/>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-02-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 3: First Board Meeting</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for September 18th 2020 Episode 3:  First Board Meeting</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-03-2020-09-18-Final.mp3">Download the mp3</a></p><p>
+Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></p><p>
+<b>Shownotes</b></p><p>
+Adam Curry and Dave Jones update each other on the week's progress with podcastindex.org </p><p>
+Topics discussed:Categories, submissions, rogue feeds and a path to IPFS</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 18 Sep 2020 22:18:19 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200320200918Podcas-DScg5pqVg9cJfDhZmN6SklB6K1Flbg.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-03-2020-09-18-Final.mp3" length="62407829" type="audio/mpeg"/>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-03-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 4: Making Headway</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for September 25th 2020 Episode 4: Making Headway</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-04-2020-09-25-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam Curry and Dave Jones update each other on the week's progress with podcastindex.org </p><p>
+Topics discussed:</p><p>
+Spotify de-platforming</p><p>
+Images</p><p>
+People showing up with their own databases</p><p>
+Categories</p><p>
+New homepage</p><p>
+Need lists of apps and stuff for drunkplato</p><p>
+Simple Player with code</p><p>
+Cast coverage randmizer</p><p>
+Languages</p><p>
+Countries</p><p>
+AI / ML</p><p>
+OPML stuff showing up</p><p>
+Servers and $$</p><p>
+Submitting feeds</p><p>
+@podcast bot</p><p>
+Spreading the word about PCI!</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 25 Sep 2020 19:12:15 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200420200925Podcas-Tt7rSQs5NzBXr9kntV0HkmMcHQslXr.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-04-2020-09-25-Final.mp3" length="67050937" type="audio/mpeg"/>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-04-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 5: Juggling the Junket</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for October 2nd 2020 Episode 5: Juggling the Junket</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-05-2020-10-02-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+International podcast day</p><p>
+max keizer</p><p>
+Home page Trent</p><p>
+Podfriend</p><p>
+Castcoverage</p><p>
+Podnews</p><p>
+New systems connected</p><p>
+pub/sub</p><p>
+Filters</p><p>
+Problematic feeds</p><p>
+re-iterate missions and obligations</p><p>
+Whitstone visit</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 02 Oct 2020 21:54:55 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200520201002Podcas-MfFrPrlCPQnk78l43J4KGWXRTVBqpH.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-05-2020-10-02-Final.mp3" length="66174791" type="audio/mpeg"/>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-05-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 6: Name Your Space</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for October 9th 2020 Episode 6: Name Your Space</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-06-2020-10-09-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+name space</p><p>
+images</p><p>
+caching</p><p>
+categories</p><p>
+tags</p><p>
+Todd and Rob New Media Show</p><p>
+Keywords</p>]]></description>
+      <pubDate>Mon, 12 Oct 2020 17:36:34 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200620201009Podcas-KbW0KSnmnrKc5vWVz9zFqqx4QHwFJ7.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-06-2020-10-09-Final.mp3" length="55436583" type="audio/mpeg"/>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-06-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 7: Tag You're It!</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for October 16th 2020 Episode 7: Tag You're It!</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-07-2020-10-16-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+The namespace's progress is our main topic, along with thoughts about the value flow through the eco-system</p><p>
+Keywords</p>]]></description>
+      <pubDate>Sat, 17 Oct 2020 11:49:32 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200720201016Podcas-hm4rR6xfpsCzxW8RK1xcw4j9Mc8JGm.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-07-2020-10-16-Final.mp3" length="73945070" type="audio/mpeg"/>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-07-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 8: Chapter 8</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for October 23d 2020 Episode 8: Or is it Chapter 8?</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-08-2020-10-23-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+The man who parses XML faster than JSON, The Dev From The Deep South - Dave Jones</p><p>
+Technology History lessons in Schools</p><p>
+Chapters and interactivity</p><p>
+Locktag</p><p>
+Funding Tag</p><p>
+Transcript tag</p><p>
+The Namespace timing, phases and process</p><p>
+Digital money and podcasting</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 23 Oct 2020 19:26:31 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200820201023Podcas-mRC5pZ8HF6nPtDV1rXdFVk2mLL476n.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-08-2020-10-23-Final.mp3" length="74824978" type="audio/mpeg"/>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-08-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-08-Translation.srt" type="application/srt"/>
+    </item>
+    <item>
+      <title>Episode 9: Here come the pioneers</title>
+      <description><![CDATA[<p>Show Notes</p><p>
+<b>Podcasting 2.0 for October 30th 2020 Episode 9: Here come the pioneers</b></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-09-2020-10-30-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Big brass balls is what we have and we will swing them!</p><p>
+Where do podcasters and listeners (users) fit into the development cycle</p><p>
+Authoring tools and hosting</p><p>
+Specifically we focused on the following namespace tags:</p><p>
+host / guest</p><p>
+chapters</p><p>
+captions and transcripts</p><p>
+As always thank you to our Value 4 Value supporters for your Time Talent and Treasure!</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 30 Oct 2020 20:00:44 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC200920201030Podcas-Lgf32cgWhJHTmndm9F0NpB4NZxdrND.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-09-2020-10-30-Final.mp3" length="77678490" type="audio/mpeg"/>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-09-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 10: Now Entering Phase Two</title>
+      <description><![CDATA[<b>Podcasting 2.0 for November 6th 2020 Episode 10: Now Entering Phase Two</b>
+Not One Not Two But Three remote feeds today starting with the Dev Down South Dave Jones
+<a href="https://mp3s.nashownotes.com/PC20-10-2020-11-06-Final.mp3">Download the mp3</a>
+Podcast Feed
+PodcastIndex.org
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i>
+<b>Shownotes</b>
+	Adam & Dave discuss the week's developments on podcastindex.org
+	Kevin Finn & Tom Rossi from Buzzsprout join us to discuss their company and how they are bringing innovation and adoption to Podcasting 2.0
+	We also lift the veil on The Podcast Pledge Model that returns monetary Value for Value that will start the next phase: Re-tooling Podcasting as a platform of value.]]></description>
+      <pubDate>Fri, 06 Nov 2020 20:00:44 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC201020201106Podcas-ZV7ms5XRW9t58ntbVrTRT4WJdFKD2p.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-10-2020-11-06-Final.mp3" length="75300198" type="audio/mpeg"/>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Episode 11: Streaming Sats</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for November 13th 2020 Episode 11: Streaming Sats</b></p><p>
+Some call him Dave, the Dev from Down South, I call him the Dream Maker - Dave Jones Everybody!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-11-2020-11-13-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+More sexy namespace talk!</p><p>
+Lightning streaming sats in real time!</p><p>
+It's a great time to be in podcasting!</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 13 Nov 2020 20:25:53 GMT</pubDate>
+      <guid isPermaLink="false">http://adam.curry.com/html/PC201120201113Podcas-6QG54JmxJJpP8PL4BKdfFMTMBbhxFB.html</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-11-2020-11-13-Final.mp3" length="77728645" type="audio/mpeg"/>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-11-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://mp3s.nashownotes.com/PC20-11-Chapters.json" type="application/json+chapters"/>
+    </item>
+    <item>
+      <title>Episode 12: Breaking Code</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for November 20th 2020 Episode 12: Breaking Code</b></p><p>
+And now, the man who did a decade's work in 3 months - Dave "The Namespace Slayer" Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-12-2020-11-20-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Captions Bug Android</p><p>
+Namespace lockdown</p><p>
+Lock</p><p>
+Chapter</p><p>
+Transcript/Captions</p><p>
+Funding</p><p>
+Soundbite</p><p>
+Phase 2 tags</p><p>
+Person</p><p>
+Season</p><p>
+Location</p><p>
+Value</p><p>
+Hosters update</p><p>
+Austin Bitcoin meetup</p><p>
+Tribes rockin'</p><p>
+Breeze reference app</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 20 Nov 2020 20:46:12 GMT</pubDate>
+      <guid isPermaLink="false">PC2012</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-12-2020-11-20-Final.mp3" length="81694660" type="audio/mpeg"/>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-12-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 13: Fire in the Hole</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for November 27th 2020 Episode 13: Fire in the Hole</b></p><p>
+And now, the man who beat the Rona while Riding the Lightning - Dave "Fully Noded" Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+Austin Resident and CEO of Fireside Mr 5x5 - Dan Benjamin</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-13-2020-11-27-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Dan Benjamin from <a href="http://Fireside.fm">Fireside.fm</a> joins the board meeting to talk about our favorite topics: namespaces and lightning!</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 27 Nov 2020 20:07:35 GMT</pubDate>
+      <guid isPermaLink="false">PC2013</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-13-2020-11-27-Final.mp3" length="73175816" type="audio/mpeg"/>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-13-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 14: Stats and Facts</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for December 4th 2020 Episode 14: Stats and Facts</b></p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-14-2020-12-04-Final.mp3">Download the mp3</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Dave's Podcast Interview</p><p>
+Community Chapters</p><p>
+Namespace</p><p>
+Value running through sphinx</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 04 Dec 2020 20:18:36 GMT</pubDate>
+      <guid isPermaLink="false">PC2014</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-14-2020-12-04-Final.mp3" length="70509759" type="audio/mpeg"/>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-14-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 15: We're with the Band!</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for December 12th 2020 Episode 15: We're with the Band!</b></p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-15-2020-12-11-Final.mp3">Download the mp3</a></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Cridland stealing our hot namespace talk</p><p>
+Want sats for Dreb scott and phone boy</p><p>
+Inbound liquidity</p><p>
+Dinner with Paul - playing with the band</p><p>
+Deep data file</p><p>
+Jon Buda and Justin Jackson from <a href="http://Fireside.FM">Fireside.FM</a> join the board meeting</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 11 Dec 2020 19:49:26 GMT</pubDate>
+      <guid isPermaLink="false">PC2015</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-15-2020-12-11-Final.mp3" length="71234813" type="audio/mpeg"/>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-15-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 16: Fourth Quarter</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for December 18th 2020 Episode 16: Fourth Quarter</b></p><p>
+The man who put <b>Fredrick's Podcast</b> on the map - Mr Southern Bread Himself - Dave Jones</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-16-2020-12-18-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Graphene OS</p><p>
+Lightningifying</p><p>
+Ad revenue</p><p>
+Guardian Article</p><p>
+Stats</p><p>
+Martin's new features</p><p>
+Roelfy's End of Show Mix</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 18 Dec 2020 20:05:30 GMT</pubDate>
+      <guid isPermaLink="false">PC2016</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-16-2020-12-18-Final.mp3" length="67080717" type="audio/mpeg"/>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-16-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 17: Poppin' da Bean</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for December 21st 2020 Episode 17: Poppin' da Bean</b></p><p>
+The man who takes people so seriously, he <i>wrote </i>the person tag for the namespace - Mr Humanity himself: Dave Jones</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-17-2020-12-25-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Person tag</p><p>
+Where's my 2.0 certification logo?</p><p>
+New Media Show</p><p>
+Libsyn on board</p><p>
+Podbean will follow!</p><p>
+Donations</p><p>
+Apple will follow. Or not.</p><p>
+-- The man who deserve's more credit than he's received for the success of podcasting 2.0</p><p>
+James <a href="https://james.cridland.net/biography/">Cridland</a></p><p>
+Editor of Podnews</p><p>
+Host of <a href="https://www.podland.news/">Podland</a> - a podcast about podcasting </p><p>
+Liz Gateley</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 25 Dec 2020 21:09:17 GMT</pubDate>
+      <guid isPermaLink="false">PC2017</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-17-2020-12-25-Final.mp3" length="76606111" type="audio/mpeg"/>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-17-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 18: Taking a Tenet</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for January 1st 2021 Episode 18: Taking a Tenet</b></p><p>
+The guy who put the D-J in Top40 Radio, a renaissance man of the 21st century - I give you Mr. Dave Jones</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-18-2021-01-01-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Dan Benjamin Founder of Fireside.FM</p><p>
+Stacking Sats</p><p>
+Namespace -> </p><p>
+Castopod</p><p>
+IPFS</p><p>
+IPNS</p><p>
+Lightining</p><p>
+Sphinx</p><p>
+Breeze</p><p>
+Strike</p><p>
+Voltage</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 01 Jan 2021 21:24:21 GMT</pubDate>
+      <guid isPermaLink="false">PC2018</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-18-2021-01-01-Final.mp3" length="116028022" type="audio/mpeg"/>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-18-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 19: Scaling Up</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for January 8th 2021 Episode 19: Scaling up</b></p><p>
+The man who Explains podcasting 2.0 with far less hype than myself - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-19-2021-01-08-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Scaling Lightning</p><p>
+Greenley</p><p>
+Board of Governors</p><p>
+Del-Ray McKessen</p><p>
+Martin Mouritzen</p><p>
+Podfriend</p><p>
+Longest penis TV show</p><p>
+User feedback</p><p>
+Training video</p><p>
+Why no chapter creation?! LOL</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 08 Jan 2021 19:48:57 GMT</pubDate>
+      <guid isPermaLink="false">PC2019</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-19-2021-01-08-Final.mp3" length="62411591" type="audio/mpeg"/>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-19-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 20: Mapping the Road</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for January 15th 2021 Episode 20: Mapping the Road</b></p><p>
+The man who can bake an endpoint that changes humanity before breakfast - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-20-2021-01-15-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+People search</p><p>
+Bugs in the overall system</p><p>
+Routing around it</p><p>
+<i>Same goes for the namespace tags</i></p><p>
+Developers and users determine the path</p><p>
+All they need is a runway</p><p>
+Signal Down</p><p>
+Decentralized is the ONLY way</p><p>
+matrix.org -> still has a company attached to it (is it interchangeable like the Index?)</p><p>
+Hot Namespace Talk</p><p>
+Lightning developments</p><p>
+Roadmap to services over lightning</p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 15 Jan 2021 20:13:20 GMT</pubDate>
+      <guid isPermaLink="false">PC2020</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-20-2021-01-15-Final.mp3" length="79226089" type="audio/mpeg"/>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-20-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 21: Hooray for Hollywood</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for January 22nd 2021 Episode 21: Hooray for Hollywood</b></p><p>
+The man who can memorize more transactions than the mempool - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-21-2021-01-22-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+Check out all the 2.0 apps and hosting companies: <a href="http://newpodcastapps.com/">newpodcastapps.com</a></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Blubrry</p><p>
+Todd Cochrane - Founder of Blubrry Podcasting drop by for some <i>Hot</i> namespace talk</p><p>
+Mike Dell - Customer Support Manager Blubrry Podcasting</p><p>
+Mike Dell - Customer Success Affiliate Blubrry Podcasting</p><p>
+IPFS</p><p>
+Apple</p><p>
+Podcasting History</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 22 Jan 2021 20:00:28 GMT</pubDate>
+      <guid isPermaLink="false">PC2021</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-21-2021-01-22-Final.mp3" length="66505501" type="audio/mpeg"/>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-21-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 22: This Train is Rolling</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for January 29th 2021 Episode 22: This Train is Rolling!</b></p><p>
+The man who  Spends $16 dollars to learn 64 new languages - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-22-2021-01-29-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Languages seemed like a big deal</p><p>
+Podstation v4v</p><p>
+Podverse 3.0 new app in beta</p><p>
+Podcasterwallet.com</p><p>
+RMHC default splits</p><p>
+Hot Namespace talk</p><p>
+Libsyn open area</p><p>
+IPFS won't go away alternate enclosure</p><p>
+5% of feeds are 2.0</p><p>
+RSS.com</p><p>
+Ben Richardson</p><p>
+Alberto Betella</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 29 Jan 2021 19:33:50 GMT</pubDate>
+      <guid isPermaLink="false">PC2022</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-22-2021-01-29-Final.mp3" length="59002297" type="audio/mpeg"/>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-22-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 23: Moving to Milli's</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for February 5th 2021 Episode 23: Moving to Milli's</b></p><p>
+The man who  now the longitude and latitude of every feed in the index - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-23-2021-02-05-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+The Dev Zoom call</p><p>
+Slides</p><p>
+Cams on</p><p>
+Ideas</p><p>
+Spencer recipes</p><p>
+Projects on top of the index</p><p>
+The Feed Archivist</p><p>
+It's all UI/UX from here on out</p><p>
+<i><b>Remember Your Value Sliders/Knobs</b></i></p><p>
+<i><b>Remember your Boost Buttons!</b></i></p><p>
+Equity = FOSS</p><p>
+Hot namespace talk</p><p>
+Location</p><p>
+Seasons</p><p>
+Episodes</p><p>
+Person</p><p>
+Podfriend</p><p>
+Podcast Addict</p><p>
+Podverse</p><p>
+Podcasterwallet.com</p><p>
+Podland Cridland - Interviewed Spotify Anchor lady - TAGS?</p><p>
+Dave on <a href="https://podcastindex.org/podcast/169991">Pragmatic Podcast</a></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 05 Feb 2021 20:01:18 GMT</pubDate>
+      <guid isPermaLink="false">PC2023</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-23-2021-02-05-Final.mp3" length="66569449" type="audio/mpeg"/>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-23-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 24: Value Economics</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for February 12th 2021 Episode 24: Value Economics</b></p><p>
+And In Alabama The man who can calculate 100% of any value split - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-24-2021-02-12-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+The genius behind in-app community chapters of Hypercatcher ... David Norman</p><p>
+<a href="http://hypercatcher.com">Hypercatcher</a></p><p>
+<a href="http://studio.hypercatcher.com">Hypercatcher Studio</a></p><p>
+<a href="https://www.notater.co/">Notater</a></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 12 Feb 2021 20:08:36 GMT</pubDate>
+      <guid isPermaLink="false">PC2024</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-24-2021-02-12-Final.mp3" length="68562173" type="audio/mpeg"/>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-24-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 25: Can't Drive 55</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for February 19th 2021 Episode 25: Can't Drive 55</b></p><p>
+And In Alabama The man so powerful, he controls the Podcast Climate - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-25-2021-02-19-Final.mp3">Download the mp3</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+Podland - Climate Cridland</p><p>
+Tom Rossi Steve Jobs</p><p>
+Buzzsprout for me with Value block</p><p>
+https://www.podcastersdeclare.com/</p><p>
+<i>Podcasting 2.0 We'll stick it in</i></p><p>
+Lightning Economics: How I Learned to Stop Worrying and Love Inbound Liquidity | by Roy Sheinfeld | Breez Technology | Feb, 2021 | Medium</p><p>
+Fri, 19 Feb 2021 19:23</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 19 Feb 2021 19:57:48 GMT</pubDate>
+      <guid isPermaLink="false">PC2025</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-25-2021-02-19-Final.mp3" length="64176423" type="audio/mpeg"/>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-25-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 26: Manning Battlestations</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for February 26th 2021 Episode 26: Manning Battlestations</b></p><p>
+And In Alabama The man who who writes prose as well as he codes - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-25-2021-02-26-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the Brazilian German Italian Stallion, the developer of the podStation chrome extension podcast player</p><p>
+Guilherme Dellagustin <a href="https://de.linkedin.com/pub/guilherme-dellagustin/28/957/154">linkedin</a></p><p>
+Topics</p><p>
+Paying listeners data for tracking</p><p>
+Buzzsprout is kicking ass</p><p>
+Cast coverage clubhouse</p><p>
+Dave's podcasterwallet.com bug</p><p>
+Sound bite AI</p><p>
+Here’s the link https://www.airr.io</p><p>
+Sphinx Home Connect</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 26 Feb 2021 20:09:04 GMT</pubDate>
+      <guid isPermaLink="false">PC2026</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-26-2021-02-26-Final.mp3" length="69940812" type="audio/mpeg"/>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-26-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 27: Certifying the Universe</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for March 5th 2021 Episode 27: Certifying The Universe</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+And In Alabama Ladies, He's the OG Dev named Dave - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-27-2021-03-05-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+Podcasting is like Bitcoin</p><p>
+Podland DAI transcript offset</p><p>
+Decentralize Social Media, Wikipedia Co-Founder Says</p><p>
+Journalist v4v explanation</p><p>
+Time Value Preference - Algos needed </p><p>
+Fiat displays needed</p><p>
+LNPay keysend inbound integration</p><p>
+Captivate Transcripts</p><p>
+Certification</p><p>
+Audiobooks</p><p>
+Orange Pill To The Moon Documentary</p><p>
+NFT's</p><p>
+BitPay</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 05 Mar 2021 20:07:07 GMT</pubDate>
+      <guid isPermaLink="false">PC2027</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-27-2021-03-05-Final.mp3" length="75087666" type="audio/mpeg"/>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-27-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 28: We got the cat by the tail</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for March 11th 2021 Episode 28: We got the cat by the tail</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome Paul Itoi and Evan Feenstra from Sphinx Chat to the Board meeting to discuss the Value 4 Value Podcast Payment System</p><p>
+And In Alabama, The only man who can chase a runaway SQL Query - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-28-2021-03-12-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+Apple +Follow from Odeo</p><p>
+Here's my News Slug: Apple disappoints with new Beta. Ignores 12% of podcasts with enhanced features over circling back to 2008 when Odeo coined +Follow before the platform pivoted to become twitter</p><p>
+Podcasting 2.0 Explainer Doc</p><p>
+Mental Fuel of Motivation</p><p>
+Microdosing Mental Fuel</p><p>
+Lightning labs interview Orange Pill Ryan Gentry</p><p>
+13.2% namespace adoption</p><p>
+Free = Abuse</p><p>
+<a href="https://sphinx.chat/">Sphinx Chat</a> - StakWork</p><p>
+Paul Itoi</p><p>
+Even Feenstra</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 12 Mar 2021 19:58:50 GMT</pubDate>
+      <guid isPermaLink="false">PC2028</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-28-2021-03-12-Final.mp3" length="69933602" type="audio/mpeg"/>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-28-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 29: The Castaways</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for March 19th 2021 Episode 29: The Castaways</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome Benjamin Bellamy from Castopod</p><p>
+And In Alabama, The Nestor of the Namespace - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up everyone!</p><p>
+<a href="https://mp3s.nashownotes.com/PC20-29-2021-03-19-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+Chapters Galore</p><p>
+Marco overcast images and links</p><p>
+Hypercatcher bucket</p><p>
+Cancel Canon coming for Patreon and Podcast Advertisers</p><p>
+Map guys</p><p>
+Bubble graph</p><p>
+Breeze</p><p>
+Existing 2.0 player 'Anytime'</p><p>
+Code is available</p><p>
+Benjamin Bellamy</p><p>
+Castopod</p><p>
+Yassine - Co - founder</p><p>
+Freeform rss</p><p>
+Podlibre.org</p><p>
+NextCloud integration via cpanel</p><p>
+Dircast</p><p>
+Podsfa.re</p><p>
+Podcasters Declare: an Open Letter to Apple</p><p>
+Podlibre</p><p>
+NLnet; Welcome to NLnet Foundation</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 19 Mar 2021 23:53:20 GMT</pubDate>
+      <guid isPermaLink="false">PC2029</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-29-2021-03-19-Final.mp3" length="76722095" type="audio/mpeg"/>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-29-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 30: Digital Abolitionists</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for March 26th 2021 Episode 30: Digital Abolitionists</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome Mitch Downey from <a href="https://podverse.fm/">Podverse.FM</a></p><p>
+And In Alabama, The Boy Wonder of Boosting- My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-30-2021-03-26-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+Your Pilot in Charge of the Podverse - Young Master Mitch Downey</p><p>
+<a href="http://Podverse.FM">Podverse.FM</a></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 26 Mar 2021 19:19:09 GMT</pubDate>
+      <guid isPermaLink="false">PC2030</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-30-2021-03-26-Final.mp3" length="79718549" type="audio/mpeg"/>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-30-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 31: Cooking with Gas</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for April 2nd 2021 Episode 31: Cooking with Gas</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome Sizzling Sam Sethi to the Board Meeting</p><p>
+And In Alabama, - The man all the ladies want to rebalance their channels with - My Friend on the other end - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-31-2021-04-02-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome the newly Podcasting 2.0 Certified Members!</p><p>
+<b>Sam Sethi</b></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 02 Apr 2021 19:15:03 GMT</pubDate>
+      <guid isPermaLink="false">PC2031</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-31-2021-04-02-Final.mp3" length="77960613" type="audio/mpeg"/>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-31-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 32: Lightning in a Bottle</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for April 9th 2021 Episode 32: Lightning in a bottle</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome The Major-Domo of the Lightning Network - Ryan Gentry</p><p>
+And In Alabama, The Czar of Rebalancing Channels - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-30-2021-03-26-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+The Major-Domo of the Lightning Network - Ryan Gentry</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 09 Apr 2021 19:03:40 GMT</pubDate>
+      <guid isPermaLink="false">PC2032</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-32-2021-04-09-Final.mp3" length="73460446" type="audio/mpeg"/>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-32-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 33: Serving Billions Daily</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for April 16th 2021 Episode 33: Serving Billions Daily</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome The Man with the Bag - Bryan Barletta</p><p>
+And In Alabama, The man who has the pub for your sub - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-33-2021-04-16-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+User defined Boosts</p><p>
+$12 average daily</p><p>
+PodcastSubPub</p><p>
+<a href="https://github.com/Podcastindex-org/activitypub-spec-work">ActivityPub for Podcasts</a></p><p>
+LNPay</p><p>
+User Agents</p><p>
+The Man with the Bag - <a href="https://bryanbarletta.medium.com/">Bryan Barletta</a></p><p>
+<a href="https://soundsprofitable.com/about">Sounds Profitable</a></p><p>
+Change Advertising</p><p>
+Remove middlemen ad agencies (not creative) and buyers/exchanges</p><p>
+Advertising 2.0</p><p>
+Advertiser wallet</p><p>
+At time code pay out splits</p><p>
+Podcaster</p><p>
+Listener</p><p>
+Podcast App</p><p>
+Make the obvious place for a buy the podcast app</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 16 Apr 2021 19:38:22 GMT</pubDate>
+      <guid isPermaLink="false">PC2033</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-33-2021-04-16-Final.mp3" length="81459558" type="audio/mpeg"/>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-33-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 34: All Hands on Deck</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for April 23d 2021 Episode 34: All Hands On Deck</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome The Pirates of Podcast Hosting from Captivate.FM</p><p>
+And In Alabama, The man who has a Head for Hydra and a Body for Podping - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-34-2021-04-23-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+multiple fee splits and 696969 TLV</p><p>
+NPR subscriptions move spotify</p><p>
+'Owning' the listener</p><p>
+Spotify subscription without tax</p><p>
+What junk do you give away for free then?</p><p>
+Only apple or spotify</p><p>
+Why bother with free content if you can do it exclusively?</p><p>
+Hydra Podping</p><p>
+Anchor article</p><p>
+Captivate.FM</p><p>
+Mark Asquith </p><p>
+Kieran McKeefery</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 23 Apr 2021 19:03:39 GMT</pubDate>
+      <guid isPermaLink="false">PC2034</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-34-2021-04-23-Final.mp3" length="111659826" type="audio/mpeg"/>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-34-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 35: Fully Noded and Double Gated</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for April 30th 2021 Episode 35: Fully Noded and Double Gated</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org and welcome The Swiss Army Knife of the Index - Aric Mackie</p><p>
+And In Alabama, The man who de-dupes more feeds than any human being - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-35-2021-04-30-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Mic and dimmer</p><p>
+podping</p><p>
+Roy Update</p><p>
+67K transactions</p><p>
+Podverse</p><p>
+Killing Ed Documentary on NA-Tube and Podfriend</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 30 Apr 2021 18:56:14 GMT</pubDate>
+      <guid isPermaLink="false">PC2035</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-35-2021-04-30-Final.mp3" length="65966960" type="audio/mpeg"/>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-35-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 36: Crawling Our Life Away</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for May 7th 2021 Episode 36: Crawling Our Life Away</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org</p><p>
+And In Alabama, Hidden in the Hive, Building his blocks - Dave Jones!</p><p>
+Crank those value sliders up on any of these value4value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-36-2021-05-07-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Apple's Crawler</p><p>
+Disappointing Apple Coverage </p><p>
+Killing Ed Documentary on NA-Tube and Podfriend</p><p>
+Curiocaster</p><p>
+New Podverse</p><p>
+New Breez</p><p>
+Sats - LNPay - Keep your eye on this space!</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 07 May 2021 19:21:05 GMT</pubDate>
+      <guid isPermaLink="false">PC2036</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-36-2021-05-07-Final.mp3" length="68124884" type="audio/mpeg"/>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-36-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 37: What's Up Doc?</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for May 14th 2021 Episode 37: What's Up Doc?</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with Alecks from NA-Tube and Martin from Podfriend and we've got video on the agenda!</p><p>
+And In Alabama, Adjusting the API and Encoding the Endpoints  - My Friend on the Other End -- Dave Jones!</p><p>
+Crank those value sliders up on any of these value 4 value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-37-2021-05-14-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Bitcoin vs Superchat</p><p>
+PodPing</p><p>
+From NA-Tube International - The Honorable Mr. Alecks Gates</p><p>
+From Podfriend Enterprises - Mr. Martin Mouritzen</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 14 May 2021 20:11:44 GMT</pubDate>
+      <guid isPermaLink="false">PC2037</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-37-2021-05-14-Final.mp3" length="78381289" type="audio/mpeg"/>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-37-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 38: Don't Feed The Monkeys</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for May 21st 2021 Episode 38: Don't Feed The Monkeys</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with a review of The Ambies as only Adam & Dave can!</p><p>
+And In Alabama, Proud father of two daughters and a son  - My Friend on the Other End -- Dave Jones!</p><p>
+Crank those value sliders up on any of these value 4 value streaming payment apps:</p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-38-2021-05-21-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 21 May 2021 19:44:24 GMT</pubDate>
+      <guid isPermaLink="false">PC2038</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-38-2021-05-21-Final.mp3" length="77025847" type="audio/mpeg"/>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-38-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 39: License to Kill</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for May 28th 2021 Episode 39: License to Kill</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with Boost moments and hot namespace talk!</p><p>
+And In Alabama, The man who closes Github Issues faster than any human being:  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-39-2021-05-28-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Dave's Possum</p><p>
+WebLN</p><p>
+Web assembly</p><p>
+Closing Namespace phase 3</p><p>
+License / Block / Moderate</p><p>
+Licensing tag. Go to spotify and do drm. V4V only works.</p><p>
+License to link? Copying blog content?</p><p>
+Anchor you get what you pay for</p><p>
+You need some piracy</p><p>
+MSFT example</p><p>
+We need a PodPing on-boarding doc</p><p>
+API from Podchaser</p><p>
+Curiocaster</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 28 May 2021 19:29:12 GMT</pubDate>
+      <guid isPermaLink="false">PC2039</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-39-2021-05-28-Final.mp3" length="73818428" type="audio/mpeg"/>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-39-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 40: Miami or Bust!</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for June 4th 2021 Episode 40: Miami or Bust</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with a Bitcoin 2021 preview and full explanation of <a href="https://podping.watch/">podping</a></p><p>
+And In Alabama, the man you call for all your gooey possum cleanup:  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-40-2021-06-04-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+<b>A historic moment of conversion!</b></p><p>
+I had to cancel my recurring PayPal donation because I’ve been sending you guys too many sats with Podfriend. Keep up the great work and GO PODCASTING!!!</p><p>
+Chad Farrow</p><p>
+Your Boosting is making me Blush</p><p>
+Dave's Possum</p><p>
+Closing Namespace phase 3</p><p>
+Podchaser / Podcast Guru?</p><p>
+Buzzsprout Value Tag</p><p>
+Mark Hall</p><p>
+David Knight</p><p>
+Whitney Webb</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 04 Jun 2021 13:57:14 GMT</pubDate>
+      <guid isPermaLink="false">PC2040</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-40-2021-06-04-Final.mp3" length="61034833" type="audio/mpeg"/>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-40-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 41: We are the Super Spreaders</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for June 11th 2021 Episode 41: We are the Super Spreaders</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with a recap of Bitcoin2021 and important Hot namespace Talk</p><p>
+And In Alabama, the man who hasn't changed in the 7 years since I last saw him:  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-41-2021-06-11-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Bitcoin 2021 recap</p><p>
+Comicon meets Fyre Festival</p><p>
+Airbnb</p><p>
+Meetings</p><p>
+El Salvador</p><p>
+Volcanic energy</p><p>
+Lots of sats over night</p><p>
+Miami super spreader event</p><p>
+Facebook</p><p>
+Tips</p><p>
+PC20 gives devs money out of the box</p><p>
+Re-explain WebLN</p><p>
+Marketing and Tina</p><p>
+Radio Ink cover</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 11 Jun 2021 21:23:45 GMT</pubDate>
+      <guid isPermaLink="false">PC2041</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-41-2021-06-11-Final.mp3" length="71985573" type="audio/mpeg"/>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-41-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 42: All a Flutter</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for June 18th 2021 Episode 42: All a Flutter</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org highlighting the definition of Podcast vs Netcast</p><p>
+And In Alabama, The man who can give you an alternate to <b>your</b> enclosure Ladies...  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-42-2021-06-18-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Dave Jackson School of Podcasting</p><p>
+Big Players retracting from open ecosystem</p><p>
+Apple Subscriptions</p><p>
+Spotify no more RSS</p><p>
+Hosting guys, this is getting real. Stay Strong</p><p>
+What is a podcast email Kazykstan</p><p>
+Apple podcasts on android</p><p>
+Sofia with an F misogynists less than Rogan</p><p>
+Flutter</p><p>
+IPFS no longer optional with GDPR liability</p><p>
+Alternate enclosure</p><p>
+Castopod</p><p>
+Lock tag LOL</p><p>
+Breez Video Curiocaster</p><p>
+Wallet withdrawls</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 18 Jun 2021 19:36:49 GMT</pubDate>
+      <guid isPermaLink="false">PC2042</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-42-2021-06-18-Final.mp3" length="79691904" type="audio/mpeg"/>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-42-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 43: What are the Building?</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for June 25th 2021 Episode 43: What are they Building?</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org including reasons for Open Sourcing a project and   a discussion of decentralized distribution business and technology</p><p>
+And In Alabama, The man who always delivers 5 nines uptime...  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-43-2021-06-25-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+Try a new podcast app</p><p>
+New podfriend after ragging</p><p>
+ Open sourced</p><p>
+What is Brian of London building?</p><p>
+Stacy to anchor</p><p>
+Aric update</p><p>
+502's</p><p>
+Amazon Art19</p><p>
+Tanzania BTC currency</p><p>
+Podcast movement - Fireside</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 25 Jun 2021 19:36:56 GMT</pubDate>
+      <guid isPermaLink="false">PC2043</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-43-2021-06-25-Final.mp3" length="74287692" type="audio/mpeg"/>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-43-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 44: Separating the Nodes from the Noobs</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for July 2nd 2021 Episode 44: Separating the Nodes from the Noobs</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org including </p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, The man who can decode a TLV from a NodeID at the drop of a hat.  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-44-2021-07-02-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>Shownotes</b></p><p>
+USB Sucks</p><p>
+Touch Screen</p><p>
+Headphone amp power</p><p>
+9v to the rescue</p><p>
+Dimmer buzz on EV320</p><p>
+Value 4 Value lnd</p><p>
+Podcast movement - Fireside</p><p>
+Apple Downloads 27%</p><p>
+Sphinx</p><p>
+N2N2</p><p>
+Aric update</p><p>
+TBL story</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 02 Jul 2021 20:10:22 GMT</pubDate>
+      <guid isPermaLink="false">PC2044</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-44-2021-07-02-Final.mp3" length="86973171" type="audio/mpeg"/>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-44-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 45: Pressin' The Flesh and Kissin' Babies</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for July 9th 2021 Episode 45: Pressin' The Flesh and Kissin' Babies</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org joined by Aric for an overview of the new website and much much more!</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, The Druid of the GUID  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-45-2021-07-09-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+If you're losing revenue from apple bug</p><p>
+Consider pc20!</p><p>
+<a href="https://www.podcastone.com/About">PodcastOne</a></p><p>
+M5M apps do shownotes yay!</p><p>
+ Wordpress plugin v4v</p><p>
+Tip jar screen shot</p><p>
+Curiocaster notes with tips</p><p>
+Sphinx open source help?</p><p>
+N2N2?</p><p>
+Spotify</p><p>
+ Acast rss - they showed their cards too early. Scared?</p><p>
+ Spotify Q1</p><p>
+MAU down-Rogan new users up</p><p>
+Never used Podcasting. Only "audio" platform</p><p>
+Arrogance</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 09 Jul 2021 19:51:43 GMT</pubDate>
+      <guid isPermaLink="false">PC2045</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-45-2021-07-09-Final.mp3" length="79843623" type="audio/mpeg"/>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-45-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 46: Sliding into your PM's</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for July 16th 2021 Episode 46: Sliding into your PM's</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org including the Pocketcasts acquisition and the RRS debate Redux</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, The man who shows up in my PM's  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-46-2021-07-16-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+His clubhouse doing?</p><p>
+Wordpress pocketcasts</p><p>
+Investment in hosting company</p><p>
+PM email alerts</p><p>
+Breez WebLN</p><p>
+Comments follow up</p><p>
+RSS Jihad</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 16 Jul 2021 19:35:36 GMT</pubDate>
+      <guid isPermaLink="false">PC2046</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-46-2021-07-16-Final.mp3" length="76339349" type="audio/mpeg"/>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-46-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 47: Mongo in the Congo</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for July 23d 2021 Episode 47: Mongo in the Congo</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org including some GREAT on-boarding ideas for the Value 4 Value streaming payment ecosystem</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, Our man representing at Podcast Movement  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-47-2021-07-23-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+Castopod fixed!</p><p>
+Satoshi Faucet</p><p>
+Dupes in the Index</p><p>
+Fast Follow</p><p>
+Tina Profile picture of Dreb - Podfriend Monster Blanket</p><p>
+Boostagram</p><p>
+Marker in-app for 1 sat</p><p>
+Chapter link behind paywall</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 23 Jul 2021 20:08:57 GMT</pubDate>
+      <guid isPermaLink="false">PC2047</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-47-2021-07-23-Final.mp3" length="83532217" type="audio/mpeg"/>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-47-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 48: Heartbreak Hotel</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for July 30th 2021 Episode 48: Heartbreak Hotel</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with a dive into Value4Value and we welcome Curiocaster developer Steven Bell to the board room!</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, My peaceful port in a stormy sea of media madness  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value 4 value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://www.fountain.fm/">Fountain.FM</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-48-2021-07-30-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+Steven Bell</p><p>
+From Texas</p><p>
+I'm a self taught javascript programmer that enjoys building web apps. If you need someone to work in the San Antonio area, let me know.</p><p>
+How about Hosting interface, like WordPress plugin?</p><p>
+Adam's Heartbreak - Hosting companies</p><p>
+Why V4V? - Sway with Sridhar Ramaswamy [clip]</p><p>
+Rogan talked about the concept yesterday with Yiannis Pappas [clip]</p><p>
+Mind blown when I heard two veterans Todd and Rob on NMW [clip]</p><p>
+Todd and Rob took the Blue pill sadly [clip]</p><p>
+Another podcast I listened to broke my heart this week, but also inspired me: Podland Sharon Taylor of Omny Studio [clip]</p><p>
+Castos Host video on v4v [clip]</p><p>
+API - to Castos from app. Same goes for Blubrry</p><p>
+Castos $100k?</p><p>
+Castopod fixed!</p><p>
+Boostagram</p><p>
+Fast Follow</p><p>
+Satoshi Faucet</p><p>
+Dupes in the Index</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 30 Jul 2021 19:38:51 GMT</pubDate>
+      <guid isPermaLink="false">PC2048</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-48-2021-07-30-Final.mp3" length="76449377" type="audio/mpeg"/>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-48-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 49: BOTG</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for August 6th 2021 Episode 49: BOTG</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org live from Podcast Movement in Nashville Tennessee and we're joined by Renowned Industry Expert Daniel J Lewis</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Nashville Tennessee, The True Live Music Capitol of the World  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value4value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://www.fountain.fm/">Fountain.FM</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-48-2021-07-30-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+Daniel J Lewis</p><p>
+<i>Podcasting advocate and educator, award-winning host of The Audacity to Podcast, creator of My Podcast Reviews, curator of Podcast Industry Insights.</i></p><p>
+Boostagram</p><p>
+Fast Follow</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 06 Aug 2021 18:56:40 GMT</pubDate>
+      <guid isPermaLink="false">PC2049</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-49-2021-08-06-Final.mp3" length="50703509" type="audio/mpeg"/>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-49-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 50: Max Boost Time</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for August 13th 2021 Episode 50: Max Boost Time</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org with free software entrepreneur Max Hillebrand. We go deep on how all this bitcoin lightning stuff works. An outstanding board meeting!</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, The only man who knows every TLV number by heart  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value4value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://www.fountain.fm/">Fountain.FM</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-50-2021-08-13-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+Max Hillebrand</p><p>
+From Prague</p><p>
+<a href="https://wasabiwallet.io/">wasabiwallet.io</a></p><p>
+DSC is 17 today</p><p>
+Boostagram</p><p>
+Boostagram limits</p><p>
+Rumble -> NATube opportunity</p><p>
+Martin on podland</p><p>
+Fast Follow</p><p>
+Mike Clark -> initiated Boostagrams @aerostatica</p><p>
+Adam Curry -> initiated Boostaslam adam@curry.com</p><p>
+Join the Wasabi Bitcast Podcast</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 13 Aug 2021 20:27:20 GMT</pubDate>
+      <guid isPermaLink="false">PC2050</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-50-2021-08-13-Final.mp3" length="97606680" type="audio/mpeg"/>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-50-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 51: Preserve, Protect and Extend</title>
+      <description><![CDATA[<p><b>Shownotes</b></p><p>
+<b>Podcasting 2.0 for August 20th 2021 Episode 51: Preserve, Protect and Extend</b></p><p>
+Adam & Dave discuss the week's developments on podcastindex.org as Boostagram week is upon us and we're on the precipice of Phase 4 of the podcast namespace. Boost!!!</p><p>
+I'm Adam Curry in the Heart of Hill Country Texas</p><p>
+And In Alabama, He's a Phenom in the art of First In First Out  - My Friend on the Other End -- Dave Jones!</p><p>
+<i>Crank those value sliders up on any of these value4value streaming payment apps:</i></p><p>
+<a href="https://breez.technology/">Breez app</a></p><p>
+<a href="https://curiocaster.com/">CurioCaster</a></p><p>
+<a href="https://www.fountain.fm/">Fountain.FM</a></p><p>
+<a href="https://podfriend.com/">Podfriend</a></p><p>
+<a href="https://podstation.github.io/">Podstation Browser extension</a></p><p>
+<a href="https://podverse.com">Podverse</a></p><p>
+<a href="https://sphinx.chat/">Sphinx Chat App</a></p><p>
+<a href="https://mp3s.nashownotes.com/PC20-51-2021-08-20-Final.mp3">Download the mp3</a></p><p>
+<a href="http://Preservepodcasting.com">Preservepodcasting.com</a></p><p>
+Check out the podcasting 2.0 apps and services <a href="http://newpodcastapps.com">newpodcastapps.com</a></p><p>
+<i>Support us with your Time Talent and <a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&fromUL=true&country.x=US&locale.x=en_US">Treasure</a></i></p><p>
+<b>ShowNotes</b></p><p>
+Positioning</p><p>
+The Podcast Index is here to preserve, protect and extend the open, independent podcasting ecosystem.</p><p>
+We do this by enabling developers to have access to an open, categorized index that will always be available for free, for any use.</p><p>
+Try a <a href="http://newpodcastapps.com/">new podcast app</a> today and see how much better the experience can be.</p><p>
+Survival podcast</p><p>
+CurioCaster RSS</p><p>
+Please add tracking because you removed tracking.</p><p>
+Boostagram amounts off on satoshi stream</p><p>
+Boost a gram Corner drop</p><p>
+Alecks Gates - Medium tag inventor</p><p>
+Keywords</p>]]></description>
+      <pubDate>Fri, 20 Aug 2021 20:23:55 GMT</pubDate>
+      <guid isPermaLink="false">PC2051</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-51-2021-08-20-Final.mp3" length="70881847" type="audio/mpeg"/>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-51-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 52: Celebrating Our First Anniversary</title>
+      <description><![CDATA[<div>
+<p><strong>Podcasting 2.0 for September 3d 2021 Episode 52: Celebrating Our First Anniversary</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with special board room guest, V4V Podcaster OKIN from Namibia</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, The man who has been making my technology dreams come true for over a decade- My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-51-2021-08-20-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p>Dave new exhaust</p>
+<p>Dev Call -&gt; Commenting</p>
+<p>Namespace Phase IV</p>
+<p>CurioBlaster RSS generator</p>
+<p><a href="https://www.leadingthebleeding.com/p/podcast-gear-guide/" target="_blank" rel="noopener">Leading the Bleeding</a></p>
+<p>Apple Subs 2k/month exciting?</p>
+<p><a href="https://newsroom.spotify.com/2021-08-19/making-spotifys-exclusive-content-inclusive-to-creators-and-listeners/?utm_source=podnews.net&amp;utm_medium=web&amp;utm_campaign=podnews.net:2021-08-23" target="_blank" rel="noopener">Spotify exclusives disappear</a></p>
+<p><a href="https://www.businessinsider.com/spotify-leaked-data-gimlet-podcast-studio-struggled-2021-8?r=AU&amp;IR=T&amp;utm_source=podnews.net&amp;utm_medium=web&amp;utm_campaign=podnews.net:2021-08-24" target="_blank" rel="noopener">Gimlet unhappy</a></p>
+<p><strong>Nikolai OKIN Tjongarero</strong></p>
+</div>
+<div><small>Last Modified 09/03/2021 14:09:15 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC205220210903Podcas-th1rD7n0bGwFCnh9qKhjllVjLVR87s.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 03 Sep 2021 19:26:53 +0000</pubDate>
+      <guid isPermaLink="false">Copy - PC2052</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-52-2021-09-03-Final.mp3" length="78100420" type="audio/mpeg"/>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-52-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 53: Fully Tagged and Noded</title>
+      <description><![CDATA[<div>
+<p><strong>Podcasting 2.0 for September 10th 2021 Episode 53: Fully Tagged and Noded</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, The man who's lightning channels are always balanced- My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-53-2021-09-10-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p>Drywall is up!</p>
+<p>Breez Boostagrams - Roy amount change</p>
+<p>Breez 1 BTC from Podcasting 2.0</p>
+<p>Leaderboard Boostagrams</p>
+<p>CurioCaster RSS Generator</p>
+<p>PodPing hive writer</p>
+<p>Dave's interview tour</p>
+<p>LNPay service</p>
+<p>Namespace Phase IV</p>
+<p>Self Hosting Noise out there</p>
+<p><a href="https://www.leadingthebleeding.com/p/podcast-gear-guide/" target="_blank" rel="noopener">Leading the Bleeding</a></p>
+<p><a href="https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html" target="_blank" rel="noopener">NYTimes climate btc article - Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?</a></p>
+<p><a href="https://newsroom.spotify.com/2021-08-19/making-spotifys-exclusive-content-inclusive-to-creators-and-listeners/?utm_source=podnews.net&amp;utm_medium=web&amp;utm_campaign=podnews.net:2021-08-23" target="_blank" rel="noopener">Spotify exclusives disappear</a></p>
+</div>
+<div><small>Last Modified 09/10/2021 14:06:12 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC205320210910Podcas-2w7PjtDFJKL7g4Tkmn8pFgbgGQPbWj.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 10 Sep 2021 19:07:28 +0000</pubDate>
+      <guid isPermaLink="false">PC2053</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-53-2021-09-10-Final.mp3" length="73399946" type="audio/mpeg"/>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-53-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 54: Power to the People</title>
+      <description><![CDATA[<div>
+<p><b>Podcasting 2.0 for September 17th 2021 Episode 54: Power to the People</b></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org and we welcome Haas McCook to the board meeting for a grilling on bitcoin energy usage.</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, Whatever you do Don't call him Tiny Tim.... Say hello to - My Friend on the Other End -- Dave Jones!</p>
+<p><span><i>Crank those value sliders up on any of these value4value streaming payment apps:</i></span></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><i>Value4Value.io Explains how this works!</i></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-53-2021-09-10-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services<span>&nbsp;</span><a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><i>Support us with your Time Talent and<span>&nbsp;</span><a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></i></p>
+<p><span><b>ShowNotes</b></span></p>
+<p><span>Positioning</span></p>
+<p>Namespace Phase IV</p>
+<p>Self Hosting Noise out there</p>
+<p><a href="https://www.leadingthebleeding.com/p/podcast-gear-guide/" target="_blank" rel="noopener">Leading the Bleeding</a></p>
+<p><a href="https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html" target="_blank" rel="noopener">NYTimes climate btc article - Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?</a></p>
+<p><a href="https://newsroom.spotify.com/2021-08-19/making-spotifys-exclusive-content-inclusive-to-creators-and-listeners/?utm_source=podnews.net&amp;utm_medium=web&amp;utm_campaign=podnews.net:2021-08-23" target="_blank" rel="noopener">Spotify exclusives disappear</a></p>
+<p><span>Haas McCook</span></p>
+<p>The man who has more degrees than a Texas summer sun</p>
+<p>Bitcoin Evangelist. BEng MEngSc MBA</p>
+<p><a href="https://bitcoinmagazine.com/culture/world-peace-and-the-bitcoin-charity" target="_blank" rel="noopener">WORLD PEACE AND THE BITCOIN CHARITY</a></p>
+<p><a href="https://hassmccook.medium.com/" target="_blank" rel="noopener">Medium</a></p>
+<p><span>Photo</span></p>
+</div>
+<div><small>Last Modified 09/17/2021 09:55:19 by<span>&nbsp;</span><a href="http://freedomcontroller.com/">Freedom Controller</a></small><span>&nbsp;</span><a href="http://adam.curry.com/opml/PC205420210917Podcas-bxSsTNn1z0KbP5KMMBxT8rtNZBHpXW.opml" title="Link to the opml for this document.">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 17 Sep 2021 16:40:22 +0000</pubDate>
+      <guid isPermaLink="false">PC2054</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-54-2021-09-17-Final.mp3" length="74897076" type="audio/mpeg"/>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-54-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 55: All Jacked Up</title>
+      <description><![CDATA[<div>
+<p><b>Podcasting 2.0 for September 24th 2021 Episode 55: All Jacked Up</b></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org This is a big board update</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -Don't call him a Bro- My Friend on the Other End -- Dave Jones!</p>
+<p><span><i>Crank those value sliders up on any of these value4value streaming payment apps:</i></span></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-55-2021-09-24-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services<span>&nbsp;</span><a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><i>Support us with your Time Talent and<span>&nbsp;</span><a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></i></p>
+<p><span><b>ShowNotes</b></span></p>
+<p><span>Positioning</span></p>
+<p>Elise - Horse Paste</p>
+<p>Sage</p>
+<p>CurioCaster Hosting company API - WHO STEPS UP?</p>
+<p>Breez boost repeat snafu</p>
+<p><a href="https://podcastindex.social/web/statuses/106964452892539787" target="_blank" rel="noopener">Stitcher polling</a></p>
+<p>Ambies 'indie' category</p>
+<p><a href="#clip-cG9kY2FzdDoxMzMzMDcwJmVwaXNvZGU6QnV6enNwcm91dC05MjQ2NzY1JnRpbWU6MzQxMSw0MjY4" target="_blank" rel="noopener">Podcast licence lets wright it!</a></p>
+<p><a href="#clip-cG9kY2FzdDo5MjEwMzAmZXBpc29kZTpCdXp6c3Byb3V0LTkyMjM2MDcmdGltZToxMjM3LDYyNjY" target="_blank" rel="noopener">Kyren - AC pays me bitcoin</a></p>
+<p><a href="https://cuckbucks.com/" target="_blank" rel="noopener">CuckBucks</a></p>
+</div>
+<div><small>Last Modified 09/24/2021 19:44:24 by<span>&nbsp;</span><a href="http://freedomcontroller.com/">Freedom Controller</a></small><span>&nbsp;</span><a href="http://adam.curry.com/opml/PC205520210924Podcas-0lWJ0Qjqvnxb14bgtNG7WcqLzXZ9Gr.opml" title="Link to the opml for this document.">&nbsp;</a></div>]]></description>
+      <pubDate>Sat, 25 Sep 2021 00:47:59 +0000</pubDate>
+      <guid isPermaLink="false">PC2055</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-55-2021-09-24-Final.mp3" length="85779793" type="audio/mpeg"/>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-55-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 56: Rocket in your Pocket</title>
+      <description><![CDATA[<div>
+<p><b>Podcasting 2.0 for October 1st 2021 Episode 56: Rocket in your Pocket</b></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -The man who should be fluent in Korean by now- My Friend on the Other End -- Dave Jones!</p>
+<p><span><i>Crank those value sliders up on any of these value4value streaming payment apps:</i></span></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-56-2021-10-01-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services<span>&nbsp;</span><a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><i>Support us with your Time Talent and<span>&nbsp;</span><a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></i></p>
+<p><span><b>ShowNotes</b></span></p>
+<p><span>Positioning</span></p>
+<p><a href="#clip-cG9kY2FzdDoxMzMzMDcwJmVwaXNvZGU6QnV6enNwcm91dC05Mjg2NTI3JnRpbWU6NDM2LDM3MjI" target="_blank" rel="noopener">James ad tracking</a></p>
+<p>Apple is going to war with trackers!</p>
+<p>Update your info for the apps page</p>
+<p><a href="https://archive.is/TzRVt" target="_blank" rel="noopener">SPLC extremists</a></p>
+<p><a href="https://web.archive.org/web/20041207004038/http://www.pcmag.com/article2/0,1759,1682993,00.asp" target="_blank" rel="noopener">Dvorak 2004</a></p>
+<p>Graham Krizek - Founder of Voltage</p>
+<p><a href="https://www.impervious.ai/" target="_blank" rel="noopener">impervious.ai</a></p>
+</div>
+<div><small>Last Modified 10/01/2021 13:57:42 by<span>&nbsp;</span><a href="http://freedomcontroller.com/">Freedom Controller</a></small><span>&nbsp;</span><a href="http://adam.curry.com/opml/PC205620211001Podcas-lv7fj5qG9XRGGwxtQZmvgxWbC5Zv5d.opml" title="Link to the opml for this document.">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 01 Oct 2021 18:58:23 +0000</pubDate>
+      <guid isPermaLink="false">PC2056</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-56-2021-10-01-Final.mp3" length="60600678" type="audio/mpeg"/>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-56-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 57: Rebel Rubes</title>
+      <description><![CDATA[<p><b>Podcasting 2.0 for October 8th 2021 Episode 57: Rebel Rubes</b></p>
+<div>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org and we're joined by Sir Brian of London</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -The man who is doing all of his State's Tax Returns single handedly - My Friend on the Other End -- Dave Jones!</p>
+<p><span><i>Crank those value sliders up on any of these value4value streaming payment apps:</i></span></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-57-2021-10-08-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services<span>&nbsp;</span><a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><i>Support us with your Time Talent and<span>&nbsp;</span><a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></i></p>
+<p><span><b>ShowNotes</b></span></p>
+<p><span>Positioning</span></p>
+<p><a href="http://adam.curry.com/enc/1633712541.319_boostagrambits.rar" target="_blank" rel="noopener"></a><a href="http://adam.curry.com/enc/1633712541.319_boostagrambits.rar">BoostagramBits.rar</a></p>
+<p><a href="https://valuecaster.vercel.app/" target="_blank" rel="noopener">V4V Valucaster</a></p>
+<p><a href="https://podping.watch/" target="_blank" rel="noopener">PodPing Watcher</a></p>
+<p><a href="https://3speak.tv/" target="_blank" rel="noopener">3speak.tv</a></p>
+<p>Origin of the name Podcasting</p>
+<p>Chris Messina - Podland - The Atom Deja Vu</p>
+<p><span>And from the Promised Land - Master of The Hive -&nbsp;<a href="https://brianoflondon.me/">Sir Brian of London</a>&nbsp;[Pal of the Pod]</span></p>
+<p><a href="https://gist.github.com/brianoflondon/" target="_blank" rel="noopener">Brian's Github</a></p>
+<p>Brian's Node: 0396693dee59afd67f178af392990d907d3a9679fa7ce00e806b8e373ff6b70bd8</p>
+</div>
+<div><small>Last Modified 10/08/2021 13:52:18 by<span>&nbsp;</span><a href="http://freedomcontroller.com/">Freedom Controller</a></small><span>&nbsp;</span><a href="http://adam.curry.com/opml/PC205720211008Podcas-Z7qSx1X16NGXDBv7d7Nb7F4tsMjr9w.opml" title="Link to the opml for this document.">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 08 Oct 2021 18:55:32 +0000</pubDate>
+      <guid isPermaLink="false">PC2057</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-57-2021-10-08-Final.mp3" length="69690663" type="audio/mpeg"/>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-57-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 58: Activity in the Pub!</title>
+      <description><![CDATA[<div>
+<p><b>Podcasting 2.0 for October 15th 2021 Episode 58: Activity in the Pub!</b></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with news about the all new podcasterwallet.com</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -The man who can bake a wallet with drop shadow in a heartbeat- My Friend on the Other End -- Dave Jones!</p>
+<p><span><i>Crank those value sliders up on any of these value4value streaming payment apps:</i></span></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><i>Value4Value.io Explains how this works!</i></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-58-2021-10-15-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services<span>&nbsp;</span><a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><i>Support us with your Time Talent and<span>&nbsp;</span><a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></i></p>
+<p><span><b>ShowNotes</b></span></p>
+<p><span>Positioning</span></p>
+<p>Podcaster wallet</p>
+<p>New podfriend beta</p>
+<p>El Salvador trip</p>
+<p>Brian of London PodPing</p>
+<p>Ring of fire</p>
+<p><a href="https://shiny.podping-stats.com/apps/Podping/PodpingPlayer/" target="_blank" rel="noopener">New PodPing watcher</a></p>
+<p><a href="https://www.cnbc.com/2021/10/15/bitcoin-is-inches-away-from-reaching-60000-amid-etf-speculation.html" target="_blank" rel="noopener">Bitcoin ETF's</a></p>
+</div>
+<div><small>Last Modified 10/15/2021 14:13:18 by<span>&nbsp;</span><a href="http://freedomcontroller.com/">Freedom Controller</a></small><span>&nbsp;</span><a href="http://adam.curry.com/opml/PC205820211015Podcas-Dbrd83C5ZW4P5v61VQ5rNMcxTCfrlt.opml" title="Link to the opml for this document.">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 15 Oct 2021 19:13:48 +0000</pubDate>
+      <guid isPermaLink="false">PC2058</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-58-2021-10-15-Final.mp3" length="82349184" type="audio/mpeg"/>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-58-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 59: Double or Nothing</title>
+      <description><![CDATA[<h2>PC20-59-2021-10-22 Podcasting 2.0: "Double or Nothing"</h2>
+<div>
+<p><strong>Podcasting 2.0 for October 22nd 2021 Episode 59: Double or Nothing</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org and are joined by Oscar Merry, the creator of the Fountain app</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -The man who has more padded walls than an asylum- My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-59-2021-10-22-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p>Oscar Merry</p>
+<p>LPCF</p>
+<p><a href="https://podverse.fm/clip/IsfolcGpU" target="_blank" rel="noopener">Lex Fridman name check</a></p>
+<p><a href="https://stephanlivera.com/episode/313/" target="_blank" rel="noopener">Gigi boostagrams</a></p>
+<p>Umbrel all in one box</p>
+<p>Boostsagrams vs streaming</p>
+<p>V4V pitch</p>
+<p><a href="540927/4586472664#t=778,5137" target="_blank" rel="noopener">Facebag</a></p>
+<p><a href="540927/4586472664#t=1561,5137" target="_blank" rel="noopener">FB monetization</a></p>
+<p><a href="540927/4586472664#t=2167,5137" target="_blank" rel="noopener">FB hosting</a></p>
+<p>Hello Creator Dave!</p>
+</div>
+<div><small>Last Modified 10/22/2021 14:15:35 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC205920211022Podcas-P8ktHmxFJrbrfhhrp7vK4XCw5Bz2sb.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 22 Oct 2021 19:16:56 +0000</pubDate>
+      <guid isPermaLink="false">PC2059</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-59-2021-10-22-Final.mp3" length="82816880" type="audio/mpeg"/>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-59-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 60: Crossing the Line</title>
+      <description><![CDATA[<div>
+<p><span style="font-size: 18pt;"><strong>Podcasting 2.0 for October 29nd 2021 Episode 60: Crossing the Line</strong></span></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with a breakdown of cross app comments and other rudeness</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, - He's a natural repellent of all things RUST - My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-60-2021-10-29-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p>Curiocaster Genny Social Tag</p>
+<p>Incompatible transcripts</p>
+<p>Umbrel all in one box</p>
+<p>LPCF</p>
+<p>Lightning Podcast Charity Fund</p>
+<p>Boostsagrams vs streaming</p>
+<p>V4V pitch</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+</div>
+<div><small>Last Modified 10/29/2021 13:50:17 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206020211029Podcas-cSxKHXdrrWJfNf6tC0SjknfmFz2Tf9.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 29 Oct 2021 18:51:26 +0000</pubDate>
+      <guid isPermaLink="false">PC2060</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-60-2021-10-29-Final.mp3" length="69521390" type="audio/mpeg"/>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-60-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 61: Remember Remember the 5th of November</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for November 5th 2021 Episode 61: Remember Remember The 5th of November</strong></p>
+<div>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org where Craig and Matt from Castos join us to talk interop and integration of Value4Value streaming payments and more!</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, - Transmitting his viral load worldwide - My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-61-2021-11-05-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Castos</p>
+<p>Craig Hewitt - Founder &amp; CEO</p>
+<p>Matt Medeiros - Director of Podcaster Success</p>
+<p><a href="https://castos.com/our-team/" target="_blank" rel="noopener">Castos</a></p>
+<p>Curiocaster Genny Social Tag</p>
+<p>LPCF</p>
+<p>Lightning Podcast Charity Fund</p>
+<p><a href="https://blog.james.cridland.net/how-to-do-per-word-srt-transcripts-772e77f7bcbf" target="_blank" rel="noopener">Per word transcripts</a></p>
+<p>Ryan transcripts service idea</p>
+<p>Music v4v</p>
+</div>
+<div><small>Last Modified 11/05/2021 14:00:26 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206120211105Podcas-fCk8DVCWWtK8Whdxvp55Cb3nq1Nk6S.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 05 Nov 2021 19:03:21 +0000</pubDate>
+      <guid isPermaLink="false">PC2061</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-61-2021-11-05-Final.mp3" length="74300544" type="audio/mpeg"/>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-61-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 62: Dockerized and Good to Go</title>
+      <description><![CDATA[<div>
+<p><strong>Podcasting 2.0 for November 12th 2021 Episode 62: Dockerized and Good to Go</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with updates on MkUltra and Bucks Fizz</p>
+<p>I'm Adam Curry in the Heart of Hill Country Texas</p>
+<p>And In Alabama, -&nbsp;<em>Wrangling JSON to the ground</em>&nbsp;- My Friend on the Other End -- Dave Jones!</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-62-2021-11-12-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Sick of hearing myself</p>
+<p>WAWB BTC Sessions</p>
+<p>Closing the loop</p>
+<p>Texas Slim</p>
+<p>Umbrel</p>
+<p><a href="https://en.wikipedia.org/wiki/Cobalt_Qube" target="_blank" rel="noopener">Cobalt Qube - Wikipedia</a></p>
+<p>RSS GENNY to transform into 2.0</p>
+<p>MKUltra</p>
+<p><a href="http://gopodcasting.org/" target="_blank" rel="noopener">GoPodcasting.org</a></p>
+<p>Comments</p>
+<p>Live</p>
+<p>Our story</p>
+<p>Social</p>
+<p>MemoryLand radio stream</p>
+</div>
+<div><small>Last Modified 11/12/2021 14:04:48 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206220211112Podcas-ZNmrD3RSfdhRhz0Mrl4SZj50pM3jnw.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 12 Nov 2021 20:39:27 +0000</pubDate>
+      <guid isPermaLink="false">PC2062</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-62-2021-11-12-Final.mp3" length="80511000" type="audio/mpeg"/>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-62-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 63: Hovering at 500</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for November 19th 2021 Episode 63: Hovering at 500</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with Castamatic developer Franco Soleri. Deep thoughts on Docker Dumpster Fire and Podcast Player Audio Processing</p>
+<div>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-63-2021-11-19-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Franco Solerio</p>
+<p>The Daily number one EU. Click fraud?</p>
+<p>2.0 features now everywhere lol</p>
+<p>Decentraland metaverse</p>
+<p><a href="https://www.crowdfundinsider.com/2021/11/182958-synonym-introduces-the-architecture-for-a-self-sovereign-bitcoin-economy-supported-by-lightning-network/" target="_blank" rel="noopener">Synonym Introduces the Architecture for a Self-Sovereign Bitcoin Economy Supported by Lightning Network</a></p>
+</div>
+<div><small>Last Modified 11/19/2021 16:29:45 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206320211119Podcas-CBrjDCvkN0tR8gKZWkDXVzTKT8Mzv6.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 19 Nov 2021 22:31:02 +0000</pubDate>
+      <guid isPermaLink="false">PC2063</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-63-2021-11-19-Final.mp3" length="76124309" type="audio/mpeg"/>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-63-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 64: Dave's not here man</title>
+      <description><![CDATA[<div>
+<p><strong>Podcasting 2.0 for December 3d 2021 Episode 64: Dave's not here man</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org as we're back in the boardroom with updates on Helipad and namespace phase 4</p>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-64-2021-12-03-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Dave's vacation</p>
+<p>Starting a podcast exclusively on 2.0</p>
+<p>Helipad on Umbrel for Boostagrams</p>
+<p><a href="https://musicdigi.com/post/maintaining-ownership-rights-as-an-artist" target="_blank" rel="noopener">Why Owning Your Master Recordings Means Everything</a></p>
+<p><a href="https://en.wikipedia.org/wiki/KaiOS" target="_blank" rel="noopener">KaiOS - Wikipedia</a></p>
+<p><a href="https://www.podlp.com/" target="_blank" rel="noopener">PodLP &ndash; Podcasts for KaiOS and the JioPhone</a></p>
+<p><a href="https://podcastindex.org/podcast/3662287" target="_blank" rel="noopener">AI.cooking | Podcastindex.org</a></p>
+</div>
+<div><small>Last Modified 12/03/2021 14:24:00 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206420211203Podcas-v6k7SvLdKzM2vLT6zrL42kM6VMwHKd.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 03 Dec 2021 20:22:36 +0000</pubDate>
+      <guid isPermaLink="false">PC2064</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-64-2021-12-03-Final.mp3" length="68278170" type="audio/mpeg"/>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-64-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 65: Billions Served</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for December 10th 2021 Episode 65: Billions Served</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with a big Board Meeting discussion of the Swedish Reach Around</p>
+<div>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-65-2021-12-10-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Dead doesn't mean unuseful :podcasting2.0:</p>
+<p>The Spotify mirage :podcasting2.0:</p>
+<p>Woke police are coming for your advertisers :podcasting2.0:</p>
+<p>Wallets - LDK</p>
+<p>Mitch Podverse comments?</p>
+<p>Dave Jackson -&gt; William TASCAM</p>
+<p>I've gone to the dark side: emacs</p>
+<p>Cross app comments wtf?</p>
+<p>Comedy albums</p>
+<p>Ryan Heise transcript service :podcasting2.0:</p>
+</div>
+<div><small>Last Modified 12/10/2021 13:49:35 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206520211210Podcas-fDKhmG9VFBq1BJQm9hjfDrf5XzLzlG.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 10 Dec 2021 19:59:50 +0000</pubDate>
+      <guid isPermaLink="false">PC2065</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-65-2021-12-10-Final.mp3" length="68755897" type="audio/mpeg"/>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-65-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 66: Drop The Gate</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for December 17th 2021 Episode 66: Drop The Gate</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org where Jason and Joseph join us to discuss PodcastGuru</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-66-2021-12-17-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Dave on Jupiter Broadcast appearance</p>
+<p>Mere Mortals</p>
+<p>Adam begging for money chapter art</p>
+<p><a href="podcast/pi921030/5663438318" target="_blank" rel="noopener">Link</a></p>
+<p>Spanked Todd and Rob</p>
+<p><a href="podcast/pi540927/5715129936" target="_blank" rel="noopener">Link</a></p>
+<p>WeTransfer opportunity</p>
+<p>Cross Platform Comments</p>
+<p>Ryan Transcript Service</p>
+<p><a href="https://github.com/Podcastindex-org/podcast-namespace#current-roadmap" target="_blank" rel="noopener">Namespace Roadmap</a></p>
+<p>Helipad Update</p>
+<p>Proud of the App Developers</p>
+<p><em>Jason Hudgins &amp; Joseph Hill - Podcast Guru</em></p>
+<p><a href="https://podcastguru.io/" target="_blank" rel="noopener">Podcastguru.io</a></p>
+<p>Supported features</p>
+<p>Search, Transcript, Funding, Chapters, Location, Person, Season</p>
+<p>Seeing press without us being mentioned</p>
+<p>Medium Tag</p>
+<p><em>Perennial Feeds</em></p>
+<p>Fast Follow</p>
+</div>
+<div><small>Last Modified 12/17/2021 13:54:23 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206620211217Podcas-8JZbq9hCG5f8mzLqGHwNzJl12rV91D.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 17 Dec 2021 19:57:12 +0000</pubDate>
+      <guid isPermaLink="false">PC2066</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-66-2021-12-17-Final.mp3" length="72557027" type="audio/mpeg"/>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-66-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 67: Satoshi Stocking Stuffer</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for December 24th 2021 Episode 67: Satoshi Stocking Stuffer</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with a review of the year in Podcasting 2.0 and special guest James Cridland</p>
+<div>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-67-2021-12-24-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>James Cridland</p>
+<p>100K sat bet</p>
+<p><a href="https://www.rcsworks.com/zetta/" target="_blank" rel="noopener">Zetta - RCS Sound Software</a></p>
+<p>Only 3 sats/minutes</p>
+<p>Captivate</p>
+<p>Image Tag PodLP</p>
+</div>
+<div><small>Last Modified 12/24/2021 09:07:18 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206720211224Podcas-BZ60QL6SPP8rfWdBqhbHdgwlCcbsSF.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 24 Dec 2021 15:10:15 +0000</pubDate>
+      <guid isPermaLink="false">PC2067</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-67-2021-12-24-Final.mp3" length="78441475" type="audio/mpeg"/>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-67-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 68: Mind the Gap!</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for December 31st 2021 Episode 68: Mind the Gap</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.</p>
+<p>&nbsp;</p>
+<div>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-68-2021-12-31-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Hill Top Cafe Jimmie Vaughn tip jar</p>
+<p>Gigi article</p>
+<p><a href="https://ableandthewolf.com/" target="_blank" rel="noopener">Able and the Wolf</a></p>
+<p>Directory</p>
+<p>ETH v4v</p>
+<p>Ryan Heise transcript service :podcasting2.0:</p>
+<p>Roku</p>
+<p>Helipad update</p>
+</div>
+<div><small>Last Modified 12/31/2021 14:06:11 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206820211231Podcas-S9dx1hdktTWMQWmWBN2lf8hVQ9tgnG.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 31 Dec 2021 20:08:54 +0000</pubDate>
+      <guid isPermaLink="false">PC2068</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-68-2021-12-31-Final.mp3" length="81848260" type="audio/mpeg"/>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-68-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 69: All Aboard!</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for January 14th 2022 Episode 69: All Aboard!</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with Alberto &amp; Ben from RSS.com including the live tag, podping and value4value on-boarding news</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-68-2021-12-31-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><em><strong>Alberto Betella and Ben Richardson from RSS.com</strong></em></p>
+<p><a href="https://rss.com/blog/the-history-of-rss-podcasting-part-two/" target="_blank" rel="noopener">The History of RSS Podcasting with Ben and Alberto - Part 2 | RSS.com</a></p>
+<p>Live Tag</p>
+<p>Use open protocols</p>
+<p>Reverse the thinking, it's another destination for streamers</p>
+<p>Just a notification system</p>
+<p>V4V</p>
+<p>Fountain Ranker</p>
+<p><a href="https://www.thegatewaypundit.com/2021/12/without-warning-gateway-pundit-banned-paypal/" target="_blank" rel="noopener">Gateway pundit banned from paypal</a></p>
+<p>Podcast networks taking a network fee</p>
+<p>If you treat v4v as tips, tips is all you'll get</p>
+<p><em>On Boarding Partner</em></p>
+<p>Podping</p>
+<p>Podping aggregation in-app</p>
+<p>Apple, go use podping. No one can ever know!</p>
+<p><a href="https://podping.watch/" target="_blank" rel="noopener">Poding Ping Watcher</a></p>
+<p><a href="https://github.com/Podcastindex-org/podping-hivewriter" target="_blank" rel="noopener">Podping Github</a></p>
+<p>Cross App Comments</p>
+<p>Dead feeds</p>
+<p>Podcast graveyard!</p>
+<p>Podcast font</p>
+<p>https://podcastfont.com/</p>
+<p><a href="https://www.coindesk.com/markets/2022/01/12/dorsey-proposes-non-profit-bitcoin-legal-defense-fund-for-developers/" target="_blank" rel="noopener">Dorsey legal defence fund</a></p>
+<p>Dreb informal poll email</p>
+<p>TODO</p>
+<p>Ryan Heise transcript service :podcasting2.0:</p>
+<p>TODO Mike Neuman feed fixes</p>
+</div>
+<div><small>Last Modified 01/14/2022 14:00:27 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC206920220114Podcas-8cHvH0c8NJ7lSSCk0qBpSRn1q9nXq8.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 14 Jan 2022 20:02:32 +0000</pubDate>
+      <guid isPermaLink="false">PC2069</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-69-2022-01-14-Final.mp3" length="78202611" type="audio/mpeg"/>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-69-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 70: Testing the TAM</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for January 21st 2022 Episode 70: Testing the TAM</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org and welcome Thomas Barrasso to the board meeting, who's podcast app has 9 million users in India</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-70-2022-01-21-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p><strong>ShowNotes</strong></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p>Thomas Barrasso (PodLP)</p>
+<p><a href="https://medium.com/@tbarrasso/podcasts-for-the-next-billion-1474778454e1" target="_blank" rel="noopener">Podcasts for the Next Billion. Designing a podcast client for KaiOS&hellip; | by Thomas Barrasso | Medium</a></p>
+<p><a href="https://beebom.com/google-investment-kaios-feature-phones/" target="_blank" rel="noopener">Google Bets Big on Feature Phones Future With $22 Million Investment in KaiOS | Beebom</a></p>
+<p>Images</p>
+<p><a href="https://blog.podlp.com/" target="_blank" rel="noopener">PodLP Blog</a></p>
+<p>Netflix devalues content</p>
+<p>The TAM</p>
+<p><a href="https://podcastfont.com/" target="_blank" rel="noopener">Podcast font</a></p>
+<p>TODO</p>
+</div>
+<div><small>Last Modified 01/21/2022 11:52:23 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207020220121Podcas-Dj423qrffjnmCFrRVhk46DtF8xMC6l.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 21 Jan 2022 18:10:58 +0000</pubDate>
+      <guid isPermaLink="false">PC2070</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-70-2022-01-21-Final.mp3" length="71227917" type="audio/mpeg"/>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-70-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 71: SPECS and SPACS</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for January 28th 2022 Episode 71: SPECS and SPACS</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org and dive deep into how stuff breaks in an open world. The board agrees there is much progress to report this week!</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-71-2022-01-28-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Helipad specs</p>
+<p><a href="https://usocial.me/" target="_blank" rel="noopener">usocial | The minimalist feed reader, feed aggregator and podcast client</a></p>
+<p>Anchor specs</p>
+<p>PodPing new version</p>
+<p>Live tag</p>
+<p><a href="https://desfemmesmagazine.com/pages/faqs" target="_blank" rel="noopener">FAQs &ndash; Des Femmes Magazine</a></p>
+<p>New Hosting company</p>
+<p>comments</p>
+<p>New hardware company</p>
+<p>On Ramp Fountain partner</p>
+<p>Fountain promotions</p>
+<p>Share link previews</p>
+<p>Podfriend blue screen</p>
+<p>TODO</p>
+</div>
+<div><small>Last Modified 01/28/2022 14:18:55 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207120220128Podcas-s8t7FrW72H4lKsx2zgQdvl2n2qKrhb.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 28 Jan 2022 20:22:42 +0000</pubDate>
+      <guid isPermaLink="false">PC2071</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-71-2022-01-28-Final.mp3" length="85246895" type="audio/mpeg"/>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-71-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 72: Hitting the Apex</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for February 4th 2022 Episode 72: Hitting the Apex</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org - we have abuffet dinner for board members due to our late start</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-72-2022-02-04-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>We picked a good time to start this project</p>
+<p>Spotify deplatforming is real</p>
+<p>Legacy Apps is key term</p>
+<p>Newpodcastapps.com</p>
+<p>Tom Woods 7 year old Podcasting 2.0 explanation</p>
+<p>CastOS</p>
+<p>Shit is getting weird in markets and supply chains</p>
+<p>Boostagrams</p>
+<p><a href="https://podcastindex.social/@benjaminbellamy/107678896820914225" target="_blank" rel="noopener">Boostagram Icon</a></p>
+<p>PodPings from Seriously Simple Podcast WordPress plugin</p>
+<p>Sir Peet's sugar beets</p>
+<p>TODO</p>
+</div>
+<div><small>Last Modified 02/04/2022 19:21:16 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207220220204Podcas-CsGw3g79LW8SFSXj8F9XjwnkqKcLJ0.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Sat, 05 Feb 2022 01:21:37 +0000</pubDate>
+      <guid isPermaLink="false">PC2072</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-72-2022-02-04-Final.mp3" length="94205850" type="audio/mpeg"/>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-72-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 73: Spinning Gold out of Yarn</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for February 11th 2022 Episode 73: Spinning Gold out of Yarn</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with guests Kevin and Tom from Buzzsprout.</p>
+<p><a href="https://mp3s.nashownotes.com/PC20-73-2022-02-11-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Satoshi Stick</p>
+<p>Live radio, Brian Kilmead</p>
+<p>Podcasts Are No Longer Private Conversations - The Atlantic</p>
+<p><em>Podcasting is not so much an "Industry", it's more analogous to sport</em></p>
+<p>Podcasting HOF</p>
+<p>Cross App Comments</p>
+<p>PodPing</p>]]></description>
+      <pubDate>Fri, 11 Feb 2022 20:19:06 +0000</pubDate>
+      <guid isPermaLink="false">PC2073</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-73-2022-02-11-Final.mp3" length="78110451" type="audio/mpeg"/>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-73-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 74: Confetti Canon</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for February 25th 2022 Episode 75: Liquidifying for Love"</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with guest Roy Sheinfeld from&nbsp;<em>Payment Provider</em>&nbsp;Breez</p>
+<div>
+<p><em>Crank those value sliders up on any of these value4value streaming payment apps:</em></p>
+<p><a href="https://breez.technology/">Breez app</a></p>
+<p><a href="https://curiocaster.com/">CurioCaster</a></p>
+<p><a href="https://www.fountain.fm/">Fountain.FM</a></p>
+<p><a href="https://podfriend.com/">Podfriend</a></p>
+<p><a href="https://podstation.github.io/">Podstation Browser extension</a></p>
+<p><a href="https://podverse.com/">Podverse</a></p>
+<p><a href="https://sphinx.chat/">Sphinx Chat App</a></p>
+<p><a href="http://value4value.io/" target="_blank" rel="noopener"><em>Value4Value.io Explains how this works!</em></a></p>
+<p><a href="https://mp3s.nashownotes.com/PC20-75-2022-02-25-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Roy Sheinfeld - Breez</p>
+<p><a href="https://medium.com/breez-technology/lightning-is-a-liquidity-network-550896ca27ea" target="_blank" rel="noopener">Lightning Is a Liquidity Network | Breez Technology</a></p>
+<p><a href="https://twitter.com/rusty_twit/status/1496644913379049472" target="_blank" rel="noopener">Lightning Flame War</a></p>
+<p><a href="https://twitter.com/fiatjaf/status/1496544090992881668" target="_blank" rel="noopener">The Email that was posted on twitter in the flame war</a></p>
+<p>Self Custody</p>
+<p><a href="https://www.impervious.ai/" target="_blank" rel="noopener">Impervious.ai</a></p>
+<p><a href="https://bisq.wiki/Main_Page" target="_blank" rel="noopener">Bisq Wiki</a></p>
+<p>John Spurlock on podland</p>
+<p>Comments &amp; Boostagrams - How different from Superchat and YT comments?</p>
+<p>Being called a shitcoiner</p>
+<p>Tailscale pihole success</p>
+<p>Fiat Fun Scribbles</p>
+<p>Acast email marketing - agents use it</p>
+<p>Put us in your value split</p>
+<p>03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a</p>
+</div>
+<div><small>Last Modified 02/25/2022 14:20:24 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207520220225Podcas-N6msb4sWjClGJ7VRlW7QlSl2LNPJmL.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 18 Feb 2022 20:53:21 +0000</pubDate>
+      <guid isPermaLink="false">PC2074</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-74-2022-02-18-Final.mp3" length="88471241" type="audio/mpeg"/>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-74-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 75: Liquidifying for Love</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for February 25th 2022 Episode 75: Liquidifying for Love"</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with guest Roy Sheinfeld from&nbsp;<em>Payment Provider</em>&nbsp;Breez</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-75-2022-02-25-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Roy Sheinfeld - Breez</p>
+<p><a href="https://medium.com/breez-technology/lightning-is-a-liquidity-network-550896ca27ea" target="_blank" rel="noopener">Lightning Is a Liquidity Network | Breez Technology</a></p>
+<p><a href="https://twitter.com/rusty_twit/status/1496644913379049472" target="_blank" rel="noopener">Lightning Flame War</a></p>
+<p><a href="https://twitter.com/fiatjaf/status/1496544090992881668" target="_blank" rel="noopener">The Email that was posted on twitter in the flame war</a></p>
+<p>Self Custody</p>
+<p><a href="https://www.impervious.ai/" target="_blank" rel="noopener">Impervious.ai</a></p>
+<p><a href="https://bisq.wiki/Main_Page" target="_blank" rel="noopener">Bisq Wiki</a></p>
+<p>John Spurlock on podland</p>
+<p>Comments &amp; Boostagrams - How different from Superchat and YT comments?</p>
+<p>Being called a shitcoiner</p>
+<p>Tailscale pihole success</p>
+<p>Fiat Fun Scribbles</p>
+<p>Acast email marketing - agents use it</p>
+<p>Put us in your value split</p>
+<p>03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a</p>
+</div>
+<div><small>Last Modified 02/25/2022 14:20:24 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207520220225Podcas-N6msb4sWjClGJ7VRlW7QlSl2LNPJmL.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 25 Feb 2022 20:21:38 +0000</pubDate>
+      <guid isPermaLink="false">PC2075</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-75-2022-02-25-Final.mp3" length="89558980" type="audio/mpeg"/>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-75-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 76: Pining for PodPing</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for March 4th 2022 Episode 76: "Pining for PodPing"</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with guest Dan Benjamin CEO of Fireside.FM</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-76-2022-03-04-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Dan Benjamin</p>
+<p><a href="https://www.spooler.fm/index.html#team" target="_blank" rel="noopener">Spooler</a></p>
+<p><a href="https://fireside.fm/" target="_blank" rel="noopener">Fireside.FM</a></p>
+<p>Todd Cochran node</p>
+<p>Liquidity and fees</p>
+<p>Claim codes should be features in namespace</p>
+<p><a href="https://newsletter.impervious.ai/impervious-browser-functionality-overview/" target="_blank" rel="noopener">Impervious browser</a></p>
+<p>Put us in your value split</p>
+<p>03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a</p>
+</div>
+<div><small>Last Modified 03/04/2022 14:18:33 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207620220304Podcas-W2FTrnXglvd1rnKlSp4dq0sGTR7DWR.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 04 Mar 2022 20:27:12 +0000</pubDate>
+      <guid isPermaLink="false">PC2076</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-76-2022-03-04-Final.mp3" length="72504678" type="audio/mpeg"/>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-76-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 77: Is that a minipub in your pocket?</title>
+      <description><![CDATA[<p><strong>Podcasting 2.0 for March 11th 2022 Episode 77: "Is that a minipub in your pocket?</strong></p>
+<p>Adam &amp; Dave discuss the week's developments on podcastindex.org with guest John Spurlock</p>
+<div>
+<p><a href="https://mp3s.nashownotes.com/PC20-77-2022-03-11-Final.mp3">Download the mp3</a></p>
+<p><a href="http://mp3s.nashownotes.com/pc20rss.xml" target="_blank" rel="noopener">Podcast Feed</a></p>
+<p><a href="http://podcastindex.org/" target="_blank" rel="noopener">PodcastIndex.org</a></p>
+<p><a href="http://preservepodcasting.com/">Preservepodcasting.com</a></p>
+<p>Check out the podcasting 2.0 apps and services&nbsp;<a href="http://newpodcastapps.com/">newpodcastapps.com</a></p>
+<p><em>Support us with your Time Talent and&nbsp;<a href="https://www.paypal.com/donate/?token=m0z6N1K047lEsGvPDr3KMumKYHlUHRAdwPNY645UB0LR9fGf_OtpVByzHId7TEFYo9nXNS5aF33Zdjn9&amp;fromUL=true&amp;country.x=US&amp;locale.x=en_US">Treasure</a></em></p>
+<p>Positioning</p>
+<p><a href="https://github.com/ablekirby/BoostBait" target="_blank" rel="noopener">Boost Bait</a></p>
+<p><strong>ShowNotes</strong></p>
+<p>Put us in your value split</p>
+<p>03ae9f91a0cb8ff43840e3c322c4c61f019d8c1c3cea15a25cfc425ac605e61a4a</p>
+<p>Youtube podcasting</p>
+<p>We're doing it LIVE!</p>
+<p>Cross app comments vs boostagrams</p>
+<p>This board meeting was intense!</p>
+<p><a href="https://podcastsocial.org/" target="_blank" rel="noopener">podcastsocial.org</a></p>
+</div>
+<div><small>Last Modified 03/11/2022 14:55:26 by&nbsp;<a href="http://freedomcontroller.com/">Freedom Controller</a></small>&nbsp;<a title="Link to the opml for this document." href="http://adam.curry.com/opml/PC207720220311Podcas-GV5SqdxhMWcCtR4lKJSglll4gKK4JG.opml">&nbsp;</a></div>]]></description>
+      <pubDate>Fri, 11 Mar 2022 20:57:26 +0000</pubDate>
+      <guid isPermaLink="false">PC2077</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-77-2022-03-11-Final.mp3" length="84978252" type="audio/mpeg"/>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-77-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 78</title>
+      <description><![CDATA[Podcasting 2.0 Episode 78]]></description>
+      <pubDate>Fri, 18 Mar 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-78-2022-03-18-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-78-2022-03-18-Final.mp3" length="79833279" type="audio/mpeg"/>
+      <itunes:episode>78</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-78-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 79</title>
+      <description><![CDATA[Podcasting 2.0 Episode 79]]></description>
+      <pubDate>Fri, 25 Mar 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-79-2022-03-25-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-79-2022-03-25-Final.mp3" length="83617481" type="audio/mpeg"/>
+      <itunes:episode>79</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-79-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 80</title>
+      <description><![CDATA[Podcasting 2.0 Episode 80]]></description>
+      <pubDate>Fri, 01 Apr 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-80-2022-04-01-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-80-2022-04-01-Final.mp3" length="71142653" type="audio/mpeg"/>
+      <itunes:episode>80</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-80-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 81</title>
+      <description><![CDATA[Podcasting 2.0 Episode 81]]></description>
+      <pubDate>Sat, 09 Apr 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-81-2022-04-09-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-81-2022-04-09-Final.mp3" length="106648391" type="audio/mpeg"/>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-81-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 82</title>
+      <description><![CDATA[Podcasting 2.0 Episode 82]]></description>
+      <pubDate>Thu, 21 Apr 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-82-2022-04-21-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-82-2022-04-21-Final.mp3" length="96759058" type="audio/mpeg"/>
+      <itunes:episode>82</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-82-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 83</title>
+      <description><![CDATA[Podcasting 2.0 Episode 83]]></description>
+      <pubDate>Fri, 29 Apr 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-83-2022-04-29-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-83-2022-04-29-Final.mp3" length="83186461" type="audio/mpeg"/>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-83-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 84</title>
+      <description><![CDATA[Podcasting 2.0 Episode 84]]></description>
+      <pubDate>Fri, 06 May 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-84-2022-05-06-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-84-2022-05-06-Final.mp3" length="84757256" type="audio/mpeg"/>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-84-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 85</title>
+      <description><![CDATA[Podcasting 2.0 Episode 85]]></description>
+      <pubDate>Fri, 13 May 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-85-2022-05-13-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-85-2022-05-13-Final.mp3" length="89670575" type="audio/mpeg"/>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-85-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 86</title>
+      <description><![CDATA[Podcasting 2.0 Episode 86]]></description>
+      <pubDate>Fri, 20 May 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-86-2022-05-20-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-86-2022-05-20-Final.mp3" length="102495256" type="audio/mpeg"/>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-86-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 87</title>
+      <description><![CDATA[Podcasting 2.0 Episode 87]]></description>
+      <pubDate>Fri, 27 May 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-87-2022-05-27-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-87-2022-05-27-Final.mp3" length="90495626" type="audio/mpeg"/>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-87-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 88</title>
+      <description><![CDATA[Podcasting 2.0 Episode 88]]></description>
+      <pubDate>Fri, 03 Jun 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-88-2022-06-03-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-88-2022-06-03-Final.mp3" length="73441972" type="audio/mpeg"/>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-88-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 89</title>
+      <description><![CDATA[Podcasting 2.0 Episode 89]]></description>
+      <pubDate>Fri, 10 Jun 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-89-2022-06-10-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-89-2022-06-10-Final.mp3" length="80610683" type="audio/mpeg"/>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-89-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 90</title>
+      <description><![CDATA[Podcasting 2.0 Episode 90]]></description>
+      <pubDate>Fri, 17 Jun 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-90-2022-06-17-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-90-2022-06-17-Final.mp3" length="103333452" type="audio/mpeg"/>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-90-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 91</title>
+      <description><![CDATA[Podcasting 2.0 Episode 91]]></description>
+      <pubDate>Fri, 24 Jun 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-91-2022-06-24-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-91-2022-06-24-Final.mp3" length="91957961" type="audio/mpeg"/>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-91-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 92</title>
+      <description><![CDATA[Podcasting 2.0 Episode 92]]></description>
+      <pubDate>Fri, 01 Jul 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-92-2022-07-01-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-92-2022-07-01-Final.mp3" length="103466990" type="audio/mpeg"/>
+      <itunes:episode>92</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-92-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 93</title>
+      <description><![CDATA[Podcasting 2.0 Episode 93]]></description>
+      <pubDate>Fri, 15 Jul 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-93-2022-07-15-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-93-2022-07-15-Final.mp3" length="91413465" type="audio/mpeg"/>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-93-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 94</title>
+      <description><![CDATA[Podcasting 2.0 Episode 94]]></description>
+      <pubDate>Fri, 22 Jul 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-94-2022-07-22-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-94-2022-07-22-Final.mp3" length="83397112" type="audio/mpeg"/>
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-94-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 95</title>
+      <description><![CDATA[Podcasting 2.0 Episode 95]]></description>
+      <pubDate>Fri, 29 Jul 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-95-2022-07-29-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-95-2022-07-29-Final.mp3" length="85576351" type="audio/mpeg"/>
+      <itunes:episode>95</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-95-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 96</title>
+      <description><![CDATA[Podcasting 2.0 Episode 96]]></description>
+      <pubDate>Fri, 05 Aug 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-96-2022-08-05-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-96-2022-08-05-Final.mp3" length="69065605" type="audio/mpeg"/>
+      <itunes:episode>96</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-96-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 97</title>
+      <description><![CDATA[Podcasting 2.0 Episode 97]]></description>
+      <pubDate>Fri, 12 Aug 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-97-2022-08-12-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-97-2022-08-12-Final.mp3" length="73462327" type="audio/mpeg"/>
+      <itunes:episode>97</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-97-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 98</title>
+      <description><![CDATA[Podcasting 2.0 Episode 98]]></description>
+      <pubDate>Fri, 19 Aug 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-98-2022-08-19-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-98-2022-08-19-Final.mp3" length="86925524" type="audio/mpeg"/>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-98-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 99</title>
+      <description><![CDATA[Podcasting 2.0 Episode 99]]></description>
+      <pubDate>Fri, 26 Aug 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-99-2022-08-26-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-99-2022-08-26-Final.mp3" length="86170689" type="audio/mpeg"/>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-99-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+    <item>
+      <title>Episode 100</title>
+      <description><![CDATA[Podcasting 2.0 Episode 100]]></description>
+      <pubDate>Fri, 02 Sep 2022 14:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://mp3s.nashownotes.com/PC20-100-2022-09-02-Final.mp3</guid>
+      <enclosure url="https://mp3s.nashownotes.com/PC20-100-2022-09-02-Final.mp3" length="95954069" type="audio/mpeg"/>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-100-Captions.srt" type="application/srt" rel="captions"/>
+    </item>
+  </channel>
+</rss>

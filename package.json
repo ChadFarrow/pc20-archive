@@ -1,0 +1,13 @@
+{
+  "name": "pc20-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsx pc20-archive-feed.ts pc20-archive.xml"
+  },
+  "devDependencies": {
+    "fast-xml-parser": "^4.4.1",
+    "tsx": "^4.19.2",
+    "@types/node": "^22.10.0"
+  }
+}
