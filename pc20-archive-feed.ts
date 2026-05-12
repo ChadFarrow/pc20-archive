@@ -34,7 +34,7 @@ import { XMLParser } from "fast-xml-parser";
 const INDEX_URL = "https://mp3s.nashownotes.com/";
 const FEED_URL = "https://mp3s.nashownotes.com/pc20rss.xml";
 const CDX = "https://web.archive.org/cdx/search/cdx";
-const ART_URL = "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg";
+const ART_URL = "https://chadfarrow.github.io/pc20-archive/cover.jpg";
 
 // Any file whose name starts with PC20-<ep>...
 const PC20_ANY_RE = /^PC20-(\d{1,4})\b/i;
