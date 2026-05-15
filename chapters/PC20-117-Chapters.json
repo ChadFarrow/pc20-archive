@@ -1,0 +1,141 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Intro",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 10
+    },
+    {
+      "title": "Too many eggs?",
+      "img": "https://noagendachapterart.com/PC20/0117/TooManyEggs.jpg",
+      "startTime": 90
+    },
+    {
+      "title": "Phoebe's boot camp",
+      "img": "https://noagendachapterart.com/PC20/0117/Phoebe_Paws.jpg",
+      "startTime": 230
+    },
+    {
+      "title": "Living Up In A Down World",
+      "url": "https://podcastindex.org/podcast/5950904",
+      "img": "https://noagendachapterart.com/PC20/0117/LivingUp.jpg",
+      "startTime": 470
+    },
+    {
+      "title": "Special treatment for Spotify?",
+      "img": "https://noagendachapterart.com/PC20/0117/spotify-768.jpg",
+      "startTime": 975
+    },
+    {
+      "title": "Just dump it all into your show notes?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1140
+    },
+    {
+      "title": "Survey Says",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1380
+    },
+    {
+      "title": "Value 4 Value onboarding",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1455
+    },
+    {
+      "title": "Rounding the splits?",
+      "img": "https://noagendachapterart.com/PC20/0117/Split-7-10.jpg",
+      "startTime": 1980
+    },
+    {
+      "title": "Congrats Sam on your funding 💸",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2115
+    },
+    {
+      "title": "Doing it live",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 2220
+    },
+    {
+      "title": "https everywhere",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2400
+    },
+    {
+      "title": "Doing it live is exciting!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 2520
+    },
+    {
+      "title": "100% retro going live",
+      "img": "https://noagendachapterart.com/PC20/0117/100PercentRetro.jpg",
+      "startTime": 2615
+    },
+    {
+      "title": "V4V v. Web monetization stuff",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2735
+    },
+    {
+      "title": "Cloudflare, Activity pub, mastodon, and social interact",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://github.com/cloudflare/wildebeest",
+      "startTime": 3900
+    },
+    {
+      "title": "CheatGPT",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4200
+    },
+    {
+      "title": "Boost Bot Sounds",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://github.com/dowodenum/IRCacophony",
+      "startTime": 4530
+    },
+    {
+      "title": "Images and Transcripts",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4560
+    },
+    {
+      "title": "Value for Value",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 4785
+    },
+    {
+      "title": "Boosting it Live!",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 4871
+    },
+    {
+      "title": "V4V: Boostagrams & Fiat Fun",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5040
+    },
+    {
+      "title": "Random chit chat 🙂",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6375
+    },
+    {
+      "title": "What’s going on with Bitcoin and the market?",
+      "img": "https://noagendachapterart.com/PC20/0117/bitcoin-clouds-768.jpg",
+      "startTime": 6600
+    },
+    {
+      "title": "That's a wrap! See you next week!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6780
+    }
+  ],
+  "version": "1.0.0"
+}

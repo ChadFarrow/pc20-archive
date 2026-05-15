@@ -1,0 +1,170 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://noagendachapterart.com/PC20/General/HyperCatcher.png",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7
+    },
+    {
+      "title": "Start 9 Machine",
+      "img": "https://noagendachapterart.com/PC20/0132/Start9.jpg",
+      "startTime": 345
+    },
+    {
+      "title": "We're Live!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 660
+    },
+    {
+      "title": "The P.I.C. is creeping me out",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 700
+    },
+    {
+      "title": "Auto is critical",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 900
+    },
+    {
+      "title": "Open vs closed podcasting",
+      "img": "https://noagendachapterart.com/PC20/0132/pciavatar-unlocked.jpg",
+      "startTime": 1050
+    },
+    {
+      "title": "Music Splits",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 1280
+    },
+    {
+      "title": "Rusty Gate -  A Girl like me",
+      "url": "https://lnbeats.com/album/483dde8e-7e94-59a7-8eb0-2b0dc64a87bd",
+      "img": "https://noagendachapterart.com/PC20/0132/Rusty_Gate.jpg",
+      "startTime": 1604
+    },
+    {
+      "title": "Splits v. chapters?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1920
+    },
+    {
+      "title": "Hot Sexy Namespace talk",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2540
+    },
+    {
+      "title": "TLV Updates",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3045
+    },
+    {
+      "title": "Splitting the split",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3160
+    },
+    {
+      "title": "Remotely confusing",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3355
+    },
+    {
+      "title": "Phase six pull request",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3596
+    },
+    {
+      "title": "Support emails",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3807
+    },
+    {
+      "title": "Phase 6 continued",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3965
+    },
+    {
+      "title": "Database upgrade fail",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4207
+    },
+    {
+      "title": "Light phone, dirty",
+      "img": "https://noagendachapterart.com/PC20/0132/Light_Phone_II.jpg",
+      "startTime": 4262
+    },
+    {
+      "title": "NOSTR to replace RSS?",
+      "img": "https://noagendachapterart.com/PC20/0132/nostr.jpg",
+      "startTime": 5069
+    },
+    {
+      "title": "Newsguard?",
+      "startTime": 5150
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5662
+    },
+    {
+      "title": "Goosing Live",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5693
+    },
+    {
+      "title": "RSS V4V $$$$$$",
+      "img": "https://noagendachapterart.com/PC20/0132/RSScom-logo-768.jpg",
+      "startTime": 6208
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6302
+    },
+    {
+      "title": "On the chain",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6901
+    },
+    {
+      "title": "The monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6924
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6953
+    },
+    {
+      "title": "Chip in!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6985
+    },
+    {
+      "title": "New Podcast Apps",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6995
+    },
+    {
+      "title": "Cross app comments",
+      "img": "https://noagendachapterart.com/PC20/0132/Cross_App_Comments.jpg",
+      "startTime": 7011
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7290
+    }
+  ],
+  "version": "1.0.0"
+}

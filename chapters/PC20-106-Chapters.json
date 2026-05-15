@@ -1,0 +1,125 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Here we go!",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7
+    },
+    {
+      "title": "Bitcoin beef",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 74
+    },
+    {
+      "title": "V4V",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 402
+    },
+    {
+      "title": "Poland - Todd V4V",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Podland_Todd.jpg",
+      "startTime": 1006
+    },
+    {
+      "title": "Lightning liquidity ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Lightning-Liquidity.jpg",
+      "startTime": 1584
+    },
+    {
+      "title": "Bad mash boost button",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2627
+    },
+    {
+      "title": "They are eating your lunch...",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2812
+    },
+    {
+      "title": "Podcast:event",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3006
+    },
+    {
+      "title": "Cross apps comments?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3344
+    },
+    {
+      "title": "Forking hive",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3408
+    },
+    {
+      "title": "Podping.cloud",
+      "url": "https://podping.cloud/",
+      "img": "https://noagendachapterart.com/PC20/PodPingCloud.jpg",
+      "startTime": 3452
+    },
+    {
+      "title": "Capn' Proto",
+      "url": "https://capnproto.org/",
+      "img": "https://noagendachapterart.com/PC20/CapnProto.jpg",
+      "startTime": 3781
+    },
+    {
+      "title": "Live Boosts",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 3959
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4175
+    },
+    {
+      "title": "PayPal ",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/PayPal.jpg",
+      "startTime": 4274
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 4374
+    },
+    {
+      "title": "Monthlies",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/PayPal.jpg",
+      "startTime": 5391
+    },
+    {
+      "title": "Thank you!",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5480
+    },
+    {
+      "title": "Wrap",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5544
+    }
+  ],
+  "version": "1.0.0"
+}

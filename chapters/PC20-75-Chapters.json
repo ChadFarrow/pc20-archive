@@ -1,0 +1,388 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Wag the dog?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/WagTheDog.jpg",
+      "startTime": 61
+    },
+    {
+      "title": "Podcasting 2.0: Saving the world, one podcast at a time",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 90
+    },
+    {
+      "title": "Helipad",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Podcasting20-helipad2-768.jpg",
+      "startTime": 117
+    },
+    {
+      "title": "Adam's big database",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/EyebrowRaise.gif",
+      "startTime": 502
+    },
+    {
+      "title": "Hate boosting Podland 😉😜",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PodlandNews.jpg",
+      "startTime": 698
+    },
+    {
+      "title": "Owner email tag & Feed Authentication",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 738
+    },
+    {
+      "title": "Welcome Roy from Breez",
+      "url": "https://breez.technology/",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 1194
+    },
+    {
+      "title": "Article: Lightning in a liquidity network",
+      "url": "https://medium.com/breez-technology/lightning-is-a-liquidity-network-550896ca27ea",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 1529
+    },
+    {
+      "title": "Managing Lightning channels",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Channels.jpg",
+      "startTime": 1729
+    },
+    {
+      "title": "Rebalancing is bad: none should rebalance a channel",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 1931
+    },
+    {
+      "title": "Atomic Swap",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 2063
+    },
+    {
+      "title": "Blockstream Swap",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PeerSwapSlicing.jpg",
+      "startTime": 2162
+    },
+    {
+      "title": "Splicing",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PeerSwapSlicing.jpg",
+      "startTime": 2212
+    },
+    {
+      "title": "C-lightning & LND",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 2313
+    },
+    {
+      "title": "Breez",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 2548
+    },
+    {
+      "title": "What are the major problems happening in the lightning network",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 2642
+    },
+    {
+      "title": "Bolt 12 certification",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 2891
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 3116
+    },
+    {
+      "title": "Cross app comments vs. boostagrams",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 3374
+    },
+    {
+      "title": "Doing it live",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3446
+    },
+    {
+      "title": "Talking about custodial solutions",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3723
+    },
+    {
+      "title": "Opening channels on the fly",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 4014
+    },
+    {
+      "title": "Online/offline",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 4225
+    },
+    {
+      "title": "Splitting the keys",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PeerSwapSlicing.jpg",
+      "startTime": 4348
+    },
+    {
+      "title": "Lightning Service Providers (LSPs)",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/LSP.jpg",
+      "startTime": 4480
+    },
+    {
+      "title": "Adam's new umbrel node",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/AdamsUmbrel.jpg",
+      "startTime": 4608
+    },
+    {
+      "title": "Tailscale",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Tailscale.jpg",
+      "startTime": 4656
+    },
+    {
+      "title": "Pihole",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Pi-Hole.jpg",
+      "startTime": 4685
+    },
+    {
+      "title": "Mass adoption?",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 4721
+    },
+    {
+      "title": "It's a marathon, not a Sprint",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 4775
+    },
+    {
+      "title": "PodPing Frustration",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4818
+    },
+    {
+      "title": "Craziness in the \"Communities\"",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5070
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5230
+    },
+    {
+      "title": "Fiat fun scribbles",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/MoneyFaucet.jpg",
+      "startTime": 5437
+    },
+    {
+      "title": "Thank you, Marco from Overcast",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Overcast-Logo.jpg",
+      "startTime": 5449
+    },
+    {
+      "title": "Buzzsprout",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/buzzsprout.png",
+      "startTime": 5470
+    },
+    {
+      "title": "Thank you Stephanie!",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5568
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5590
+    },
+    {
+      "title": "American plus",
+      "url": "",
+      "startTime": 6168
+    },
+    {
+      "title": "Franco Castamatic",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/castamatic.png",
+      "startTime": 6190
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6192
+    },
+    {
+      "title": "Boost",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/TurboBoost.gif",
+      "startTime": 6261
+    },
+    {
+      "title": "Mere Mortals",
+      "url": "",
+      "img": "https://storage.buzzsprout.com/variants/6pdweaku659exjf7hztg47rsjwg2/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg",
+      "startTime": 6271
+    },
+    {
+      "title": "Podfriend ",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/podfriend.jpg",
+      "startTime": 6314
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6359
+    },
+    {
+      "title": "Podcast junkies",
+      "url": "",
+      "img": "https://artwork.captivate.fm/efa12834-c373-4714-81b1-16d291a10790/full1544682750artwork.jpg",
+      "startTime": 6530
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6553
+    },
+    {
+      "title": "Curiocaster ",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/curiocaster.png",
+      "startTime": 6593
+    },
+    {
+      "title": "Sovereign feeds",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/curiocaster.png",
+      "startTime": 6627
+    },
+    {
+      "title": "PodcastIndex.Social",
+      "url": "https://podcastindex.social/about",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6720
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6740
+    },
+    {
+      "title": "Podfriend",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/podfriend.jpg",
+      "startTime": 6895
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6923
+    },
+    {
+      "title": "Everything Everywhere daily",
+      "url": "https://podcastindex.org/images/earth.svg",
+      "img": "https://megaphone.imgix.net/podcasts/c60ed9fc-5f48-11ec-b5ad-cb3d94513f4e/image/kphnt5cjvqa8bl5hrkg4.jpg",
+      "startTime": 6938
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 7028
+    },
+    {
+      "title": "The monthlies",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7071
+    },
+    {
+      "title": "Live boosts ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7099
+    },
+    {
+      "title": "Thank you Roy!",
+      "url": "",
+      "img": "https://podcastindex.org/api/images/breez.png",
+      "startTime": 7142
+    },
+    {
+      "title": "🙏 V4V translation. Thank You! 🙏 ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7250
+    },
+    {
+      "title": "Curry and the Keeper",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7278
+    },
+    {
+      "title": "Thank You!! 🙏 ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7322
+    },
+    {
+      "title": "Wrapping",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7410
+    }
+  ],
+  "version": "1.0.0"
+}

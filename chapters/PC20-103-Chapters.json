@@ -1,0 +1,131 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 16
+    },
+    {
+      "title": "Beef",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Beef.jpg",
+      "startTime": 87
+    },
+    {
+      "title": "OP3",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 535
+    },
+    {
+      "title": "Cross app comments",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2639
+    },
+    {
+      "title": "Legally speaking",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2927
+    },
+    {
+      "title": "Massive slurpie dumps",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3023
+    },
+    {
+      "title": "Where's Briana",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3452
+    },
+    {
+      "title": "100% retro",
+      "url": "https://100percentretro.com/",
+      "img": "https://noagendachapterart.com/PC20/100PercentRetro.jpg",
+      "startTime": 3840
+    },
+    {
+      "title": "Live Boosts",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 3975
+    },
+    {
+      "title": "The problem with programmatic ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4353
+    },
+    {
+      "title": "The Podcast Broker",
+      "url": "https://www.thepodcastbroker.com/",
+      "img": "https://noagendachapterart.com/PC20/Buy_or_Sell_Podcasts.jpg",
+      "startTime": 4545
+    },
+    {
+      "title": "The problem",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4881
+    },
+    {
+      "title": "Apple scissors ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5471
+    },
+    {
+      "title": "V4V",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Value4Value_Info.jpg",
+      "startTime": 5712
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5829
+    },
+    {
+      "title": "Valueforvalue.io",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Value4Value_Info.jpg",
+      "startTime": 6203
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6261
+    },
+    {
+      "title": "Monthly's ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7042
+    },
+    {
+      "title": "Southern",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7091
+    },
+    {
+      "title": "Wrap",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7241
+    }
+  ],
+  "version": "1.0.0"
+}

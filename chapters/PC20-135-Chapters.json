@@ -1,0 +1,164 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7
+    },
+    {
+      "title": "DB Upgrade Live!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 52
+    },
+    {
+      "title": "Sysadmins run the world. ",
+      "img": "https://noagendachapterart.com/PC20/0135/Sysadmin.jpg",
+      "startTime": 141
+    },
+    {
+      "title": "Dave's 3 pillars of Helpdesk",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 367
+    },
+    {
+      "title": "Db upgrade",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 733
+    },
+    {
+      "title": "Leaving Spotify?",
+      "img": "https://noagendachapterart.com/PC20/0135/spotify-768.jpg",
+      "startTime": 1600
+    },
+    {
+      "title": "YouTube is a bad actor? 😟",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1870
+    },
+    {
+      "title": "Podcasting 2.0's got it going on",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2023
+    },
+    {
+      "title": "Making AI useful",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2221
+    },
+    {
+      "title": "🙌 Adam loves my chapters! 🙌",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2304
+    },
+    {
+      "title": "Thurrott on AI",
+      "img": "https://noagendachapterart.com/PC20/0135/WindowsWeekly.jpg",
+      "startTime": 2340
+    },
+    {
+      "title": "AI Fun",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2550
+    },
+    {
+      "title": "A Podfather plea",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2641
+    },
+    {
+      "title": "Start9",
+      "img": "https://noagendachapterart.com/PC20/0135/Start9.jpg",
+      "startTime": 2703
+    },
+    {
+      "title": "Re-creating the music industry",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3436
+    },
+    {
+      "title": "🎵 The Sunshine Never Comes, from  Halfway To Somwhere 🎵",
+      "url": "https://www.wavlake.com/late-night-special",
+      "img": "https://noagendachapterart.com/PC20/0135/LateNightSpecial.jpg",
+      "startTime": 3710
+    },
+    {
+      "title": "GUID's",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4069
+    },
+    {
+      "title": "Utility",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4343
+    },
+    {
+      "title": "Alby down 😔",
+      "img": "https://noagendachapterart.com/PC20/0135/Alby.jpg",
+      "startTime": 4916
+    },
+    {
+      "title": "Badges, we love our badges. 📛",
+      "img": "https://noagendachapterart.com/PC20/0135/Badge.jpg",
+      "startTime": 5033
+    },
+    {
+      "title": "Fountain transcripts. 📝",
+      "url": "https://fountainpodcasts.substack.com/p/what-are-podcasting-2-0-transcripts",
+      "img": "https://noagendachapterart.com/PC20/0135/Fountain_Transcripts.jpg",
+      "startTime": 5068
+    },
+    {
+      "title": "Guest chooses the song 🎧",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5186
+    },
+    {
+      "title": "Hot sexy namespace talk 🔥",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5205
+    },
+    {
+      "title": "V4V 🪙",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5746
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7219
+    },
+    {
+      "title": "Chip in",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7243
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 7279
+    },
+    {
+      "title": "Changing the world 🌎🌍🌏",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7420
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7521
+    },
+    {
+      "title": "🎵 Bryce by Boys Home 🎵",
+      "img": "https://noagendachapterart.com/PC20/0135/Band2_BoysHome.jpg",
+      "startTime": 7581
+    }
+  ],
+  "version": "1.0.0"
+}

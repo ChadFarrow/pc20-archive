@@ -1,0 +1,144 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "url": "https://hypercatcher.com/",
+      "startTime": 5
+    },
+    {
+      "title": "Intro",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 15
+    },
+    {
+      "title": "Live",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 120
+    },
+    {
+      "title": "V4V enabled onboarding",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 300
+    },
+    {
+      "title": "Split Kit?",
+      "url": "https://www.eldingar.com/",
+      "img": "https://noagendachapterart.com/PC20/0129/Eldingar.jpg",
+      "startTime": 350
+    },
+    {
+      "title": "The 502-502",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 720
+    },
+    {
+      "title": "Chat",
+      "url": "https://chat.podcastindex.org/?cid=d778e25f92c084e65ab18f0470f498a802745c0df7",
+      "img": "https://noagendachapterart.com/PC20/0129/chat.jpg",
+      "startTime": 1080
+    },
+    {
+      "title": "Welcome Wavelake",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake.jpg",
+      "startTime": 1935
+    },
+    {
+      "title": "Podfather storytime: PodSafe music license",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 2970
+    },
+    {
+      "title": "RemoteItem",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3135
+    },
+    {
+      "title": "Proper music experience on a mobile device?",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3180
+    },
+    {
+      "title": "Auto & Lit",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3450
+    },
+    {
+      "title": "Music Discovery?",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake.jpg",
+      "startTime": 3720
+    },
+    {
+      "title": "Vetting the music?",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake.jpg",
+      "startTime": 4055
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4320
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 4680
+    },
+    {
+      "title": "Lit Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 4980
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5613
+    },
+    {
+      "title": "The monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6300
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6365
+    },
+    {
+      "title": "What’s left?",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake.jpg",
+      "startTime": 6435
+    },
+    {
+      "title": "Recommendations?",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake.jpg",
+      "startTime": 6550
+    },
+    {
+      "title": "Silver Unit",
+      "img": "https://noagendachapterart.com/PC20/0129/SilverUnit.jpg",
+      "url": "https://www.wavlake.com/silver-unit",
+      "startTime": 6590
+    },
+    {
+      "title": "Man Like Kweks",
+      "img": "https://noagendachapterart.com/PC20/0129/ManLikeKweks.jpg",
+      "url": "https://www.wavlake.com/don-kweka",
+      "startTime": 6622
+    },
+    {
+      "title": "Wavelake top 40",
+      "img": "https://noagendachapterart.com/PC20/0129/wavelake-top40.jpg",
+      "url": "https://www.wavlake.com/top",
+      "startTime": 6630
+    },
+    {
+      "title": "That's a Wrap",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 6680
+    }
+  ],
+  "version": "1.0.0"
+}

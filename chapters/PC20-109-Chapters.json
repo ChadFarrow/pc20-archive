@@ -1,0 +1,135 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 3
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 10
+    },
+    {
+      "title": "There's no place like 127.0.0.1",
+      "img": "https://noagendachapterart.com/PC20/NoPlaceLike.jpg",
+      "startTime": 150
+    },
+    {
+      "title": "No more PodLand?",
+      "img": "https://noagendachapterart.com/PC20/PodlandNews.jpg",
+      "startTime": 285
+    },
+    {
+      "title": "Twitter, Elon, & Trolls 🐥",
+      "img": "https://noagendachapterart.com/PC20/Trolls.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "GrapheneOS",
+      "url": "https://noagendaphone.com/",
+      "img": "https://noagendachapterart.com/PC20/NoAgendaPhone.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "ibexpay",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1040
+    },
+    {
+      "title": "Splits",
+      "img": "https://noagendachapterart.com/PC20/Split-7-10.jpg",
+      "startTime": 1215
+    },
+    {
+      "title": "Art Generator Splits",
+      "img": "https://noagendaartgenerator.com/assets/artwork/episode/1500/X120r5YTQG3.png",
+      "startTime": 1300
+    },
+    {
+      "title": "Conshax",
+      "url": "https://conshax.app/",
+      "img": "https://noagendachapterart.com/PC20/Conshax.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "Splits",
+      "img": "https://noagendachapterart.com/PC20/Split-7-10.jpg",
+      "startTime": 1647
+    },
+    {
+      "title": "IbexPay.io",
+      "url": "https://ibexpay.io",
+      "img": "https://noagendachapterart.com/PC20/ibexpay.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "Welcome John Spurlock",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "Bad DAI 👎",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2250
+    },
+    {
+      "title": "OP3.dev",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2896
+    },
+    {
+      "title": "Podcast:events",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3127
+    },
+    {
+      "title": "Pocket cast open source update",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4372
+    },
+    {
+      "title": "Events proof of concept",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4611
+    },
+    {
+      "title": "Value for value",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5293
+    },
+    {
+      "title": "Live booster grams",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5338
+    },
+    {
+      "title": "Podping fun",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5514
+    },
+    {
+      "title": "PayPal",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5746
+    },
+    {
+      "title": "Boosts & monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5864
+    },
+    {
+      "title": "Thank You!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": null
+    },
+    {
+      "title": "wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": null
+    }
+  ],
+  "version": "1.0.0"
+}

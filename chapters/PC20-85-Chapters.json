@@ -1,0 +1,306 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Doing it live",
+      "img": "https://noagendachapterart.com/PC20/Live.jpg",
+      "startTime": 104
+    },
+    {
+      "title": "Welcome Mitch!",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 162
+    },
+    {
+      "title": "Sovereign Feeds",
+      "img": "https://noagendachapterart.com/PC20/General/SoverignFeeds.jpg",
+      "startTime": 316
+    },
+    {
+      "title": "Handling the caching issue",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 455
+    },
+    {
+      "title": "Doing it live!",
+      "img": "https://noagendachapterart.com/PC20/Live.jpg",
+      "startTime": 493
+    },
+    {
+      "title": "Doing it live with video",
+      "img": "https://noagendachapterart.com/PC20/Live.jpg",
+      "startTime": 630
+    },
+    {
+      "title": "Doing it live step-by-step",
+      "img": "https://noagendachapterart.com/PC20/Live.jpg",
+      "startTime": 718
+    },
+    {
+      "title": "Alby & web player",
+      "url": "https://getalby.com/",
+      "img": "https://noagendachapterart.com/PC20/Alby.jpg",
+      "startTime": 1065
+    },
+    {
+      "title": "Addressing ",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 1310
+    },
+    {
+      "title": "IPFS Podcasting",
+      "url": "http://ipfspodcasting.com/",
+      "img": "https://noagendachapterart.com/PC20/IPFS.jpg",
+      "startTime": 1545
+    },
+    {
+      "title": "What Happened (Luna)",
+      "img": "https://noagendachapterart.com/PC20/Luna_Sad.jpg",
+      "startTime": 1815
+    },
+    {
+      "title": "Great reset coming?",
+      "img": "https://noagendachapterart.com/PC20/DarrinO_Great_Reset.jpg",
+      "startTime": 2053
+    },
+    {
+      "title": "Podcast advertising $$ 🤣 ",
+      "img": "https://noagendachapterart.com/PC20/MoneyFaucet.jpg",
+      "startTime": 2176
+    },
+    {
+      "title": "PPP: Brand Safety",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 2311
+    },
+    {
+      "title": "🎶 For the love of podcasting 🎶",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 3792
+    },
+    {
+      "title": "Podping",
+      "img": "https://noagendachapterart.com/PC20/PodPing_on_Hive.jpg",
+      "startTime": 3852
+    },
+    {
+      "title": "Syncing with the index?",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 3951
+    },
+    {
+      "title": "Duplicate shenanigans ",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 4030
+    },
+    {
+      "title": "Hot sexy open source talk",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 4213
+    },
+    {
+      "title": "How are you doin?",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 4263
+    },
+    {
+      "title": "Sovereign Feeds Wallet",
+      "img": "https://noagendachapterart.com/PC20/General/SoverignFeeds.jpg",
+      "startTime": 4367
+    },
+    {
+      "title": "Discovery",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 4482
+    },
+    {
+      "title": "Clip sharing",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 4556
+    },
+    {
+      "title": "Soundbite",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 4760
+    },
+    {
+      "title": "Language translation",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 5110
+    },
+    {
+      "title": "Screenreader accessibility ",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 5258
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5333
+    },
+    {
+      "title": "I see you're writing something?",
+      "img": "https://noagendachapterart.com/PC20/WritingALetter-clippy.jpg",
+      "startTime": 5381
+    },
+    {
+      "title": "Chipping in",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5436
+    },
+    {
+      "title": "Boosting it Live!",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5475
+    },
+    {
+      "title": "PayPal donations",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5720
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5795
+    },
+    {
+      "title": "Mere mortals pod",
+      "img": "https://noagendachapterart.com/PC20/MereMortals.jpg",
+      "startTime": 5846
+    },
+    {
+      "title": "Sliek ",
+      "img": "https://noagendachapterart.com/PC20/The_Sliek_Podcast.jpg",
+      "startTime": 5862
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5880
+    },
+    {
+      "title": "Kyle Herbert ",
+      "img": "https://noagendachapterart.com/PC20/boombox.jpg",
+      "startTime": 5968
+    },
+    {
+      "title": "More chapters on the way",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6000
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6013
+    },
+    {
+      "title": "Natalie Brunel",
+      "startTime": 6138
+    },
+    {
+      "title": "Podcasters ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6190
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6289
+    },
+    {
+      "title": "Special boosts numbers",
+      "url": "https://github.com/Podnews-LLC/boostagram-numerology",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6387
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6487
+    },
+    {
+      "title": "V4v pod",
+      "url": "https://v4vpodcast.fun/@v4vpodcast",
+      "img": "https://noagendachapterart.com/PC20/Value_For_Value_Podcast.jpg",
+      "startTime": 6605
+    },
+    {
+      "title": "The monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6748
+    },
+    {
+      "title": "Podverse",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 6758
+    },
+    {
+      "title": "Gates! ",
+      "startTime": 6799
+    },
+    {
+      "title": "Hypercatcher",
+      "img": "https://noagendachapterart.com/PC20/HC_Studio.jpg",
+      "startTime": 6833
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6844
+    },
+    {
+      "title": "Chip in",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6893
+    },
+    {
+      "title": "Captcha fun",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6906
+    },
+    {
+      "title": "Exposing your private env - stick it right up in there",
+      "startTime": 7035
+    },
+    {
+      "title": "Thank you Mitch!",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 7314
+    },
+    {
+      "title": "Sovereign Feeds Wallet",
+      "img": "https://noagendachapterart.com/PC20/General/SoverignFeeds.jpg",
+      "startTime": 7346
+    },
+    {
+      "title": "Give podverse a try",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 7368
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7425
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,129 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 4
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 11
+    },
+    {
+      "title": "Speed limit",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 236
+    },
+    {
+      "title": "NPR layoffs",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 685
+    },
+    {
+      "title": "Podfather tips ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1043
+    },
+    {
+      "title": "Advertising ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1237
+    },
+    {
+      "title": "Rooting for unemployment?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1497
+    },
+    {
+      "title": "Book: secrets of the temple",
+      "img": "https://noagendachapterart.com/PC20/0123/Secrets_of_the_Temple.jpg",
+      "startTime": 1583
+    },
+    {
+      "title": "Welcome Roy Breeze",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 1740
+    },
+    {
+      "title": "Breeze",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 2023
+    },
+    {
+      "title": "State of wallets",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 2274
+    },
+    {
+      "title": "The pillars of custodial versus non-custodial wallet",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 2386
+    },
+    {
+      "title": "Taking the Breez tour",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 2933
+    },
+    {
+      "title": "Nostr - key send - LNURL mafia?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3469
+    },
+    {
+      "title": "Lightning use cases",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4778
+    },
+    {
+      "title": "When can I build with the Breez SDK?",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 5094
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5170
+    },
+    {
+      "title": "Live Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5308
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6058
+    },
+    {
+      "title": "The Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6983
+    },
+    {
+      "title": "Thank You!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7010
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7033
+    },
+    {
+      "title": "Roy wrap?",
+      "img": "https://noagendachapterart.com/PC20/Breez.jpg",
+      "startTime": 7089
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7141
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -295,6 +295,7 @@ Keywords</p>]]></description>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-12-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-12-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 13: Fire in the Hole</title>
@@ -625,6 +626,7 @@ Keywords</p>]]></description>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-23-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-23-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 24: Value Economics</title>
@@ -2264,6 +2266,7 @@ Keywords</p>]]></description>
       <itunes:episode>68</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-68-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-68-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 69: All Aboard!</title>
@@ -2315,6 +2318,7 @@ Keywords</p>]]></description>
       <itunes:episode>69</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-69-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-69-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 70: Testing the TAM</title>
@@ -2348,6 +2352,7 @@ Keywords</p>]]></description>
       <itunes:episode>70</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-70-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-70-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 71: SPECS and SPACS</title>
@@ -2386,6 +2391,7 @@ Keywords</p>]]></description>
       <itunes:episode>71</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-71-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-71-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 72: Hitting the Apex</title>
@@ -2422,6 +2428,7 @@ Keywords</p>]]></description>
       <itunes:episode>72</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-72-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-72-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 73: Spinning Gold out of Yarn</title>
@@ -2450,6 +2457,7 @@ Keywords</p>]]></description>
       <itunes:episode>73</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-73-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-73-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 74: Confetti Canon</title>
@@ -2498,6 +2506,7 @@ Keywords</p>]]></description>
       <itunes:episode>74</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-74-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-74-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 75: Liquidifying for Love</title>
@@ -2537,6 +2546,7 @@ Keywords</p>]]></description>
       <itunes:episode>75</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-75-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-75-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 76: Pining for PodPing</title>
@@ -2570,6 +2580,7 @@ Keywords</p>]]></description>
       <itunes:episode>76</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-76-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-76-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 77: Is that a minipub in your pocket?</title>
@@ -2601,6 +2612,7 @@ Keywords</p>]]></description>
       <itunes:episode>77</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-77-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-77-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 78: Dice in the Can</title>
@@ -2632,6 +2644,7 @@ Keywords</p>]]></description>
       <itunes:episode>78</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-78-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-78-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 79: Users and Developers Partying Together</title>
@@ -2670,6 +2683,7 @@ Keywords</p>]]></description>
       <itunes:episode>79</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-79-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-79-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 80: Wheels Up</title>
@@ -2705,6 +2719,7 @@ Keywords</p>]]></description>
       <itunes:episode>80</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-80-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-80-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 81: Nodes of Joy</title>
@@ -2741,6 +2756,7 @@ Keywords</p>]]></description>
       <itunes:episode>81</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-81-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-81-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 82: Ranking the Stars</title>
@@ -2776,6 +2792,7 @@ Keywords</p>]]></description>
       <itunes:episode>82</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-82-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-82-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 83: Pushin' Paper</title>
@@ -2817,6 +2834,7 @@ Keywords</p>]]></description>
       <itunes:episode>83</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-83-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-83-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 84: All Aboard to On-Board!</title>
@@ -2850,6 +2868,7 @@ Keywords</p>]]></description>
       <itunes:episode>84</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-84-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-84-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 85: Loot The Room!</title>
@@ -2881,6 +2900,7 @@ Keywords</p>]]></description>
       <itunes:episode>85</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-85-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-85-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 86: Stackin' Salad Dressing</title>
@@ -2908,6 +2928,7 @@ Keywords</p>]]></description>
       <itunes:episode>86</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-86-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-86-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 87: Freerange &amp; Unsupervised</title>
@@ -2940,6 +2961,7 @@ Keywords</p>]]></description>
       <itunes:episode>87</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-87-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-87-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 88: Hittin' the Hockey Stick</title>
@@ -2975,6 +2997,7 @@ Keywords</p>]]></description>
       <itunes:episode>88</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-88-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-88-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 89: Poll Juice</title>
@@ -3016,6 +3039,7 @@ Keywords</p>]]></description>
       <itunes:episode>89</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-89-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-89-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 90: J and K</title>
@@ -3039,6 +3063,7 @@ Keywords</p>]]></description>
       <itunes:episode>90</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-90-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-90-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 91: Splitting the Tab</title>
@@ -3058,6 +3083,7 @@ Keywords</p>]]></description>
       <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-91-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-91-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 92: Space Boost</title>
@@ -3088,6 +3114,7 @@ Keywords</p>]]></description>
       <itunes:episode>92</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-92-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-92-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 93: Motion of Positivity</title>
@@ -3117,6 +3144,7 @@ Keywords</p>]]></description>
       <itunes:episode>93</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-93-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-93-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 94: Bells Out</title>
@@ -3144,6 +3172,7 @@ Keywords</p>]]></description>
       <itunes:episode>94</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-94-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-94-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 95: We Are The Jazz</title>
@@ -3165,6 +3194,7 @@ Keywords</p>]]></description>
       <itunes:episode>95</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-95-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-95-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 96: Foie Gras</title>
@@ -3188,6 +3218,7 @@ Keywords</p>]]></description>
       <itunes:episode>96</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-96-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-96-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 97: Forever Fifteen</title>
@@ -3217,6 +3248,7 @@ Keywords</p>]]></description>
       <itunes:episode>97</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-97-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-97-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 98: Girl Friday</title>
@@ -3241,6 +3273,7 @@ Keywords</p>]]></description>
       <itunes:episode>98</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-98-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-98-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 99: Airhorns are LIT!</title>
@@ -3268,6 +3301,7 @@ Keywords</p>]]></description>
       <itunes:episode>99</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-99-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-99-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
       <title>Episode 100: Streamers and Dreamers</title>
@@ -3294,6 +3328,7 @@ Keywords</p>]]></description>
       <itunes:episode>100</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <podcast:transcript url="https://mp3s.nashownotes.com/PC20-100-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-100-Chapters.json" type="application/json+chapters"/>
     </item>
   </channel>
 </rss>

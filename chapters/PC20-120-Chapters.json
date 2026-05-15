@@ -1,0 +1,154 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 10
+    },
+    {
+      "title": "Splits vs fees",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 180
+    },
+    {
+      "title": "Attributes, values, aliases, and more",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1260
+    },
+    {
+      "title": "Email address removal is a nightmare for feed verification",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1710
+    },
+    {
+      "title": "Welcome Todd and Mike from BluBrry",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 2475
+    },
+    {
+      "title": "LIT? How are you handling it?",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 3045
+    },
+    {
+      "title": "Getting things into apps",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 3180
+    },
+    {
+      "title": "Taking back the namespace and features",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3360
+    },
+    {
+      "title": "Apps & features",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3600
+    },
+    {
+      "title": "Getting organized?",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4020
+    },
+    {
+      "title": "Feeding the app developers",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4200
+    },
+    {
+      "title": "Customers",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4470
+    },
+    {
+      "title": "Monetizing your podcast #RealTalk",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4590
+    },
+    {
+      "title": "Living up in a down world",
+      "img": "https://noagendachapterart.com/PC20/0120/LivingUpInADownWorld.jpg",
+      "startTime": 4693
+    },
+    {
+      "title": "Doing it live and other interactions",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4800
+    },
+    {
+      "title": "Beautiful integrations & features",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 4980
+    },
+    {
+      "title": "Helping people",
+      "img": "https://noagendachapterart.com/PC20/0120/BluBrry.jpg",
+      "startTime": 5130
+    },
+    {
+      "title": "Podping.watch",
+      "url": "https://podping.watch/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5230
+    },
+    {
+      "title": "Raw web traffic",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5355
+    },
+    {
+      "title": "Cross app comments hosting & moderation",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5463
+    },
+    {
+      "title": "NOSTR",
+      "img": "https://noagendachapterart.com/PC20/0120/nostr.jpg",
+      "startTime": 5640
+    },
+    {
+      "title": "Universal Identities",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5835
+    },
+    {
+      "title": "Live Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5970
+    },
+    {
+      "title": "RSS.com mega donation",
+      "img": "https://noagendachapterart.com/PC20/0120/RSScom-logo-768.jpg",
+      "startTime": 6300
+    },
+    {
+      "title": "Make Good",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6385
+    },
+    {
+      "title": "Boostagrams",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 6420
+    },
+    {
+      "title": "Monthlies & Tally Coin",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7110
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7155
+    }
+  ],
+  "version": "1.0.0"
+}

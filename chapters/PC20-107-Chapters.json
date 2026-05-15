@@ -1,0 +1,167 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 11
+    },
+    {
+      "title": "Bavarian legend 🥨",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/bavarianPretzel.jpg",
+      "startTime": 300
+    },
+    {
+      "title": "Pocket Casts now open source",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PocketCasts.jpg",
+      "startTime": 420
+    },
+    {
+      "title": "V4V & Premium apps",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 430
+    },
+    {
+      "title": "Feedback: it's like nudism",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1530
+    },
+    {
+      "title": "Everything included? 🔋🔋",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1770
+    },
+    {
+      "title": "Co-pilot - Clippy autocomplete? 📎🖇",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar-Clippy.jpg",
+      "startTime": 1980
+    },
+    {
+      "title": "Open Issues - Close them?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 2160
+    },
+    {
+      "title": "Podping",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PodPing_on_Hive.jpg",
+      "startTime": 2460
+    },
+    {
+      "title": "Namespace",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 2940
+    },
+    {
+      "title": "Timing is Everything ⌚",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/timing-is-everything-cover.jpg",
+      "startTime": 3300
+    },
+    {
+      "title": "Metadata?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 3420
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3840
+    },
+    {
+      "title": "Boosting Live",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 3930
+    },
+    {
+      "title": "PayPal 🤑",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4200
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 4380
+    },
+    {
+      "title": "Music 2.0 🎶🎵",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5220
+    },
+    {
+      "title": "Boosts delimited",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5580
+    },
+    {
+      "title": "Thank you! Chip in! 🙏",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 5670
+    },
+    {
+      "title": "Gimlet demise",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Gimlet.jpg",
+      "startTime": 5700
+    },
+    {
+      "title": "Over Production? 🎧🎧🎧🎧🎧",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5820
+    },
+    {
+      "title": "Thank you 🙏",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6480
+    },
+    {
+      "title": "Coming up 📅",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 6540
+    },
+    {
+      "title": "chit chat",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 6600
+    },
+    {
+      "title": "Podfather story time - Celebrity Detox",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6660
+    },
+    {
+      "title": "Wrap",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/ClippyPC2.0.jpg",
+      "startTime": 6780
+    }
+  ],
+  "version": "1.0.0"
+}

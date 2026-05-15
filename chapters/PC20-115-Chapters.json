@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 9
+    },
+    {
+      "title": "Welcome James",
+      "img": "https://noagendachapterart.com/PC20/0115/PodNews_Daily.jpg",
+      "startTime": 288
+    },
+    {
+      "title": "Podcast: Podnews Daily",
+      "img": "https://noagendachapterart.com/PC20/0115/PodNews_Daily.jpg",
+      "startTime": 361
+    },
+    {
+      "title": "Head of gravity",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 388
+    },
+    {
+      "title": "Doing it Live?",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 559
+    },
+    {
+      "title": "Podverse bugs stomped ",
+      "img": "https://noagendachapterart.com/PC20/0115/Podverse-768.jpg",
+      "startTime": 1495
+    },
+    {
+      "title": "Breeze too!",
+      "img": "https://noagendachapterart.com/PC20/0115/Breez.jpg",
+      "startTime": 1533
+    },
+    {
+      "title": "Cross app comments?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1668
+    },
+    {
+      "title": "Podfather Story time: decentralized systems DSC",
+      "img": "https://noagendachapterart.com/PC20/0115/DSC.jpg",
+      "startTime": 2942
+    },
+    {
+      "title": "Fountain stats for 2022",
+      "img": "https://noagendachapterart.com/PC20/0115/DSC.jpg",
+      "startTime": 3918
+    },
+    {
+      "title": "Podnews daily",
+      "img": "https://noagendachapterart.com/PC20/0115/PodNews_Daily.jpg",
+      "startTime": 4022
+    },
+    {
+      "title": "Live One going public?",
+      "url": "https://www.billboard.com/pro/liveone-podcasting-division-files-sec-spinoff/",
+      "img": "https://noagendachapterart.com/PC20/0115/Live_One.jpg",
+      "startTime": 4113
+    },
+    {
+      "title": "The state of subscription revenue?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4445
+    },
+    {
+      "title": "Swedish market",
+      "img": "https://noagendachapterart.com/PC20/0115/Sweden.jpg",
+      "startTime": 4716
+    },
+    {
+      "title": "Subscription services",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4836
+    },
+    {
+      "title": "Apple android podcast app",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4899
+    },
+    {
+      "title": "Killing the advertising based free hosting",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4937
+    },
+    {
+      "title": "Hosting companies could be doing more",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5028
+    },
+    {
+      "title": "A Podfather thought experiment",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5245
+    },
+    {
+      "title": "They just can't do it",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5467
+    },
+    {
+      "title": "Boosting it Live!",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5796
+    },
+    {
+      "title": "Fiat fun coupons",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5943
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6163
+    },
+    {
+      "title": "Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7161
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7188
+    },
+    {
+      "title": "New Podcast Apps",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7228
+    },
+    {
+      "title": "Congrats on your Voluntary 1099k",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7247
+    },
+    {
+      "title": "Podcast takedown notice",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7322
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7789
+    }
+  ],
+  "version": "1.0.0"
+}

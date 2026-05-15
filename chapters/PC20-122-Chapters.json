@@ -1,0 +1,119 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 15
+    },
+    {
+      "title": "Podcast Apps dot com",
+      "url": "Podcastapps.com",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 285
+    },
+    {
+      "title": "Doing it live!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 425
+    },
+    {
+      "title": "Battling the scraper",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 480
+    },
+    {
+      "title": "NOSTR - Breaking the world",
+      "img": "https://noagendachapterart.com/PC20/0121/nostr.jpg",
+      "startTime": 865
+    },
+    {
+      "title": "Spending it in the system - Madge I soaked in it",
+      "img": "https://noagendachapterart.com/PC20/0121/YoureSoakingInIt.jpg",
+      "startTime": 1980
+    },
+    {
+      "title": "You cannot monetize the network",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2280
+    },
+    {
+      "title": "Podcast Apps",
+      "url": "http://podcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2490
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 2800
+    },
+    {
+      "title": "Welcome Nathan G - Steno.fm & Transcripts",
+      "url": "https://steno.fm",
+      "img": "https://noagendachapterart.com/PC20/0121/StenoFM.jpg",
+      "startTime": 2930
+    },
+    {
+      "title": "Podcast Index Updates",
+      "img": "https://noagendachapterart.com/PC20/0121/Index_Updates.jpg",
+      "startTime": 5220
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5733
+    },
+    {
+      "title": "Boosting it Live!",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5793
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6060
+    },
+    {
+      "title": "Castamatic Boost Retry",
+      "img": "https://noagendachapterart.com/PC20/0121/Castamatic_Boost_Retry.jpg",
+      "startTime": 6285
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6345
+    },
+    {
+      "title": "Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6594
+    },
+    {
+      "title": "New Stuff",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6780
+    },
+    {
+      "title": "Thank You Nathan G",
+      "img": "https://noagendachapterart.com/PC20/0121/StenoFMLogo.jpg",
+      "startTime": 6945
+    },
+    {
+      "title": "Wrap",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6970
+    }
+  ],
+  "version": "1.0.0"
+}

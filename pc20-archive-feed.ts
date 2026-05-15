@@ -24,7 +24,7 @@
  *   DOWNLOAD_ALL=1      // download all PC20 files (audio + companions), not just mp3s
  */
 
-import { writeFileSync, createWriteStream } from "node:fs";
+import { writeFileSync, createWriteStream, readdirSync, existsSync } from "node:fs";
 import { mkdir, stat } from "node:fs/promises";
 import { join } from "node:path";
 import { pipeline } from "node:stream/promises";
@@ -35,6 +35,8 @@ const INDEX_URL = "https://mp3s.nashownotes.com/";
 const FEED_URL = "https://mp3s.nashownotes.com/pc20rss.xml";
 const CDX = "https://web.archive.org/cdx/search/cdx";
 const ART_URL = "https://chadfarrow.github.io/pc20-archive/cover.jpg";
+const REHOST_BASE = "https://chadfarrow.github.io/pc20-archive/chapters/";
+const REHOST_DIR = "chapters";
 
 // Any file whose name starts with PC20-<ep>...
 const PC20_ANY_RE = /^PC20-(\d{1,4})\b/i;
@@ -163,6 +165,29 @@ function bundle(files: Pc20File[]): Map<number, Bundle> {
     else b.other.push(f);
   }
   return map;
+}
+
+// Files in ./chapters/ are republished as <podcast:chapters> tags pointing at
+// the GitHub Pages mirror. Source content for these came from Wayback
+// snapshots of the original Hypercatcher-hosted JSONs (now defunct) — see
+// fetch-archived-chapters.ts.
+function rehostedChapters(): Pc20File[] {
+  if (!existsSync(REHOST_DIR)) return [];
+  const out: Pc20File[] = [];
+  for (const filename of readdirSync(REHOST_DIR)) {
+    const m = filename.match(/^PC20-(\d{1,4})-Chapters\.json$/i);
+    if (!m) continue;
+    const episode = parseInt(m[1], 10);
+    out.push({
+      filename,
+      url: REHOST_BASE + encodeURIComponent(filename),
+      episode,
+      kind: "chapters",
+      ext: "json",
+      mimeType: "application/json+chapters",
+    });
+  }
+  return out;
 }
 
 // ---------- 3) Wayback snapshots of pc20rss.xml ----------
@@ -390,16 +415,21 @@ async function main() {
   const maxSnaps = Number(process.env.MAX_SNAPS ?? 25);
 
   console.error(`[1/4] scraping ${INDEX_URL}`);
-  const files = await scrapeIndex();
-  const byKind = files.reduce<Record<Kind, number>>(
+  const scraped = await scrapeIndex();
+  const byKind = scraped.reduce<Record<Kind, number>>(
     (acc, f) => ((acc[f.kind] = (acc[f.kind] ?? 0) + 1), acc),
     { audio: 0, transcript: 0, captions: 0, chapters: 0, other: 0 }
   );
   console.error(
-    `      matched ${files.length} PC20-* files — ` +
+    `      matched ${scraped.length} PC20-* files — ` +
     `${byKind.audio} audio, ${byKind.transcript} transcripts, ${byKind.captions} captions, ` +
       `${byKind.chapters} chapter files, ${byKind.other} other`
   );
+  const rehosted = rehostedChapters();
+  if (rehosted.length) {
+    console.error(`      rehosted chapters from ${REHOST_DIR}/: ${rehosted.length}`);
+  }
+  const files = [...scraped, ...rehosted];
 
   if (process.env.DUMP_FILES === "1") {
     for (const f of files.sort((a, b) => a.episode - b.episode || a.filename.localeCompare(b.filename))) {

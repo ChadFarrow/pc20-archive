@@ -1,0 +1,105 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 0
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 9
+    },
+    {
+      "title": "R0decaster Pro II",
+      "img": "https://noagendachapterart.com/PC20/R0DECaster_Pro_II.jpg",
+      "startTime": 73
+    },
+    {
+      "title": "StarLink",
+      "img": "https://noagendachapterart.com/PC20/Starlink.jpg",
+      "startTime": 1169
+    },
+    {
+      "title": "5G on C-Band",
+      "img": "https://noagendachapterart.com/PC20/5g-cband.jpg",
+      "startTime": 1461
+    },
+    {
+      "title": "Doing it Live!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 1644
+    },
+    {
+      "title": "Live Big Baller!",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 1679
+    },
+    {
+      "title": "Congrats Fountain!",
+      "img": "https://noagendachapterart.com/PC20/Fountain.jpg",
+      "startTime": 1970
+    },
+    {
+      "title": "FEEs-FInancing-FOrtunes-FUnding",
+      "img": "https://noagendachapterart.com/PC20/MoneyFaucet.jpg",
+      "startTime": 2287
+    },
+    {
+      "title": "Ask the Podfather ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5726
+    },
+    {
+      "title": "Boosting it Live",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5857
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5913
+    },
+    {
+      "title": "PayPal ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6087
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6199
+    },
+    {
+      "title": "Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7333
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7364
+    },
+    {
+      "title": "Next on the list?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7478
+    },
+    {
+      "title": "See you next week!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7560
+    },
+    {
+      "title": "That's a wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7618
+    }
+  ],
+  "version": "1.0.0"
+}

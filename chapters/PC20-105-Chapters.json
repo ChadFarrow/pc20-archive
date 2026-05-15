@@ -1,0 +1,131 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 10
+    },
+    {
+      "title": "Podcast industrial complex",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 300
+    },
+    {
+      "title": "Clip gift",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 500
+    },
+    {
+      "title": "Let's talk about Value 4 Value baby (friendly monster)",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 575
+    },
+    {
+      "title": "Feed the sheep.",
+      "url": "https://www.twitch.tv/tanglesheep",
+      "img": "https://noagendachapterart.com/PC20/Sheep.jpg",
+      "startTime": 840
+    },
+    {
+      "title": "Developers, Developers, Developers",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1080
+    },
+    {
+      "title": "Uploading everywhere?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1350
+    },
+    {
+      "title": "Naming things",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1620
+    },
+    {
+      "title": "Blueberry adds podping ",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PodPing_on_Hive.jpg",
+      "startTime": 2310
+    },
+    {
+      "title": "Peer tube v4v",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/PeerTube.jpg",
+      "startTime": 2375
+    },
+    {
+      "title": "podcast:events",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2570
+    },
+    {
+      "title": "Data portability?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3300
+    },
+    {
+      "title": "Txt tag",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3570
+    },
+    {
+      "title": "Live Boosts",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 3870
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 4140
+    },
+    {
+      "title": "Monthlies",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5375
+    },
+    {
+      "title": "Chip In",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5400
+    },
+    {
+      "title": "New Podcast Apps",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5460
+    },
+    {
+      "title": "Carrying water?",
+      "url": "",
+      "img": "https://noagendachapterart.com/PC20/Carrying_Water.jpg",
+      "startTime": 5500
+    },
+    {
+      "title": "Wrap",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5880
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,168 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 4
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 10
+    },
+    {
+      "title": "Streaming vs downlaoding",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 221
+    },
+    {
+      "title": "Grill report",
+      "img": "https://noagendachapterart.com/PC20/Gold_Teeth.jpg",
+      "startTime": 472
+    },
+    {
+      "title": "IBEX update",
+      "img": "https://noagendachapterart.com/PC20/ibexpay.jpg",
+      "startTime": 791
+    },
+    {
+      "title": "Scheduling your value",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1019
+    },
+    {
+      "title": "Umbrel OakNode bcron",
+      "img": "https://noagendachapterart.com/PC20/OakNode.jpg",
+      "startTime": 1173
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1473
+    },
+    {
+      "title": "Podping 2.0",
+      "img": "https://noagendachapterart.com/PC20/PodpingCloud2.0.jpg",
+      "startTime": 1556
+    },
+    {
+      "title": "The Medium =",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1739
+    },
+    {
+      "title": "Cap'n Proto",
+      "img": "https://noagendachapterart.com/PC20/CapnProto.jpg",
+      "startTime": 1820
+    },
+    {
+      "title": "Podping architecture ",
+      "img": "https://noagendachapterart.com/PC20/PodpingCloud2.0.jpg",
+      "startTime": 2180
+    },
+    {
+      "title": "Doing Other backends",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2215
+    },
+    {
+      "title": "Hole punch",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2256
+    },
+    {
+      "title": "Diversifying your back ends",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2358
+    },
+    {
+      "title": "Trilium umbrel",
+      "img": "https://noagendachapterart.com/PC20/Trilium.jpg",
+      "startTime": 2449
+    },
+    {
+      "title": "Where are Cross App Comments?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2697
+    },
+    {
+      "title": "Apple using namespace?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3229
+    },
+    {
+      "title": "Stats",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3496
+    },
+    {
+      "title": "Castle app",
+      "img": "https://noagendachapterart.com/PC20/Castle_App.jpg",
+      "startTime": 4185
+    },
+    {
+      "title": "Index duplicates",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4223
+    },
+    {
+      "title": "Slurpee",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4289
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4331
+    },
+    {
+      "title": "New Podcast Apps",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4387
+    },
+    {
+      "title": "Fiat Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4406
+    },
+    {
+      "title": "Live Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 4607
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 4691
+    },
+    {
+      "title": "Now with Improved Hearing!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5768
+    },
+    {
+      "title": "Nonthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5989
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6066
+    },
+    {
+      "title": "Wrap",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6104
+    }
+  ],
+  "version": "1.0.0"
+}

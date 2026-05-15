@@ -1,0 +1,145 @@
+{
+  "chapters": [
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 11
+    },
+    {
+      "title": "It's coming together live",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 207
+    },
+    {
+      "title": "Nms live",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 245
+    },
+    {
+      "title": "Hls ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 269
+    },
+    {
+      "title": "It's all about the relays baby",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 545
+    },
+    {
+      "title": "Dreb will be doin' his thing soon!",
+      "img": "https://noagendaassets.com/enc/1601061118.678_pciavatar.jpg",
+      "startTime": 600
+    },
+    {
+      "title": "WSS",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 722
+    },
+    {
+      "title": "It's all about the Relay, Baby!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 808
+    },
+    {
+      "title": "Podverse",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 907
+    },
+    {
+      "title": "PodcastApps",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1012
+    },
+    {
+      "title": "Lawful but awful podcasts",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1073
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://value4value.info/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2662
+    },
+    {
+      "title": "Throw it into your AI",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2706
+    },
+    {
+      "title": "Subscriptions",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3067
+    },
+    {
+      "title": "BarfGPT?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3793
+    },
+    {
+      "title": "I see you're wrong an email",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3902
+    },
+    {
+      "title": "SocialInteract Endpoint API: Aggregators; mount up",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4045
+    },
+    {
+      "title": "Tables",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4280
+    },
+    {
+      "title": "If we had a bigger database",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4627
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/https://value4value.info/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5281
+    },
+    {
+      "title": "PayPal ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5766
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5808
+    },
+    {
+      "title": "Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6576
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6596
+    },
+    {
+      "title": "Chip in",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6614
+    },
+    {
+      "title": "Breeze SDK",
+      "startTime": 6672
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7220
+    }
+  ],
+  "version": "1.0.0"
+}

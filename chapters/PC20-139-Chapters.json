@@ -1,0 +1,121 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "url": "https://hypercatcher.com/",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 7
+    },
+    {
+      "title": "Did the internet brake today?",
+      "img": "https://noagendachapterart.com/PC20/0139/BrokenInternet.jpg",
+      "startTime": 495
+    },
+    {
+      "title": "Battle of the Podcast Industrial Complex Struggle",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 870
+    },
+    {
+      "title": "TikTok Podcasting?",
+      "img": "https://noagendachapterart.com/PC20/0139/Tiktok_logo-768.jpg",
+      "startTime": 1500
+    },
+    {
+      "title": "The magic of podcasting is gone",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1593
+    },
+    {
+      "title": "V4V - A value exchange",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1965
+    },
+    {
+      "title": "Stats & Subscriptions",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2580
+    },
+    {
+      "title": "Thanks for the value - Hey Citizen",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3180
+    },
+    {
+      "title": "Boosting to the XMPP ✂",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3420
+    },
+    {
+      "title": "Standards authorization",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3780
+    },
+    {
+      "title": "OP3 Stats",
+      "img": "https://noagendachapterart.com/PC20/0139/OP3.jpg",
+      "url": "https://op3.dev/",
+      "startTime": 4080
+    },
+    {
+      "title": "Bingit.io and the power of transcripts",
+      "url": "http://bingit.io/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4365
+    },
+    {
+      "title": "Verification & Ownership",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4785
+    },
+    {
+      "title": "Merging the dupes",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5100
+    },
+    {
+      "title": "V4V",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 5495
+    },
+    {
+      "title": "Wen this is over - Ali Mitchell",
+      "url": "https://podcastindex.org/podcast/6442935",
+      "img": "https://noagendachapterart.com/PC20/0139/Ali.jpg",
+      "startTime": 6520
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 6730
+    },
+    {
+      "title": "Music - Value for Value",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 6810
+    },
+    {
+      "title": "Magic Dupe Button? 🔘",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6860
+    },
+    {
+      "title": "Playing with the RØDECaster Duo",
+      "img": "https://noagendachapterart.com/PC20/0139/R0DECasterDuo.jpg",
+      "startTime": 6900
+    },
+    {
+      "title": "That's a wrap - see you next time",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7005
+    }
+  ],
+  "version": "1.0.0"
+}

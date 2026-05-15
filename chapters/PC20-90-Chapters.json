@@ -1,0 +1,164 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6
+    },
+    {
+      "title": "Doing it live. Live is Lit",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 229
+    },
+    {
+      "title": "The mission ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 622
+    },
+    {
+      "title": "Censorship ",
+      "img": "https://noagendachapterart.com/PC20/Censored.jpg",
+      "startTime": 686
+    },
+    {
+      "title": "Web 3 to save podcasting?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1369
+    },
+    {
+      "title": "Castopod hosting?",
+      "img": "https://noagendachapterart.com/PC20/Castopod.jpg",
+      "startTime": 1823
+    },
+    {
+      "title": "Congrats!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1953
+    },
+    {
+      "title": " NA Tube",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2002
+    },
+    {
+      "title": "It's working",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2406
+    },
+    {
+      "title": "Live item",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 2441
+    },
+    {
+      "title": "Doing it live is fun!",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 3193
+    },
+    {
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 3226
+    },
+    {
+      "title": "NA Tube Medium tag",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3438
+    },
+    {
+      "title": "Music API Structure",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3506
+    },
+    {
+      "title": "Discovery is important",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3613
+    },
+    {
+      "title": "API",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3848
+    },
+    {
+      "title": "Live music",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3872
+    },
+    {
+      "title": "Music podcasting",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 3944
+    },
+    {
+      "title": "Question: what are we building with a single point of failure?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4017
+    },
+    {
+      "title": "Podcasting 2.0: a safe space to build",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4301
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4364
+    },
+    {
+      "title": "Social ",
+      "url": "https://podcastindex.social/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4407
+    },
+    {
+      "title": "Support",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4429
+    },
+    {
+      "title": "Boost",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/TurboBoost.gif",
+      "startTime": 4577
+    },
+    {
+      "title": "Music casting",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5662
+    },
+    {
+      "title": "Month ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5978
+    },
+    {
+      "title": "Thank You!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6049
+    },
+    {
+      "title": "Boosting it live",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 6167
+    },
+    {
+      "title": "A Value for Value discussion",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6232
+    },
+    {
+      "title": "Wrapping ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 8571
+    }
+  ],
+  "version": "1.0.0"
+}

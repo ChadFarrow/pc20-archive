@@ -1,0 +1,121 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "url": "https://hypercatcher.com/",
+      "startTime": 1
+    },
+    {
+      "title": "Intro & Dave's new toy",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Clubhouse Pivot",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 500
+    },
+    {
+      "title": "Stock pricing",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 620
+    },
+    {
+      "title": "V4V music - excitement vs music scams",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 885
+    },
+    {
+      "title": "V4V music - appreciation via transactions",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 1200
+    },
+    {
+      "title": "Working to make it better",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1440
+    },
+    {
+      "title": "An industry reliant on advertising & social media",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1680
+    },
+    {
+      "title": "Valudation? ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1890
+    },
+    {
+      "title": "SQL Famous? ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 2040
+    },
+    {
+      "title": "A Music zig to the zag",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 2220
+    },
+    {
+      "title": "Spurlock - namespace adoption",
+      "url": "https://cdn.masto.host/podcastindexsocial/media_attachments/files/111/026/389/900/575/191/original/a609a7592d45e3e8.png",
+      "img": "https://noagendachapterart.com/PC20/0145/js-Namespace_Adoption-768.jpg",
+      "startTime": 2460
+    },
+    {
+      "title": "IPFS Fun  - Welcome Cameron & Alberto",
+      "img": "https://noagendachapterart.com/PC20/0145/IPFS_Podcasting.jpg",
+      "startTime": 2820
+    },
+    {
+      "title": "IPFS Nodes & Gateways",
+      "img": "https://noagendachapterart.com/PC20/0145/IPFS_Podcasting.jpg",
+      "startTime": 3960
+    },
+    {
+      "title": "Work Sucks Jon Ross",
+      "img": "https://noagendachapterart.com/PC20/0145/Work_Sucks_Jon_Ross.jpg",
+      "startTime": 5010
+    },
+    {
+      "title": "Thanks for the boosts",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5255
+    },
+    {
+      "title": "TLV Updates?",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5280
+    },
+    {
+      "title": "What can we do? ",
+      "img": "https://noagendachapterart.com/PC20/0145/IPFS_Podcasting.jpg",
+      "startTime": 5580
+    },
+    {
+      "title": "V4V & Live Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 6210
+    },
+    {
+      "title": "Boosts & PayPal's",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 6480
+    },
+    {
+      "title": "Thank You!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 7000
+    },
+    {
+      "title": "That's a wrap. See you next week!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "url": "https://podcastindex.org/",
+      "startTime": 7080
+    }
+  ],
+  "version": "1.0.0"
+}

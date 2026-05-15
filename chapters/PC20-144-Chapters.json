@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "url": "https://hypercatcher.com/",
+      "startTime": 1
+    },
+    {
+      "title": "We're Back!",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Dave got a new toy",
+      "img": "https://noagendachapterart.com/PC20/0144/R0DECasterDuo.jpg",
+      "startTime": 150
+    },
+    {
+      "title": "The R0decaster master",
+      "url": "https://www.youtube.com/@RodeCasterMaster",
+      "img": "https://noagendachapterart.com/PC20/0144/r0decastermaster.jpg",
+      "startTime": 735
+    },
+    {
+      "title": "Zero stars?",
+      "img": "https://noagendachapterart.com/PC20/0144/R0DECasterDuo.jpg",
+      "startTime": 900
+    },
+    {
+      "title": "Miscalculated - trying to slip one in",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1140
+    },
+    {
+      "title": "V4V music podcasts",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 1275
+    },
+    {
+      "title": "Repetition creates hits",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 1320
+    },
+    {
+      "title": "Moe Factz - The history of hip hop",
+      "img": "https://noagendachapterart.com/PC20/0144/1641441575.717_moefactzrowdy-768.jpg",
+      "url": "http://adam.curry.com/html/MoeFactzwithAdamCurr-XSzxNVc55mzC8CQR0lTQLftdt8vGXD.html",
+      "startTime": 1460
+    },
+    {
+      "title": "Its time has come - Music",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 1650
+    },
+    {
+      "title": "Feed snowballs",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 1800
+    },
+    {
+      "title": "The Geoff Smith",
+      "url": "https://www.thegeoffsmith.com/",
+      "img": "https://noagendachapterart.com/PC20/0144/Geoff_Smith.jpg",
+      "startTime": 1880
+    },
+    {
+      "title": "Musicians are better than podcasters",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 2100
+    },
+    {
+      "title": "Discovery became an algo",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 2235
+    },
+    {
+      "title": "Top of all music podcasts",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 2320
+    },
+    {
+      "title": "Podcast Jenga?",
+      "img": "https://noagendachapterart.com/PC20/0144/jenga.jpg",
+      "startTime": 2460
+    },
+    {
+      "title": "The Problem: Live boost example",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 2760
+    },
+    {
+      "title": "A solvable problem? ",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 3405
+    },
+    {
+      "title": "The chart - Attribution is hard",
+      "url": "http://podcastindex.top/",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 3540
+    },
+    {
+      "title": "Gravity by: Sir Geoff Smith",
+      "img": "https://noagendachapterart.com/PC20/0144/ThatsGravityGeoffSmith.jpg",
+      "url": "https://www.wavlake.com/geoff-smith",
+      "startTime": 4260
+    },
+    {
+      "title": "Running with scissors",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar_Running_w_Scissors.jpg",
+      "startTime": 4420
+    },
+    {
+      "title": "Separation between hosts and apps?",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4695
+    },
+    {
+      "title": "Deconstructing a hosting solution - IPFS Gateway",
+      "img": "https://noagendachapterart.com/PC20/0144/IPFS-768.jpg",
+      "startTime": 4800
+    },
+    {
+      "title": "The pain is coming from the music industry",
+      "img": "https://noagendachapterart.com/PC20/0144/Pain.jpg",
+      "startTime": 5400
+    },
+    {
+      "title": "Live Radio",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 5580
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5760
+    },
+    {
+      "title": "Live Boosts",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Live.jpg",
+      "startTime": 6135
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 6540
+    },
+    {
+      "title": "See you next week!",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7200
+    }
+  ],
+  "version": "1.0.0"
+}

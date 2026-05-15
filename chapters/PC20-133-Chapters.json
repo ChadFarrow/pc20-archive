@@ -1,0 +1,154 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Chicken casting 2.0",
+      "img": "https://noagendachapterart.com/PC20/0133/Rooster.jpg",
+      "startTime": 109
+    },
+    {
+      "title": "Top of the WavLake Charts",
+      "url": "https://www.wavlake.com/top",
+      "img": "https://noagendachapterart.com/PC20/0133/WavLakeTop40-768.JPG",
+      "startTime": 350
+    },
+    {
+      "title": "Podfriend 2.0",
+      "url": "https://www.podfriend.com/",
+      "img": "https://noagendachapterart.com/PC20/0133/PodFriend.jpg",
+      "startTime": 370
+    },
+    {
+      "title": "Value Time Split",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 621
+    },
+    {
+      "title": "Money Printer Go - Too Bit to Fail",
+      "url": "https://podcastindex.org/podcast/5983179",
+      "img": "https://noagendachapterart.com/PC20/0133/Pleb_rap.jpg",
+      "startTime": 987
+    },
+    {
+      "title": "Running with Scissors",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/0133/PC-RunningWith_Scissors_Sir_Peet.jpg",
+      "startTime": 1170
+    },
+    {
+      "title": "Fudge! by Matt Bigelow",
+      "url": "https://podcastindex.org/podcast/6369372",
+      "img": "https://noagendachapterart.com/PC20/0133/fudge.jpg",
+      "startTime": 1321
+    },
+    {
+      "title": "Welcome Mike from Red Circle 🔴 ",
+      "url": "https://redcircle.com/",
+      "img": "https://noagendachapterart.com/PC20/0133/RedCircle.jpg",
+      "startTime": 1502
+    },
+    {
+      "title": "Copycats?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2538
+    },
+    {
+      "title": "Supporting V4V",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2815
+    },
+    {
+      "title": "YouTube pods",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2933
+    },
+    {
+      "title": "Back to DAI",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3058
+    },
+    {
+      "title": "Ulid?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3240
+    },
+    {
+      "title": "What is brand safe?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3564
+    },
+    {
+      "title": "V4V?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4478
+    },
+    {
+      "title": "Podcast standards project?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4606
+    },
+    {
+      "title": "Web requests",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4846
+    },
+    {
+      "title": "Blocked by Cloudflare?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4974
+    },
+    {
+      "title": "Live Boostagrams",
+      "img": "https://noagendachapterart.com/PC20/General/Live.jpg",
+      "startTime": 5165
+    },
+    {
+      "title": "Paypal",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5469
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5568
+    },
+    {
+      "title": "Monthlies",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6305
+    },
+    {
+      "title": "Thank you!",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6351
+    },
+    {
+      "title": "WavLake",
+      "img": "https://noagendachapterart.com/PC20/0133/WavLakeTop40-768.JPG",
+      "startTime": 6401
+    },
+    {
+      "title": "Wrap",
+      "img": "https://noagendachapterart.com/PC20/General/music.jpg",
+      "startTime": 6543
+    },
+    {
+      "title": "Money printer go brrr",
+      "img": "https://noagendachapterart.com/PC20/0133/Pleb_rap.jpg",
+      "startTime": 6626
+    }
+  ],
+  "version": "1.0.0"
+}

@@ -1,0 +1,276 @@
+{
+  "chapters": [
+    {
+      "title": "Cloud chapters created with Hypercatcher",
+      "url": "https://hypercatcher.com/",
+      "img": "https://podcastindex.org/api/images/hypercatcher.jpg",
+      "startTime": 1
+    },
+    {
+      "title": "Intro",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5
+    },
+    {
+      "title": "Sovereign Feeds",
+      "url": "https://sovereignfeeds.com/",
+      "img": "https://noagendachapterart.com/PC20/General/SoverignFeeds.jpg",
+      "startTime": 188
+    },
+    {
+      "title": "Early adopter growing pains?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 252
+    },
+    {
+      "title": "Curiocaster",
+      "img": "https://noagendachapterart.com/PC20/curiocaster.jpg",
+      "startTime": 434
+    },
+    {
+      "title": "Podverse cross device sync",
+      "img": "https://noagendachapterart.com/PC20/Podverse-768.jpg",
+      "startTime": 486
+    },
+    {
+      "title": "Pre boosting",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 574
+    },
+    {
+      "title": "Sovereign webhook",
+      "img": "https://noagendachapterart.com/PC20/General/SoverignFeeds.jpg",
+      "startTime": 736
+    },
+    {
+      "title": "Podcasting 2.0: Stickin' it somewhere",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 788
+    },
+    {
+      "title": "BuzzSprout ad thingy",
+      "img": "https://noagendachapterart.com/PC20/Buzzsprout.jpg",
+      "startTime": 925
+    },
+    {
+      "title": "Targeting the backside",
+      "img": "https://noagendachapterart.com/PC20/donkey.jpg",
+      "startTime": 988
+    },
+    {
+      "title": "Boogity drop",
+      "img": "https://noagendachapterart.com/PC20/boogedy.jpg",
+      "startTime": 1002
+    },
+    {
+      "title": "Stats",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1024
+    },
+    {
+      "title": "Torcon",
+      "url": "https://podcastindex.org/podcast/4148683",
+      "img": "https://noagendachapterart.com/PC20/TorconVII.jpg",
+      "startTime": 1347
+    },
+    {
+      "title": "PornPod?",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 1426
+    },
+    {
+      "title": "Music 2.0",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 2208
+    },
+    {
+      "title": "Ok boomer",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2793
+    },
+    {
+      "title": "Kids want real music",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 2948
+    },
+    {
+      "title": "The aol analogy",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3042
+    },
+    {
+      "title": "Music 2.0 - Providing an easy way for music to see immediate results",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 3122
+    },
+    {
+      "title": "Stacking your album",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 3288
+    },
+    {
+      "title": "The missing liturgy of the world",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3366
+    },
+    {
+      "title": "The missing experience",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3500
+    },
+    {
+      "title": "Curry and the Keeper",
+      "img": "https://noagendaassets.com/enc/1653524225.891_curry.thekeeper13.png",
+      "startTime": 3548
+    },
+    {
+      "title": "A listeners guide to Boostagrams",
+      "url": "https://nathangathright.com/p/f7f83a3c-5207-497e-8f66-8f2d619a643e/",
+      "img": "https://noagendachapterart.com/PC20/boostagram-purple.jpg",
+      "startTime": 3633
+    },
+    {
+      "title": "Waiting for the drop",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3712
+    },
+    {
+      "title": "Black label society ",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 3763
+    },
+    {
+      "title": "Delayed release",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 3916
+    },
+    {
+      "title": "Tapping Indie",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4012
+    },
+    {
+      "title": "Free range ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4104
+    },
+    {
+      "title": "Vinyl return",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4214
+    },
+    {
+      "title": "RIP Andy Fletcher depech mode",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4253
+    },
+    {
+      "title": "Stevie",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4341
+    },
+    {
+      "title": "Music getting there",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4415
+    },
+    {
+      "title": "Finding the right contact",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4416
+    },
+    {
+      "title": "Rodecaster ii ",
+      "img": "https://noagendachapterart.com/PC20/R0DECaster_Pro_II.jpg",
+      "startTime": 4594
+    },
+    {
+      "title": "MIDI ",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4761
+    },
+    {
+      "title": "Straight pipes",
+      "img": "https://noagendachapterart.com/PC20/music.jpg",
+      "startTime": 4858
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4927
+    },
+    {
+      "title": "New Podcast Apps",
+      "url": "http://newpodcastapps.com/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 4972
+    },
+    {
+      "title": "Boostagrams",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/Boostagram_Icon.jpg",
+      "startTime": 5021
+    },
+    {
+      "title": "Tailscale",
+      "url": "https://tailscale.com/",
+      "startTime": 5485
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 5599
+    },
+    {
+      "title": "Book: perelandra",
+      "img": "https://noagendachapterart.com/PC20/fruit.jpg",
+      "startTime": 6167
+    },
+    {
+      "title": "Value for Value",
+      "url": "https://podcastindex.org/",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6335
+    },
+    {
+      "title": "V4V enabled feeds",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6613
+    },
+    {
+      "title": "Monthly ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6772
+    },
+    {
+      "title": "Podcast Index Shop Merch",
+      "url": "http://podcastindex.shop/",
+      "img": "https://noagendachapterart.com/PC20/General/podcastindexshop.jpg",
+      "startTime": 6852
+    },
+    {
+      "title": "Subscription ",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 6929
+    },
+    {
+      "title": "PCast://",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7141
+    },
+    {
+      "title": "Digital Id",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7234
+    },
+    {
+      "title": "Wrapping",
+      "img": "https://noagendachapterart.com/PC20/pciavatar.jpg",
+      "startTime": 7399
+    }
+  ],
+  "version": "1.0.0"
+}
