@@ -64,6 +64,7 @@ type FeedItem = {
   duration?: string;
   enclosureUrl?: string;
   filename?: string;
+  chaptersUrl?: string;
 };
 
 type Bundle = {
@@ -214,6 +215,7 @@ async function parseSnapshot(url: string): Promise<FeedItem[]> {
         duration: it["itunes:duration"],
         enclosureUrl,
         filename: enclosureUrl ? filenameFromUrl(enclosureUrl) : undefined,
+        chaptersUrl: it["podcast:chapters"]?.["@_url"] ?? undefined,
       } as FeedItem;
     });
   } catch {
@@ -309,15 +311,16 @@ function transcriptLines(b: Bundle): string {
   return tags.join("\n");
 }
 
-function chaptersLine(b: Bundle): string {
-  if (!b.chapters.length) return "";
-  const sorted = [...b.chapters].sort((a, c) => {
-    const at = a.mtime?.getTime() ?? 0;
-    const ct = c.mtime?.getTime() ?? 0;
-    return ct - at;
-  });
-  const f = sorted[0];
-  return `      <podcast:chapters url="${xmlEsc(f.url)}" type="${f.mimeType}"/>`;
+function chaptersLine(b: Bundle, meta: FeedItem): string {
+  if (b.chapters.length) {
+    const sorted = [...b.chapters].sort((a, c) => (c.mtime?.getTime() ?? 0) - (a.mtime?.getTime() ?? 0));
+    const f = sorted[0];
+    return `      <podcast:chapters url="${xmlEsc(f.url)}" type="${f.mimeType}"/>`;
+  }
+  if (meta.chaptersUrl) {
+    return `      <podcast:chapters url="${xmlEsc(meta.chaptersUrl)}" type="application/json+chapters"/>`;
+  }
+  return "";
 }
 
 function buildFeed(bundles: Bundle[], meta: Map<string, FeedItem>, range: { min: number; max: number }) {
@@ -338,7 +341,7 @@ function buildFeed(bundles: Bundle[], meta: Map<string, FeedItem>, range: { min:
         ? `\n      <itunes:duration>${xmlEsc(String(m.duration))}</itunes:duration>`
         : "";
       const transcripts = transcriptLines(b);
-      const chapters = chaptersLine(b);
+      const chapters = chaptersLine(b, m);
       const extras = [transcripts, chapters].filter(Boolean).join("\n");
       const extrasBlock = extras ? `\n${extras}` : "";
       return `    <item>
