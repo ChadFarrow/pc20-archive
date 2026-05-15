@@ -38,6 +38,28 @@ const ART_URL = "https://chadfarrow.github.io/pc20-archive/cover.jpg";
 const REHOST_BASE = "https://chadfarrow.github.io/pc20-archive/chapters/";
 const REHOST_DIR = "chapters";
 
+// Channel-level Value-4-Value split, copied verbatim from the active feed at
+// https://feeds.podcastindex.org/pc20.xml. `split` is a proportional share,
+// not a percent — recipients receive split/sum-of-splits of each boost.
+type ValueRecipient = {
+  name: string;
+  type: "lnaddress" | "node";
+  address: string;
+  split: number;
+  fee?: boolean;
+};
+const VALUE_RECIPIENTS: ValueRecipient[] = [
+  { name: "Podcastindex.org",      type: "lnaddress", address: "podcastindex@getalby.com", split: 92 },
+  { name: "Dreb Scott (Chapters)", type: "lnaddress", address: "drebscott@getalby.com",   split: 5 },
+  { name: "Sovereign Feeds",       type: "node",      address: "035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8", split: 5, fee: true },
+  { name: "Boostagram Monitor",    type: "lnaddress", address: "adam@getalby.com",        split: 1 },
+  { name: "Stay Safe Sage",        type: "lnaddress", address: "dave@getalby.com",        split: 1 },
+  { name: "Fountain Boost Bot",    type: "lnaddress", address: "boostbot@fountain.fm",    split: 1 },
+  { name: "IPFSPodcasting.net",    type: "node",      address: "028eb5be336f7fdf2a4e40c57ff55d3d5d71277bb4197ea14957f756bff249e623", split: 5, fee: true },
+];
+const FUNDING_URL = "https://paypal.me/podcastindex";
+const FUNDING_LABEL = "Value 4 Value";
+
 // Any file whose name starts with PC20-<ep>...
 const PC20_ANY_RE = /^PC20-(\d{1,4})\b/i;
 // The audio file (encodes pubDate in the name)
@@ -400,6 +422,13 @@ function buildFeed(bundles: Bundle[], meta: Map<string, FeedItem>, range: { min:
     <itunes:category text="Technology"/>
     <podcast:guid>pc20-archive-${range.min}-${range.max}</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
+    <podcast:funding url="${xmlEsc(FUNDING_URL)}">${xmlEsc(FUNDING_LABEL)}</podcast:funding>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+${VALUE_RECIPIENTS.map((r) => {
+  const fee = r.fee ? ` fee="true"` : "";
+  return `      <podcast:valueRecipient name="${xmlEsc(r.name)}" type="${r.type}" address="${xmlEsc(r.address)}" split="${r.split}"${fee}/>`;
+}).join("\n")}
+    </podcast:value>
     <podcast:remoteItem feedGuid="917393e3-1b1e-5cef-ace4-edaa54e1f810" feedUrl="${FEED_URL}"/>
 ${itemsXml}
   </channel>

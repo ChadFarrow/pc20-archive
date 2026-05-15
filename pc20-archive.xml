@@ -19,6 +19,16 @@
     <itunes:category text="Technology"/>
     <podcast:guid>pc20-archive-1-100</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
+    <podcast:funding url="https://paypal.me/podcastindex">Value 4 Value</podcast:funding>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+      <podcast:valueRecipient name="Podcastindex.org" type="lnaddress" address="podcastindex@getalby.com" split="92"/>
+      <podcast:valueRecipient name="Dreb Scott (Chapters)" type="lnaddress" address="drebscott@getalby.com" split="5"/>
+      <podcast:valueRecipient name="Sovereign Feeds" type="node" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" split="5" fee="true"/>
+      <podcast:valueRecipient name="Boostagram Monitor" type="lnaddress" address="adam@getalby.com" split="1"/>
+      <podcast:valueRecipient name="Stay Safe Sage" type="lnaddress" address="dave@getalby.com" split="1"/>
+      <podcast:valueRecipient name="Fountain Boost Bot" type="lnaddress" address="boostbot@fountain.fm" split="1"/>
+      <podcast:valueRecipient name="IPFSPodcasting.net" type="node" address="028eb5be336f7fdf2a4e40c57ff55d3d5d71277bb4197ea14957f756bff249e623" split="5" fee="true"/>
+    </podcast:value>
     <podcast:remoteItem feedGuid="917393e3-1b1e-5cef-ace4-edaa54e1f810" feedUrl="https://mp3s.nashownotes.com/pc20rss.xml"/>
     <item>
       <title>Episode 1: We are upgrading podcasting</title>
