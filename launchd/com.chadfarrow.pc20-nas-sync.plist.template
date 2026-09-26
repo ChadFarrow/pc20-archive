@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Mirrors every PC20-* file on mp3s.nashownotes.com to the NAS share. Generated
+  by scripts/install-agent.sh — edit this template, not the copy in
+  ~/Library/LaunchAgents.
+
+  Every 6 hours is plenty for a weekly show, and a run with nothing to fetch is
+  one 1 MB index request. RunAtLoad catches up after a reboot. If the share is
+  not mounted the run logs one line and exits 0.
+
+  Install:  ./scripts/install-agent.sh
+  Stop:     launchctl unload ~/Library/LaunchAgents/com.chadfarrow.pc20-nas-sync.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.chadfarrow.pc20-nas-sync</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>__NODE__</string>
+        <string>__REPO__/sync-nas.mjs</string>
+    </array>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StartInterval</key>
+    <integer>21600</integer>
+
+    <key>StandardOutPath</key>
+    <string>__HOME__/Library/Logs/pc20-nas-sync.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>__HOME__/Library/Logs/pc20-nas-sync.err</string>
+</dict>
+</plist>

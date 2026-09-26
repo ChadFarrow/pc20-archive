@@ -31,3 +31,7 @@ MIN_EP=1 MAX_EP=100 MAX_SNAPS=100 VERIFY_LENGTH=1 npx tsx pc20-archive-feed.ts p
 ```
 
 See `pc20-archive-feed.ts` for env vars (`DUMP_FILES`, `DOWNLOAD_DIR`, `DOWNLOAD_ALL`, etc.).
+
+## Local mirror
+
+`sync-nas.mjs` copies every `PC20-*` file from `mp3s.nashownotes.com` (audio, captions, chapters — all episodes) to a local share, fetching only what is new or changed. `./scripts/install-agent.sh` installs it as a launchd agent that runs every 6 hours. `node sync-nas.mjs --dry-run` lists what it would fetch.

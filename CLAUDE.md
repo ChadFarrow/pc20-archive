@@ -31,6 +31,7 @@ Env vars accepted by `pc20-archive-feed.ts`: `MIN_EP`, `MAX_EP`, `MAX_SNAPS`, `V
 
 - **`pc20-archive-feed.ts`** — builder. ~470 lines, no abstractions worth chasing. Five-stage pipeline (see below). Channel-level constants live at the top: `INDEX_URL`, `FEED_URL`, `ART_URL`, `REHOST_BASE`, `REHOST_DIR`, `VALUE_RECIPIENTS`, `FUNDING_URL`, `FUNDING_LABEL`.
 - **`fetch-archived-chapters.ts`** — one-shot. Hits Wayback CDX for `chapters.hypercatcher.com/` and `studio.hypercatcher.com/chapters/podcast/` PC20 captures, downloads each archived JSON via the `id_/` Wayback URL form (unrewritten content), writes to `chapters/PC20-{N}-Chapters.json` and mirrors to `/Volumes/pc20-archive/`. 6 s pacing, 30 s timeout, retries on connect timeouts / 429s.
+- **`sync-nas.mjs`** — mirrors every `PC20-*` file on `mp3s.nashownotes.com` to the NAS share. Run by a launchd agent. See "NAS mirror".
 - **`patch-chapters.ts`** — surgical XML injector. Walks `<item>` blocks in `pc20-archive.xml`, finds each `<itunes:episode>N</itunes:episode>`, and if `chapters/PC20-N-Chapters.json` exists locally without an existing `<podcast:chapters>` tag, inserts one pointing at the GitHub Pages mirror. Use whenever Wayback is rate-limited and a full regen would lose backfilled metadata.
 - **`chapters/`** — repo-tracked chapter JSONs (80 files: eps 12, 23, 68–145). Served by Pages at `chadfarrow.github.io/pc20-archive/chapters/PC20-{N}-Chapters.json`. Also mirrored to NAS.
 - **`pc20-archive.xml`** — generated output. Currently covers eps 1–100. **Edit by patching, not regenerating** unless you know Wayback is healthy (see Gotchas).
@@ -71,9 +72,15 @@ Skipped intentionally:
 
 ## NAS mirror
 
-`fetch-archived-chapters.ts` writes every downloaded chapter JSON to both `chapters/` (the repo) and `/Volumes/pc20-archive/` (SMB share at `192.168.0.81/pc20-archive`, auto-mounted by macOS). The NAS already holds the source mp3s + captions for every PC20 episode; chapter JSONs live alongside as `PC20-{N}-Chapters.json`.
+The NAS share `//192.168.0.81/pc20-archive` mounts at `/Volumes/pc20-archive` (not under `/Volumes/NAS`). It holds every `PC20-*` file from `mp3s.nashownotes.com` — all episodes, not just 1–100 — and is read by `pc20-clips`, `pc20-timeline` and `pc20-wiki/scripts/fetch-captions.mjs`.
 
-The NAS write is conditional on `existsSync("/Volumes/pc20-archive")` — if you're working off-network it silently skips, which is fine.
+**`sync-nas.mjs` keeps it current.** It fetches any `PC20-*` file that is missing from the share, or whose autoindex date is newer than the local mtime, then sets the local mtime to that date. It never deletes. Downloads go to a hidden `.<name>.sync-tmp` and are renamed only after the byte count matches `Content-Length`. Plain Node, no dependencies, so launchd can run it without `npm install`. `--dry-run` lists what it would fetch.
+
+It runs from the launchd agent `com.chadfarrow.pc20-nas-sync` — every 6 h and at load. `scripts/install-agent.sh` renders `launchd/*.plist.template` into `~/Library/LaunchAgents` (`--check` diffs it). Log: `~/Library/Logs/pc20-nas-sync.log`.
+
+The share had one bulk copy on 2026-05-12 (eps 1–259) and nothing after it until this agent. Before that, nothing kept it current. Two odd names are the server's own, mirrored as-is: `PC20-2025-06-06-Final.mp3` (no episode number) and `PC20-87-2024-08-02-Final.mp3.filepart` (an incomplete upload).
+
+Both `sync-nas.mjs` and `fetch-archived-chapters.ts` refuse to write when the share is not mounted. `sync-nas.mjs` also checks that `/Volumes/pc20-archive` is on a different device from `/Volumes`, so a stale local directory there cannot fill the Mac's disk. `fetch-archived-chapters.ts` only checks `existsSync`.
 
 ## Deploying
 
