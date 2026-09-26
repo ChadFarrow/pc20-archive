@@ -78,7 +78,7 @@ The NAS share `//192.168.0.81/pc20-archive` mounts at `/Volumes/pc20-archive` (n
 
 **`sync-nas.mjs` keeps it current.** It fetches any `PC20-*` file that is missing from the share, or whose autoindex date is newer than the local mtime, then sets the local mtime to that date. It never deletes. Downloads go to a hidden `.<name>.sync-tmp` and are renamed only after the byte count matches `Content-Length`. Plain Node, no dependencies, so launchd can run it without `npm install`. `--dry-run` lists what it would fetch.
 
-It runs from the launchd agent `com.chadfarrow.pc20-nas-sync` — every 6 h and at load. `scripts/install-agent.sh` renders `launchd/*.plist.template` into `~/Library/LaunchAgents` (`--check` diffs it). Log: `~/Library/Logs/pc20-nas-sync.log`.
+It runs from the launchd agent `com.chadfarrow.pc20-nas-sync` — Fridays at 22:00 local time, after the week's episode is out (the show lands 19:11–21:04 UTC on Fridays). `scripts/install-agent.sh` renders `launchd/*.plist.template` into `~/Library/LaunchAgents` (`--check` diffs it). Log: `~/Library/Logs/pc20-nas-sync.log`.
 
 The share had one bulk copy on 2026-05-12 (eps 1–259) and nothing after it until this agent. Before that, nothing kept it current. Two odd names are the server's own, mirrored as-is: `PC20-2025-06-06-Final.mp3` (no episode number) and `PC20-87-2024-08-02-Final.mp3.filepart` (an incomplete upload).
 

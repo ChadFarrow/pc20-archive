@@ -5,9 +5,11 @@
   by scripts/install-agent.sh — edit this template, not the copy in
   ~/Library/LaunchAgents.
 
-  Every 6 hours is plenty for a weekly show, and a run with nothing to fetch is
-  one 1 MB index request. RunAtLoad catches up after a reboot. If the share is
-  not mounted the run logs one line and exits 0.
+  Fridays at 22:00 local time — the show is weekly and comes out on Friday
+  afternoon (19:11–21:04 UTC across May–September 2026). A run with nothing to
+  fetch is one 1 MB index request. launchd runs a missed slot on wake if the Mac
+  was asleep, but not if it was off; `node sync-nas.mjs` catches up by hand. If
+  the share is not mounted the run logs one line and exits 0.
 
   Install:  ./scripts/install-agent.sh
   Stop:     launchctl unload ~/Library/LaunchAgents/com.chadfarrow.pc20-nas-sync.plist
@@ -23,11 +25,15 @@
         <string>__REPO__/sync-nas.mjs</string>
     </array>
 
-    <key>RunAtLoad</key>
-    <true/>
-
-    <key>StartInterval</key>
-    <integer>21600</integer>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>5</integer>
+        <key>Hour</key>
+        <integer>22</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
 
     <key>StandardOutPath</key>
     <string>__HOME__/Library/Logs/pc20-nas-sync.log</string>

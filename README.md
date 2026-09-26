@@ -34,4 +34,4 @@ See `pc20-archive-feed.ts` for env vars (`DUMP_FILES`, `DOWNLOAD_DIR`, `DOWNLOAD
 
 ## Local mirror
 
-`sync-nas.mjs` copies every `PC20-*` file from `mp3s.nashownotes.com` (audio, captions, chapters — all episodes) to a local share, fetching only what is new or changed. `./scripts/install-agent.sh` installs it as a launchd agent that runs every 6 hours. `node sync-nas.mjs --dry-run` lists what it would fetch.
+`sync-nas.mjs` copies every `PC20-*` file from `mp3s.nashownotes.com` (audio, captions, chapters — all episodes) to a local share, fetching only what is new or changed. `./scripts/install-agent.sh` installs it as a launchd agent that runs every Friday at 22:00, after the week's episode is out. `node sync-nas.mjs --dry-run` lists what it would fetch.
