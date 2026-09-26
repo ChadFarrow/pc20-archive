@@ -19,7 +19,7 @@ import { join } from "node:path";
 
 const UA = "Mozilla/5.0 pc20-archive-recovery (+https://github.com/ChadFarrow/pc20-archive)";
 const OUT_DIR = "chapters";
-const NAS_DIR = "/Volumes/NAS/pc20-archive";
+const NAS_DIR = "/Volumes/pc20-archive";
 const DELAY_MS = 6000;       // between successful fetches
 const RETRY_DELAY_MS = 60000; // on 429
 const MAX_RETRIES = 3;

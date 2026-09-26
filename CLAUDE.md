@@ -30,7 +30,7 @@ Env vars accepted by `pc20-archive-feed.ts`: `MIN_EP`, `MAX_EP`, `MAX_SNAPS`, `V
 ## Files
 
 - **`pc20-archive-feed.ts`** — builder. ~470 lines, no abstractions worth chasing. Five-stage pipeline (see below). Channel-level constants live at the top: `INDEX_URL`, `FEED_URL`, `ART_URL`, `REHOST_BASE`, `REHOST_DIR`, `VALUE_RECIPIENTS`, `FUNDING_URL`, `FUNDING_LABEL`.
-- **`fetch-archived-chapters.ts`** — one-shot. Hits Wayback CDX for `chapters.hypercatcher.com/` and `studio.hypercatcher.com/chapters/podcast/` PC20 captures, downloads each archived JSON via the `id_/` Wayback URL form (unrewritten content), writes to `chapters/PC20-{N}-Chapters.json` and mirrors to `/Volumes/NAS/pc20-archive/`. 6 s pacing, 30 s timeout, retries on connect timeouts / 429s.
+- **`fetch-archived-chapters.ts`** — one-shot. Hits Wayback CDX for `chapters.hypercatcher.com/` and `studio.hypercatcher.com/chapters/podcast/` PC20 captures, downloads each archived JSON via the `id_/` Wayback URL form (unrewritten content), writes to `chapters/PC20-{N}-Chapters.json` and mirrors to `/Volumes/pc20-archive/`. 6 s pacing, 30 s timeout, retries on connect timeouts / 429s.
 - **`patch-chapters.ts`** — surgical XML injector. Walks `<item>` blocks in `pc20-archive.xml`, finds each `<itunes:episode>N</itunes:episode>`, and if `chapters/PC20-N-Chapters.json` exists locally without an existing `<podcast:chapters>` tag, inserts one pointing at the GitHub Pages mirror. Use whenever Wayback is rate-limited and a full regen would lose backfilled metadata.
 - **`chapters/`** — repo-tracked chapter JSONs (80 files: eps 12, 23, 68–145). Served by Pages at `chadfarrow.github.io/pc20-archive/chapters/PC20-{N}-Chapters.json`. Also mirrored to NAS.
 - **`pc20-archive.xml`** — generated output. Currently covers eps 1–100. **Edit by patching, not regenerating** unless you know Wayback is healthy (see Gotchas).
@@ -71,9 +71,9 @@ Skipped intentionally:
 
 ## NAS mirror
 
-`fetch-archived-chapters.ts` writes every downloaded chapter JSON to both `chapters/` (the repo) and `/Volumes/NAS/pc20-archive/` (SMB share at `192.168.0.81/pc20-archive`, auto-mounted by macOS). The NAS already holds the source mp3s + captions for every PC20 episode; chapter JSONs live alongside as `PC20-{N}-Chapters.json`.
+`fetch-archived-chapters.ts` writes every downloaded chapter JSON to both `chapters/` (the repo) and `/Volumes/pc20-archive/` (SMB share at `192.168.0.81/pc20-archive`, auto-mounted by macOS). The NAS already holds the source mp3s + captions for every PC20 episode; chapter JSONs live alongside as `PC20-{N}-Chapters.json`.
 
-The NAS write is conditional on `existsSync("/Volumes/NAS/pc20-archive")` — if you're working off-network it silently skips, which is fine.
+The NAS write is conditional on `existsSync("/Volumes/pc20-archive")` — if you're working off-network it silently skips, which is fine.
 
 ## Deploying
 
