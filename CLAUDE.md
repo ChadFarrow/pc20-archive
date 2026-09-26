@@ -72,7 +72,9 @@ Skipped intentionally:
 
 ## NAS mirror
 
-The NAS share `//192.168.0.81/pc20-archive` mounts at `/Volumes/pc20-archive` (not under `/Volumes/NAS`). It holds every `PC20-*` file from `mp3s.nashownotes.com` — all episodes, not just 1–100 — and is read by `pc20-clips`, `pc20-timeline` and `pc20-wiki/scripts/fetch-captions.mjs`.
+The NAS share `//192.168.0.81/pc20-archive` mounts at `/Volumes/pc20-archive` (not under `/Volumes/NAS`). It holds every `PC20-*` file from `mp3s.nashownotes.com` — all episodes, not just 1–100.
+
+**It is Chad's personal backup of files that live on the internet, not a source for anything public.** The local tools `pc20-clips` and `pc20-timeline` (clip cutting and its private draft) read it. `pc20-wiki` does not: it copied captions from the share until 2026-09-26, and that was removed so the backup's state can never shape the public site. Don't make a public build or deploy depend on this share; fetch from the internet instead.
 
 **`sync-nas.mjs` keeps it current.** It fetches any `PC20-*` file that is missing from the share, or whose autoindex date is newer than the local mtime, then sets the local mtime to that date. It never deletes. Downloads go to a hidden `.<name>.sync-tmp` and are renamed only after the byte count matches `Content-Length`. Plain Node, no dependencies, so launchd can run it without `npm install`. `--dry-run` lists what it would fetch.
 
