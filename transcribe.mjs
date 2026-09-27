@@ -405,9 +405,11 @@ async function main() {
     console.error("usage: node transcribe.mjs [--force | --rebuild] [--nas] <episode> [<episode> ...]");
     process.exit(2);
   }
-  await mkdir(WORK_DIR, { recursive: true });
-  await mkdir(OUT_DIR, { recursive: true });
-  log(`work dir ${WORK_DIR}`);
+  if (episodes.length) {
+    await mkdir(WORK_DIR, { recursive: true });
+    await mkdir(OUT_DIR, { recursive: true });
+    log(`work dir ${WORK_DIR}`);
+  }
 
   let failed = 0;
   for (const episode of episodes) {
