@@ -17,6 +17,7 @@ Paste that URL into any podcast app (Apple Podcasts, Fountain, Podverse, Castama
 - Audio enclosures point at `https://mp3s.nashownotes.com/` — the same files Adam Curry has always hosted. No re-hosting of audio.
 - Episode metadata (titles, pubDates, show notes) reconstructed from Wayback Machine snapshots of the original `pc20rss.xml`.
 - `<podcast:transcript>` and `<podcast:chapters>` tags point at companion `.srt` and `.json` files in the same directory.
+- Where the server's transcript is a "Transcript is Processing" placeholder, another episode's copy, or missing (eps 10, 22, 46, 50, 51, 86 in this feed), the tag points at a machine transcript in [`captions/`](captions/README.md) instead, made with whisper.cpp by `transcribe.mjs`.
 
 ## Coverage caveats
 
