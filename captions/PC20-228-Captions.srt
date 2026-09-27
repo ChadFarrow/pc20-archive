@@ -1,0 +1,9323 @@
+1
+00:00:00,610 --> 00:00:07,050
+Podcasting 2.0 for July 25th,
+2025, episode 228, Tokenless.
+
+2
+00:00:08,330 --> 00:00:09,701
+Hello, everybody.
+
+3
+00:00:09,782 --> 00:00:11,798
+Oh, oh, what's happening?
+
+4
+00:00:11,879 --> 00:00:15,750
+We're back after a two-week
+hiatus, hanging out,
+
+5
+00:00:15,831 --> 00:00:19,460
+walking through woods
+aimlessly, unconnected.
+
+6
+00:00:19,460 --> 00:00:21,828
+It is time once again for Podcasting 2.0,
+
+7
+00:00:21,886 --> 00:00:25,930
+where we find out what's really going
+on in podcasting, what happened,
+
+8
+00:00:25,988 --> 00:00:29,742
+what's happening now, what is
+happening very soon, all the dirt,
+
+9
+00:00:29,742 --> 00:00:31,360
+all the down, and the dirty.
+
+10
+00:00:31,840 --> 00:00:34,310
+We are, in fact, the only
+boardroom that doesn't have
+
+11
+00:00:34,356 --> 00:00:36,360
+a private meeting room
+at Podcast Movement.
+
+12
+00:00:36,780 --> 00:00:40,000
+I'm Adam Curry here in the heart of
+the Texas Hill Country and in Alabama.
+
+13
+00:00:40,220 --> 00:00:43,460
+The man who thinks freemium is
+something you clean your oven with.
+
+14
+00:00:43,460 --> 00:00:47,880
+Say hello to my friend on the other
+end, the one, the only, Mr. Dave Jones.
+
+15
+00:00:48,860 --> 00:00:53,630
+Oh, well, did you see
+Spurlock, what he just posted?
+
+16
+00:00:54,070 --> 00:00:54,630
+Just now?
+
+17
+00:00:55,360 --> 00:00:56,500
+Yeah, on the sofa.
+
+18
+00:00:56,880 --> 00:01:04,218
+I need to set up a trigger whenever
+Spurlock posts it has to text me because he
+
+19
+00:01:04,311 --> 00:01:08,863
+truly is one of the main
+reasons I check multiple
+
+20
+00:01:08,956 --> 00:01:12,950
+times a day just to see
+what Spurlock does.
+
+21
+00:01:12,950 --> 00:01:14,030
+I thought that was from me.
+
+22
+00:01:14,590 --> 00:01:15,310
+I'm sorry.
+
+23
+00:01:15,530 --> 00:01:15,890
+Yes.
+
+24
+00:01:17,380 --> 00:01:19,320
+Latest July stats from Power.
+
+25
+00:01:19,480 --> 00:01:20,080
+Is that what we're looking at?
+
+26
+00:01:20,100 --> 00:01:20,760
+Oh, Godcaster.
+
+27
+00:01:21,080 --> 00:01:21,340
+What?
+
+28
+00:01:21,670 --> 00:01:23,590
+Yeah, we're neck and neck with Dogcatcher.
+
+29
+00:01:24,780 --> 00:01:26,940
+The Godcaster and Dogcatcher.
+
+30
+00:01:27,870 --> 00:01:28,230
+Yeah.
+
+31
+00:01:28,840 --> 00:01:29,680
+It's us.
+
+32
+00:01:30,200 --> 00:01:33,900
+We have the same percentage
+of OP3 downloads as LinkedIn.
+
+33
+00:01:34,360 --> 00:01:34,700
+Did you?
+
+34
+00:01:35,520 --> 00:01:37,620
+I didn't even know LinkedIn did podcast.
+
+35
+00:01:37,760 --> 00:01:38,440
+But hold on.
+
+36
+00:01:38,560 --> 00:01:39,680
+We're ahead of Deezer.
+
+37
+00:01:41,080 --> 00:01:44,180
+And we're also ahead of Chromecast device.
+
+38
+00:01:44,180 --> 00:01:44,480
+Chromecast device.
+
+39
+00:01:44,980 --> 00:01:45,880
+Whatever that is.
+
+40
+00:01:46,300 --> 00:01:54,940
+Now, by coincidence, I listened to
+Power on the Godcaster this morning.
+
+41
+00:01:55,060 --> 00:01:55,560
+You did too?
+
+42
+00:01:55,760 --> 00:01:55,880
+Yeah.
+
+43
+00:01:56,080 --> 00:01:56,880
+Oh, on Godcaster.
+
+44
+00:01:56,980 --> 00:01:57,360
+You guys know.
+
+45
+00:01:57,460 --> 00:01:57,640
+Okay.
+
+46
+00:01:57,800 --> 00:01:58,000
+Okay.
+
+47
+00:01:58,380 --> 00:01:59,840
+I did not listen to it on Godcaster.
+
+48
+00:01:59,920 --> 00:02:00,100
+Okay.
+
+49
+00:02:00,180 --> 00:02:02,240
+So that 0.1% was me.
+
+50
+00:02:03,510 --> 00:02:04,850
+It's all you.
+
+51
+00:02:04,850 --> 00:02:05,750
+It's all me, baby.
+
+52
+00:02:05,870 --> 00:02:07,790
+I am 0.1%.
+
+53
+00:02:07,790 --> 00:02:09,010
+Yeah.
+
+54
+00:02:09,510 --> 00:02:12,483
+If I got, if I should switch
+over and start using it,
+
+55
+00:02:12,539 --> 00:02:14,670
+start listening to Power on Godcaster,
+
+56
+00:02:14,670 --> 00:02:16,790
+and then I could bump us up to 0.2%.
+
+57
+00:02:16,790 --> 00:02:17,740
+Woo!
+
+58
+00:02:18,890 --> 00:02:22,220
+So we haven't actually
+made the announcement yet.
+
+59
+00:02:22,460 --> 00:02:25,100
+And I'll just tell the
+backstory of that to people.
+
+60
+00:02:25,220 --> 00:02:28,380
+First of all, I want to
+share a tip with everybody.
+
+61
+00:02:28,500 --> 00:02:29,020
+A little tip.
+
+62
+00:02:29,660 --> 00:02:30,310
+Just a tip.
+
+63
+00:02:30,450 --> 00:02:31,150
+Just a tip.
+
+64
+00:02:31,190 --> 00:02:31,910
+A little tip of the day.
+
+65
+00:02:33,250 --> 00:02:36,233
+If you happen to live
+kind of in a rural area
+
+66
+00:02:36,299 --> 00:02:38,950
+and you have well water like myself, and
+
+67
+00:02:38,950 --> 00:02:43,544
+you know, it does happen
+that the person who
+
+68
+00:02:43,649 --> 00:02:47,930
+built the home put kind of a cheapo water
+
+69
+00:02:47,930 --> 00:02:52,700
+softener system in, one that
+is basically not serviceable.
+
+70
+00:02:53,900 --> 00:02:58,040
+So, you know, so it's got all this,
+you know, all this gunk going on.
+
+71
+00:02:58,120 --> 00:03:02,920
+And so my man, Randall, by the way, host
+of the Shaman, the Whiskey Shaman podcast.
+
+72
+00:03:04,030 --> 00:03:04,550
+Oh, nice.
+
+73
+00:03:04,610 --> 00:03:04,810
+Okay.
+
+74
+00:03:04,950 --> 00:03:05,350
+Shout out.
+
+75
+00:03:05,530 --> 00:03:05,690
+Yeah.
+
+76
+00:03:05,770 --> 00:03:06,950
+Shout out to Whiskey Shaman.
+
+77
+00:03:08,060 --> 00:03:10,840
+He says, nah, well, I mean, you
+can better just get a new one.
+
+78
+00:03:10,920 --> 00:03:11,840
+All right, let's get a new one.
+
+79
+00:03:11,900 --> 00:03:12,620
+So he says, hey.
+
+80
+00:03:12,870 --> 00:03:15,230
+And he says, I just got a cancellation.
+
+81
+00:03:15,450 --> 00:03:15,950
+I can come by now.
+
+82
+00:03:15,990 --> 00:03:16,510
+Okay, perfect.
+
+83
+00:03:16,610 --> 00:03:17,170
+He comes by.
+
+84
+00:03:18,450 --> 00:03:21,580
+No, no, no, no, no, no, no, not at all.
+
+85
+00:03:21,680 --> 00:03:22,400
+No, much, much.
+
+86
+00:03:22,620 --> 00:03:23,300
+Thank goodness.
+
+87
+00:03:23,420 --> 00:03:23,600
+No.
+
+88
+00:03:24,620 --> 00:03:26,700
+But he'd already, he already
+came over to look at it.
+
+89
+00:03:26,740 --> 00:03:27,380
+And so he's installing.
+
+90
+00:03:27,500 --> 00:03:31,143
+But memo to self, when your guy,
+Randall, your Whiskey Shaman,
+
+91
+00:03:31,202 --> 00:03:32,730
+when he is installing your
+
+92
+00:03:32,730 --> 00:03:39,580
+water softener, do not, I repeat, do not
+poop because you will not have any water.
+
+93
+00:03:41,500 --> 00:03:42,100
+Wait, what?
+
+94
+00:03:42,260 --> 00:03:43,670
+Yeah, I went to the.
+
+95
+00:03:43,670 --> 00:03:44,690
+Oh, to wash the poop down.
+
+96
+00:03:44,850 --> 00:03:45,210
+Yeah, okay.
+
+97
+00:03:45,550 --> 00:03:45,690
+Yeah.
+
+98
+00:03:46,030 --> 00:03:47,870
+So it's not safe in there, babe.
+
+99
+00:03:48,220 --> 00:03:49,090
+Don't go in there.
+
+100
+00:03:49,310 --> 00:03:49,990
+Don't go in there.
+
+101
+00:03:51,090 --> 00:03:53,310
+You dropped a bomb and left it.
+
+102
+00:03:53,310 --> 00:03:55,650
+I left it for somebody to step on.
+
+103
+00:03:55,750 --> 00:03:58,050
+I left a major bomb.
+
+104
+00:03:59,150 --> 00:03:59,710
+Oh, man.
+
+105
+00:04:00,250 --> 00:04:02,210
+That's a horrible thing to do.
+
+106
+00:04:02,210 --> 00:04:05,634
+At least, you know, you were
+talking, I think it was,
+
+107
+00:04:05,699 --> 00:04:07,960
+was it John that was talking about,
+
+108
+00:04:09,320 --> 00:04:15,460
+this has been a while back on NA, he was
+talking about the poop shelf in the toilet.
+
+109
+00:04:15,540 --> 00:04:15,840
+Oh, yeah.
+
+110
+00:04:15,960 --> 00:04:17,440
+The Dutch poop shelf.
+
+111
+00:04:18,140 --> 00:04:18,480
+Oh, okay.
+
+112
+00:04:18,520 --> 00:04:18,860
+It was you.
+
+113
+00:04:19,100 --> 00:04:19,240
+Yeah.
+
+114
+00:04:19,240 --> 00:04:20,620
+The Russians have that too.
+
+115
+00:04:21,230 --> 00:04:21,870
+Oh, really?
+
+116
+00:04:22,130 --> 00:04:24,770
+Every, every toilet in
+Moscow has a poop shelf.
+
+117
+00:04:24,910 --> 00:04:25,110
+Yeah.
+
+118
+00:04:25,230 --> 00:04:26,670
+And you know the history of it, right?
+
+119
+00:04:28,090 --> 00:04:28,710
+I'm right.
+
+120
+00:04:28,810 --> 00:04:30,994
+I mean, the only thing I can
+think of is that you can,
+
+121
+00:04:31,034 --> 00:04:32,450
+it's so that you can check out your
+
+122
+00:04:32,450 --> 00:04:34,390
+poop and see if there's like
+worms in it or something.
+
+123
+00:04:34,390 --> 00:04:34,670
+Yes.
+
+124
+00:04:34,910 --> 00:04:39,884
+Early on when the only buildings
+that had toilets were hospitals,
+
+125
+00:04:39,960 --> 00:04:41,950
+but everyone else was just
+
+126
+00:04:41,950 --> 00:04:44,770
+pooping in the canal or whatever
+they did back in the day.
+
+127
+00:04:44,950 --> 00:04:45,050
+Fun.
+
+128
+00:04:45,190 --> 00:04:45,530
+That's fun.
+
+129
+00:04:46,190 --> 00:04:50,390
+And so the hospitals had a little shelf
+in there exactly for that reason.
+
+130
+00:04:50,470 --> 00:04:52,571
+So they can, okay, let me
+go check and yeah, yeah,
+
+131
+00:04:52,613 --> 00:04:54,210
+it looks like you're good or whatever,
+
+132
+00:04:54,350 --> 00:04:55,210
+you know, just check the poop.
+
+133
+00:04:56,010 --> 00:04:58,870
+And it was so bizarre to poop on a shelf.
+
+134
+00:04:58,990 --> 00:04:59,110
+Yeah.
+
+135
+00:04:59,110 --> 00:04:59,890
+Pooping on a shelf.
+
+136
+00:04:59,890 --> 00:05:05,050
+And that became the, the main toilet maker,
+just continue to make those forever.
+
+137
+00:05:05,050 --> 00:05:07,470
+And the Dutch, I think
+they secretly enjoy it.
+
+138
+00:05:09,900 --> 00:05:14,737
+It's, it makes for when the poop
+does not go under the water,
+
+139
+00:05:14,817 --> 00:05:16,720
+when it just sits on the
+
+140
+00:05:16,720 --> 00:05:20,080
+shelf, it makes for a
+very stinky bathroom.
+
+141
+00:05:20,340 --> 00:05:25,850
+It is, it is a very odiferous and pungent
+experience to be in that bathroom.
+
+142
+00:05:26,050 --> 00:05:26,330
+Interesting.
+
+143
+00:05:26,330 --> 00:05:28,610
+And I really don't want to just
+turn around and check it out.
+
+144
+00:05:28,690 --> 00:05:30,750
+I mean, I'd, I'd rather just
+flush that thing right now.
+
+145
+00:05:30,790 --> 00:05:32,457
+Well, interestingly enough, you know,
+
+146
+00:05:32,502 --> 00:05:34,710
+when I was visiting my
+daughter in Rotterdam, uh,
+
+147
+00:05:34,710 --> 00:05:35,810
+was it April, I think.
+
+148
+00:05:36,480 --> 00:05:38,524
+And, uh, and you know, I didn't met all,
+
+149
+00:05:38,575 --> 00:05:41,130
+she's still be 35 in August
+and all of her friends
+
+150
+00:05:41,130 --> 00:05:43,779
+are kind of the same age and they're,
+uh, they're the, the millennials,
+
+151
+00:05:43,816 --> 00:05:45,430
+you know, they're the older millennials.
+
+152
+00:05:45,690 --> 00:05:46,810
+They're a cool bunch.
+
+153
+00:05:46,910 --> 00:05:49,390
+They're kind of getting their
+lives together, starting families.
+
+154
+00:05:50,150 --> 00:05:52,365
+And, uh, and Christina says to
+me, dad, dad, dad, you gotta get,
+
+155
+00:05:52,399 --> 00:05:53,230
+you gotta be getting our
+
+156
+00:05:53,230 --> 00:05:54,860
+league to your league.
+
+157
+00:05:54,960 --> 00:05:55,080
+Yeah.
+
+158
+00:05:55,100 --> 00:05:55,200
+Yeah.
+
+159
+00:05:55,200 --> 00:05:56,140
+You gotta get this app.
+
+160
+00:05:56,880 --> 00:05:59,120
+It is the, the poop map app.
+
+161
+00:06:00,630 --> 00:06:02,590
+Is that for how, for the
+homeless pooping on the streets?
+
+162
+00:06:02,610 --> 00:06:03,550
+No, no, no, no.
+
+163
+00:06:03,610 --> 00:06:07,530
+You register your poop and
+then you, and you just, yeah.
+
+164
+00:06:07,650 --> 00:06:10,550
+And you get badges and
+all kinds of awards.
+
+165
+00:06:10,630 --> 00:06:12,850
+You know, like, um, I
+pooped on the airplane.
+
+166
+00:06:12,950 --> 00:06:15,770
+I got like a special award
+for over 10,000 feet.
+
+167
+00:06:16,090 --> 00:06:16,210
+Yes.
+
+168
+00:06:16,310 --> 00:06:16,890
+This is not.
+
+169
+00:06:16,890 --> 00:06:18,050
+And we're in a league.
+
+170
+00:06:18,570 --> 00:06:23,741
+And so we have, we're in a,
+we're in a competitive league,
+
+171
+00:06:23,830 --> 00:06:26,950
+but the thing about it is I know my
+
+172
+00:06:26,950 --> 00:06:30,110
+daughter's alive, you know, cause kids,
+they don't, they don't text you every day.
+
+173
+00:06:30,110 --> 00:06:31,530
+I'm like, let me check in the poop app.
+
+174
+00:06:31,590 --> 00:06:32,130
+She poops.
+
+175
+00:06:32,190 --> 00:06:32,450
+Okay.
+
+176
+00:06:32,450 --> 00:06:33,050
+She's alive.
+
+177
+00:06:33,190 --> 00:06:34,150
+So there you go.
+
+178
+00:06:34,390 --> 00:06:35,110
+There you go.
+
+179
+00:06:35,650 --> 00:06:38,490
+If she ever gets constipated for a
+couple of weeks, you're going to be,
+
+180
+00:06:38,530 --> 00:06:40,250
+you're a little like, baby, are you okay?
+
+181
+00:06:40,570 --> 00:06:43,590
+I mean, and they actually got
+a prop from like, Christina,
+
+182
+00:06:43,642 --> 00:06:46,080
+your dad is an excellent
+addition to our league.
+
+183
+00:06:46,080 --> 00:06:47,660
+It must be his radio background.
+
+184
+00:06:47,660 --> 00:06:51,916
+Cause you know, I'm, I'm making up
+all kinds of, um, um, you know,
+
+185
+00:06:51,980 --> 00:06:53,270
+all kinds of what is
+
+186
+00:06:53,270 --> 00:07:00,140
+the analogies, you know, when you poop,
+you have to describe it in a fun way.
+
+187
+00:07:00,420 --> 00:07:00,920
+All right.
+
+188
+00:07:00,960 --> 00:07:01,840
+There we are, everybody.
+
+189
+00:07:02,820 --> 00:07:03,180
+Yes.
+
+190
+00:07:04,200 --> 00:07:07,920
+You also put, I mean, as a DJ, you
+also have to learn to poop on command.
+
+191
+00:07:08,140 --> 00:07:08,360
+Oh yeah.
+
+192
+00:07:08,440 --> 00:07:10,360
+Oh, either that or you're holding it.
+
+193
+00:07:10,420 --> 00:07:12,260
+You're either pooping on
+command or you're holding it.
+
+194
+00:07:12,380 --> 00:07:13,720
+I am as, as a pilot.
+
+195
+00:07:13,880 --> 00:07:17,040
+I mean, this, uh, I
+have, I am well-trained.
+
+196
+00:07:17,140 --> 00:07:17,840
+I'm well-trained.
+
+197
+00:07:17,950 --> 00:07:21,690
+So we've been working
+on, uh, uh, Godcasters.
+
+198
+00:07:21,790 --> 00:07:24,883
+Everybody knows for a long time, we
+can go into that in some detail, uh,
+
+199
+00:07:24,926 --> 00:07:26,210
+because now the app is out.
+
+200
+00:07:26,290 --> 00:07:28,040
+We, uh, here's what happened.
+
+201
+00:07:28,140 --> 00:07:33,133
+We, we were thinking on, we were about
+ready to go for what, uh, Paul, uh,
+
+202
+00:07:33,200 --> 00:07:36,466
+our app, our app developer
+calls an, uh, an open beta,
+
+203
+00:07:36,525 --> 00:07:39,420
+which basically means you
+put it in the app store
+
+204
+00:07:39,420 --> 00:07:40,600
+and you say, this is beta.
+
+205
+00:07:41,460 --> 00:07:41,680
+Yeah.
+
+206
+00:07:41,780 --> 00:07:43,640
+It just has the word beta in the title.
+
+207
+00:07:44,420 --> 00:07:44,780
+Yeah.
+
+208
+00:07:44,780 --> 00:07:46,980
+Cause we had to close beta
+for a while, which was cool.
+
+209
+00:07:48,030 --> 00:07:54,306
+And of course he's developed, um,
+the, uh, he's developed both for, uh,
+
+210
+00:07:54,394 --> 00:07:57,120
+Android and iOS and it's full on native.
+
+211
+00:07:57,120 --> 00:08:03,257
+And here's the, here's the kicker, 100%
+Android auto and CarPlay compatible,
+
+212
+00:08:03,337 --> 00:08:05,850
+but not just, you know,
+like, Oh, it works.
+
+213
+00:08:05,910 --> 00:08:06,070
+No.
+
+214
+00:08:06,130 --> 00:08:07,310
+I mean, it's awesome.
+
+215
+00:08:07,900 --> 00:08:12,526
+I mean, everything, the tabs, you
+got four levels deep, you know,
+
+216
+00:08:12,597 --> 00:08:14,420
+all kinds of amazing stuff.
+
+217
+00:08:14,460 --> 00:08:17,280
+So it's a real automobile experience.
+
+218
+00:08:17,880 --> 00:08:17,960
+Yeah.
+
+219
+00:08:17,960 --> 00:08:18,860
+Paul did a great job.
+
+220
+00:08:19,000 --> 00:08:19,280
+Yeah.
+
+221
+00:08:19,960 --> 00:08:22,406
+Um, you know, when you
+first fired up, it, uh,
+
+222
+00:08:22,460 --> 00:08:25,520
+it looks for stations and
+stations can be radio stations.
+
+223
+00:08:25,660 --> 00:08:30,914
+Stations can be podcast networks that
+have a live stream, can be a church,
+
+224
+00:08:30,985 --> 00:08:34,535
+a ministry, and it automatically
+finds those for you and you can
+
+225
+00:08:34,587 --> 00:08:36,710
+follow stations and then follow programs.
+
+226
+00:08:36,830 --> 00:08:40,505
+It's, I mean, it's, it's, I'm, I think
+it's awesome app, but then we weren't,
+
+227
+00:08:40,553 --> 00:08:43,553
+we're kind of like you were in the
+woods for a week and like, well,
+
+228
+00:08:43,598 --> 00:08:44,950
+we definitely don't want to do
+
+229
+00:08:45,130 --> 00:08:48,020
+anything until Dave's back,
+you know, because thank you.
+
+230
+00:08:48,100 --> 00:08:48,500
+Thank you.
+
+231
+00:08:48,660 --> 00:08:52,780
+It's like, we did just because it still
+runs off of all of the API stuff.
+
+232
+00:08:53,220 --> 00:08:57,461
+And, um, and then when I got back,
+when I got back and got service, I,
+
+233
+00:08:57,522 --> 00:09:02,610
+my signal like synced up and it was like,
+you have 175 unread signal messages.
+
+234
+00:09:02,610 --> 00:09:04,950
+I was like, Oh God, I'll
+never be able to understand.
+
+235
+00:09:05,470 --> 00:09:05,930
+Yeah.
+
+236
+00:09:05,930 --> 00:09:09,750
+So what happened was, uh, last
+Sunday, um, was it Sunday?
+
+237
+00:09:11,880 --> 00:09:14,720
+Uh, no, it was, it was, uh, 10 days ago.
+
+238
+00:09:14,720 --> 00:09:18,676
+I think all of a sudden I get a message
+from Glenn Beck, like, Hey Adam,
+
+239
+00:09:18,731 --> 00:09:19,830
+it's been two years.
+
+240
+00:09:19,830 --> 00:09:20,550
+Can you come on?
+
+241
+00:09:20,590 --> 00:09:21,890
+Can you come on the 29th?
+
+242
+00:09:21,890 --> 00:09:25,170
+Which I'm going to be in Florida, by the
+way, no, no board meeting next week.
+
+243
+00:09:25,170 --> 00:09:25,450
+Sorry.
+
+244
+00:09:26,440 --> 00:09:30,060
+Um, uh, and that'll be it though for
+the most of the rest of the year.
+
+245
+00:09:31,050 --> 00:09:35,170
+Um, uh, or the 22nd, which, you
+know, was literally a few days away.
+
+246
+00:09:35,170 --> 00:09:37,470
+I'm like, Oh man, I can't believe this.
+
+247
+00:09:37,570 --> 00:09:41,650
+What an opportunity to talk about
+the Godcaster, the app's not ready.
+
+248
+00:09:41,750 --> 00:09:43,310
+I ping Paul is like, no, it's ready.
+
+249
+00:09:43,390 --> 00:09:43,730
+It's good.
+
+250
+00:09:43,790 --> 00:09:44,250
+We can do it.
+
+251
+00:09:44,290 --> 00:09:45,170
+I can just press the button.
+
+252
+00:09:45,250 --> 00:09:46,470
+We're good to go.
+
+253
+00:09:46,760 --> 00:09:47,120
+Shoo.
+
+254
+00:09:47,600 --> 00:09:47,960
+Shoo.
+
+255
+00:09:48,200 --> 00:09:48,740
+Yeah, exactly.
+
+256
+00:09:48,840 --> 00:09:51,400
+And so I still was like, Nope, we're
+waiting for Dave to come back.
+
+257
+00:09:51,740 --> 00:09:53,140
+Dave has to give a thumbs up.
+
+258
+00:09:53,240 --> 00:09:55,560
+We're not doing anything,
+uh, but it worked out.
+
+259
+00:09:55,660 --> 00:09:56,200
+They worked out.
+
+260
+00:09:56,280 --> 00:09:57,220
+It worked out real nice.
+
+261
+00:09:57,360 --> 00:10:02,460
+And, uh, I think that episode out
+yet for blaze subscribers, it's out.
+
+262
+00:10:02,460 --> 00:10:05,978
+I think, uh, on the RSS as,
+as, as the producer told me,
+
+263
+00:10:06,041 --> 00:10:07,800
+it'll be RSS and everywhere.
+
+264
+00:10:08,160 --> 00:10:08,960
+On Saturday.
+
+265
+00:10:09,120 --> 00:10:12,847
+I kind of liked how she said that
+it'll be RSS and everywhere,
+
+266
+00:10:12,907 --> 00:10:15,230
+which I think means YouTube, YouTube.
+
+267
+00:10:15,490 --> 00:10:16,130
+Oh yeah.
+
+268
+00:10:16,250 --> 00:10:16,430
+Yeah.
+
+269
+00:10:16,510 --> 00:10:17,530
+RSS and everywhere.
+
+270
+00:10:17,530 --> 00:10:20,640
+And they release audio and,
+uh, and video versions.
+
+271
+00:10:20,940 --> 00:10:24,160
+Uh, and I guess some people
+are already watching.
+
+272
+00:10:25,000 --> 00:10:28,020
+He brought it, Beck brought
+it up within 10 minutes.
+
+273
+00:10:28,020 --> 00:10:30,090
+I'm like, okay, yeah.
+
+274
+00:10:30,150 --> 00:10:32,650
+I said, okay, let me,
+let's dive in, shall we?
+
+275
+00:10:33,780 --> 00:10:37,260
+Um, so we were just looking
+for, we just want a,
+
+276
+00:10:37,333 --> 00:10:40,160
+a sizable group for the open beta test.
+
+277
+00:10:40,220 --> 00:10:41,320
+So that should probably work.
+
+278
+00:10:42,540 --> 00:10:42,880
+Hoping.
+
+279
+00:10:45,420 --> 00:10:45,800
+Freemium.
+
+280
+00:10:46,040 --> 00:10:46,530
+What do you mean?
+
+281
+00:10:46,670 --> 00:10:47,310
+See Brooklyn.
+
+282
+00:10:48,350 --> 00:10:49,610
+Oh, it's not freemium.
+
+283
+00:10:49,690 --> 00:10:50,330
+You don't have to pay for it.
+
+284
+00:10:50,390 --> 00:10:52,390
+No, there's no freemium.
+
+285
+00:10:52,690 --> 00:10:52,930
+Yeah.
+
+286
+00:10:52,970 --> 00:10:55,250
+I should explain the
+app is completely free.
+
+287
+00:10:55,350 --> 00:10:59,670
+No algo's, no ads, no inserts,
+no banners flying everywhere.
+
+288
+00:10:59,890 --> 00:11:02,129
+What this app does is it,
+
+289
+00:11:02,219 --> 00:11:08,220
+it's a place for radio stations to
+use the Godcaster backend, which
+
+290
+00:11:08,220 --> 00:11:11,602
+means they can put their
+podcasts and their live
+
+291
+00:11:11,672 --> 00:11:15,360
+over the air streams into a
+single, uh, a single place.
+
+292
+00:11:16,240 --> 00:11:21,070
+Um, uh, people aren't leaving
+their radio stations.
+
+293
+00:11:21,070 --> 00:11:22,770
+It's basically, I look at this way.
+
+294
+00:11:22,830 --> 00:11:26,325
+We give everyone who wants
+to be in the Godcaster,
+
+295
+00:11:26,395 --> 00:11:29,680
+they get a customized
+podcast player, a podcast
+
+296
+00:11:29,680 --> 00:11:30,900
+app that they control.
+
+297
+00:11:30,900 --> 00:11:34,497
+It's very much like the
+Rachel Maddow thing that
+
+298
+00:11:34,572 --> 00:11:37,420
+we talked about a long time ago where,
+
+299
+00:11:37,580 --> 00:11:39,740
+you know, have, have an
+opinion of your collection.
+
+300
+00:11:39,740 --> 00:11:42,010
+And so people follow the station.
+
+301
+00:11:42,010 --> 00:11:44,090
+They automatically follow
+the shows that are in there.
+
+302
+00:11:44,110 --> 00:11:48,762
+And then we added this one cool
+thing, which is, um, you, so you,
+
+303
+00:11:48,834 --> 00:11:50,480
+you load up your, your,
+
+304
+00:11:50,620 --> 00:11:54,605
+your digital station with podcasts
+and then you click, make the,
+
+305
+00:11:54,668 --> 00:11:56,100
+turn this into a stream
+
+306
+00:11:56,100 --> 00:11:58,460
+and it turns into a live stream.
+
+307
+00:11:58,460 --> 00:12:01,722
+And when you're listening to it
+in the Godcaster app, you know,
+
+308
+00:12:01,773 --> 00:12:03,430
+if you check the stream, they'll
+
+309
+00:12:03,430 --> 00:12:04,590
+just pop in somewhere.
+
+310
+00:12:04,590 --> 00:12:09,525
+It's, it's that, um, uh, serendipity
+that we were talking about with, um,
+
+311
+00:12:09,593 --> 00:12:15,870
+what's our buddy's name there from, uh,
+Tommy, Tom, Tom Webster, Tom Webster.
+
+312
+00:12:15,970 --> 00:12:16,070
+Yeah.
+
+313
+00:12:16,150 --> 00:12:19,950
+So it's, it's exactly that it's the serendipity
+of just hitting different channels.
+
+314
+00:12:20,050 --> 00:12:20,610
+Oh, what's this?
+
+315
+00:12:20,650 --> 00:12:21,310
+Oh, that's interesting.
+
+316
+00:12:21,310 --> 00:12:26,327
+And then if you want to listen to
+the podcast, that episode or more,
+
+317
+00:12:26,401 --> 00:12:27,950
+you just hit details.
+
+318
+00:12:27,950 --> 00:12:29,182
+It says view program,
+
+319
+00:12:29,240 --> 00:12:33,170
+and it takes you right from the
+live stream to the episodes and you
+
+320
+00:12:33,170 --> 00:12:34,290
+can start it over there.
+
+321
+00:12:34,290 --> 00:12:35,430
+You can add it to your queue.
+
+322
+00:12:35,430 --> 00:12:38,550
+You can listen to a different one
+and all of this is passed through.
+
+323
+00:12:38,550 --> 00:12:42,650
+So, so everything downloads still go
+directly to the hosts and everything.
+
+324
+00:12:42,870 --> 00:12:46,490
+As you can see, it shows
+up as Godcaster with 0.1%.
+
+325
+00:12:46,490 --> 00:12:48,670
+Yeah.
+
+326
+00:12:48,670 --> 00:12:50,430
+It's a different kind of podcast app.
+
+327
+00:12:50,430 --> 00:12:56,652
+It's you, because the whole point
+of, of Godcaster as a product is to,
+
+328
+00:12:56,741 --> 00:12:59,230
+is to keep the radio station
+
+329
+00:12:59,230 --> 00:13:00,750
+as the center of the universe.
+
+330
+00:13:00,930 --> 00:13:03,510
+And it's, you know, it's to, it's to help.
+
+331
+00:13:03,710 --> 00:13:08,615
+I mean, our, you know, our, our goal is
+to help radio stations and churches too,
+
+332
+00:13:08,677 --> 00:13:12,071
+or whoever else wants to do anything,
+but it's primarily, you know,
+
+333
+00:13:12,121 --> 00:13:13,760
+radio stations and ministries and
+
+334
+00:13:13,760 --> 00:13:19,325
+stuff to make the digital transition
+to podcast on demand first,
+
+335
+00:13:19,412 --> 00:13:22,020
+but it still drives everything
+
+336
+00:13:22,020 --> 00:13:23,300
+back to the station.
+
+337
+00:13:23,300 --> 00:13:27,180
+So every, the station is still sort
+of the center of the universe.
+
+338
+00:13:27,180 --> 00:13:32,762
+So it's not a, you know, whereas like in
+the I heart app or something like that,
+
+339
+00:13:32,832 --> 00:13:38,100
+you know, that's a radio that
+has a radio centric feel to it.
+
+340
+00:13:38,670 --> 00:13:41,670
+But as soon as you tap on some
+show, you're, you're gone.
+
+341
+00:13:41,790 --> 00:13:42,810
+The station is lost.
+
+342
+00:13:42,970 --> 00:13:43,390
+Right.
+
+343
+00:13:43,510 --> 00:13:46,440
+You have no idea that
+like you could enter the
+
+344
+00:13:46,504 --> 00:13:49,370
+I heart app through your
+local radio station,
+
+345
+00:13:49,370 --> 00:13:52,349
+but pretty quickly you're
+just out of that now and you,
+
+346
+00:13:52,403 --> 00:13:54,190
+and you don't have any connection
+
+347
+00:13:54,190 --> 00:13:55,110
+back to that station.
+
+348
+00:13:55,110 --> 00:13:58,300
+So they really don't, they really don't
+get any benefit out of it, you know?
+
+349
+00:13:59,040 --> 00:14:01,760
+So that, that's really kind of where
+we're, you know, the focus was.
+
+350
+00:14:01,860 --> 00:14:03,964
+And it gives radio stations
+the opportunity to
+
+351
+00:14:04,010 --> 00:14:05,840
+promote content they don't have on their
+
+352
+00:14:05,840 --> 00:14:07,000
+over the air stream.
+
+353
+00:14:07,530 --> 00:14:10,883
+In fact, there's one station who he,
+
+354
+00:14:10,976 --> 00:14:15,820
+they're they don't run Chip
+Ingram over the air, but
+
+355
+00:14:15,820 --> 00:14:20,410
+they have him in their, in their Godcaster
+and the Chip Ingram people love it.
+
+356
+00:14:20,410 --> 00:14:22,015
+And of course we have, um,
+
+357
+00:14:22,077 --> 00:14:25,720
+I think the two important things
+to mention because we have
+
+358
+00:14:25,720 --> 00:14:26,600
+a controlled environment.
+
+359
+00:14:26,600 --> 00:14:29,640
+So we track plays and all of this stuff.
+
+360
+00:14:29,640 --> 00:14:33,128
+So, uh, someone who's
+running a Godcaster station,
+
+361
+00:14:33,198 --> 00:14:35,570
+they can really make choices based
+
+362
+00:14:35,570 --> 00:14:36,930
+upon actual information.
+
+363
+00:14:37,770 --> 00:14:42,130
+Um, and along with that, we
+surface the funding tag.
+
+364
+00:14:42,250 --> 00:14:45,939
+This is probably one of
+the first podcast oriented
+
+365
+00:14:46,013 --> 00:14:48,890
+apps that really has big donate buttons
+
+366
+00:14:48,890 --> 00:14:52,260
+everywhere, which by the way,
+adheres to the full standards.
+
+367
+00:14:52,300 --> 00:14:56,019
+So if you put in your funding
+tag, support the show,
+
+368
+00:14:56,091 --> 00:14:58,880
+the button changes to support the show.
+
+369
+00:14:58,880 --> 00:15:01,779
+And then you tap that
+and then it takes you,
+
+370
+00:15:01,845 --> 00:15:04,810
+it pops you out to the
+donation page for that
+
+371
+00:15:04,810 --> 00:15:06,210
+program or the station.
+
+372
+00:15:06,210 --> 00:15:11,313
+And the cool thing is that the station,
+they get a, uh, a tick in their,
+
+373
+00:15:11,383 --> 00:15:16,643
+in their dashboard, knowing that
+someone clicked on the funding tag for
+
+374
+00:15:16,720 --> 00:15:20,250
+a different program and
+the program producers,
+
+375
+00:15:20,250 --> 00:15:24,090
+they can also, we're still, we
+haven't opened that up fully yet.
+
+376
+00:15:24,090 --> 00:15:27,166
+They can get their own
+producer login and they can
+
+377
+00:15:27,227 --> 00:15:30,180
+see exactly what stations
+they get stats for all
+
+378
+00:15:30,180 --> 00:15:33,300
+the stations they're on and they
+have all the referral codes.
+
+379
+00:15:33,400 --> 00:15:37,791
+They know exactly where donations
+came from, from which station,
+
+380
+00:15:37,859 --> 00:15:39,780
+because in a Christian radio
+
+381
+00:15:39,780 --> 00:15:41,673
+and, and this flows through to,
+
+382
+00:15:41,734 --> 00:15:45,460
+this will flow through to churches
+and ministries, uh, having
+
+383
+00:15:45,460 --> 00:15:47,440
+a revenue share deal is very normal.
+
+384
+00:15:47,440 --> 00:15:49,500
+I mean, this goes on all the time.
+
+385
+00:15:49,500 --> 00:15:53,580
+So you put, uh, X state X
+program on your station.
+
+386
+00:15:53,840 --> 00:15:57,780
+If they get a, a donation, they're
+supposed to say, Hey, we got a donation.
+
+387
+00:15:57,780 --> 00:15:58,940
+It came from your station.
+
+388
+00:15:59,310 --> 00:16:01,750
+Um, here's 20% or whatever the deal is.
+
+389
+00:16:02,300 --> 00:16:04,940
+Um, which I think is a really cool model.
+
+390
+00:16:04,940 --> 00:16:07,585
+Of course, it's been broken
+for 40 years because
+
+391
+00:16:07,640 --> 00:16:10,120
+the only way the program
+producer knows is if
+
+392
+00:16:10,120 --> 00:16:11,820
+someone actually checked the box.
+
+393
+00:16:11,820 --> 00:16:15,411
+Yeah, I heard you on KHCB
+or worse or an interview,
+
+394
+00:16:15,482 --> 00:16:18,580
+if someone calls and
+donates over the phone,
+
+395
+00:16:18,660 --> 00:16:21,280
+like sometimes they forget to
+ask, where'd you hear about us?
+
+396
+00:16:21,800 --> 00:16:23,680
+So now that's all digitally managed.
+
+397
+00:16:23,680 --> 00:16:26,669
+And that's like, you know,
+this blowing people's minds,
+
+398
+00:16:26,723 --> 00:16:28,680
+like it wasn't all that hard to fix.
+
+399
+00:16:28,680 --> 00:16:33,662
+So, um, the funding tag is just
+front and center along with, uh,
+
+400
+00:16:33,740 --> 00:16:35,920
+the lit tag, because you can
+
+401
+00:16:35,920 --> 00:16:41,040
+also follow the station with an
+RSS feed in your own podcast app.
+
+402
+00:16:41,040 --> 00:16:44,387
+If you want, everything flows
+right through, uh, I mean,
+
+403
+00:16:44,447 --> 00:16:46,300
+we really put podcasting 2.0 to
+
+404
+00:16:46,300 --> 00:16:48,820
+work in this and there's
+still a lot to do, obviously.
+
+405
+00:16:49,660 --> 00:16:53,358
+Um, you know, it's just tons and tons of
+stuff to do, but we're also, you know,
+
+406
+00:16:53,405 --> 00:16:55,180
+we got live clients at the same time.
+
+407
+00:16:55,180 --> 00:16:58,780
+So it's, it's like walking a
+high wire wire all the time.
+
+408
+00:16:58,780 --> 00:17:02,675
+And, um, you know, and,
+and we, we, you know,
+
+409
+00:17:02,761 --> 00:17:06,690
+push everything out to
+other podcast apps as well.
+
+410
+00:17:06,690 --> 00:17:11,067
+So if, you know, somebody wants to
+listen in a true fans or, you know,
+
+411
+00:17:11,129 --> 00:17:12,380
+the automatic or, or
+
+412
+00:17:12,380 --> 00:17:14,180
+fountain or whatever, all that works too.
+
+413
+00:17:14,400 --> 00:17:19,073
+So yeah, we basically, yeah, we basically
+give the station an RSS feed, uh,
+
+414
+00:17:19,135 --> 00:17:20,070
+for the station
+
+415
+00:17:20,070 --> 00:17:23,760
+that includes the most recent episode
+of every podcast they have in there.
+
+416
+00:17:23,760 --> 00:17:24,920
+Plus their live feed.
+
+417
+00:17:24,920 --> 00:17:28,117
+And it's really cool when you, when
+you show it to people like, Oh, look,
+
+418
+00:17:28,161 --> 00:17:31,690
+here it is in the podcast
+guru, podcast, attic fountain.
+
+419
+00:17:31,690 --> 00:17:34,370
+And what true fans, what, what,
+what, how does that work?
+
+420
+00:17:34,410 --> 00:17:34,630
+What?
+
+421
+00:17:34,710 --> 00:17:34,890
+Yeah.
+
+422
+00:17:35,010 --> 00:17:35,350
+Oh yeah.
+
+423
+00:17:35,430 --> 00:17:35,950
+You can do that.
+
+424
+00:17:36,050 --> 00:17:37,550
+These stations have their own apps too.
+
+425
+00:17:37,610 --> 00:17:38,370
+And it works in there.
+
+426
+00:17:38,450 --> 00:17:41,864
+It's just, so yeah, it's just, it's
+just part of that whole philosophy of,
+
+427
+00:17:41,910 --> 00:17:44,360
+of podcasting is of be everywhere.
+
+428
+00:17:44,520 --> 00:17:46,440
+You know, the content
+needs to be everywhere.
+
+429
+00:17:46,440 --> 00:17:51,189
+So I don't, I'm not sure, I don't know
+where you're, where you're headed,
+
+430
+00:17:51,254 --> 00:17:55,342
+but this fits in really well with
+what I was, uh, I, I'd kind of,
+
+431
+00:17:55,405 --> 00:17:57,630
+I had sort of a thing that I wanted
+
+432
+00:17:57,630 --> 00:17:58,577
+to talk about today,
+
+433
+00:17:58,624 --> 00:18:01,700
+but then at the last minute I heard
+power this morning and I kind
+
+434
+00:18:01,700 --> 00:18:03,150
+of really changed to,
+
+435
+00:18:03,219 --> 00:18:08,120
+I felt like I wanted to talk about
+NPR and kind of public broadcasting.
+
+436
+00:18:08,320 --> 00:18:09,960
+Well, you do, you do you boo.
+
+437
+00:18:13,620 --> 00:18:14,700
+You do you boo.
+
+438
+00:18:15,900 --> 00:18:19,435
+I mean, it's part of like, so
+much has happened since, uh,
+
+439
+00:18:19,496 --> 00:18:21,080
+while I was in the forest.
+
+440
+00:18:22,880 --> 00:18:25,300
+Funny thing happened while
+I was in the forest.
+
+441
+00:18:26,100 --> 00:18:30,160
+I came back and Stephen
+Colbert had been canceled.
+
+442
+00:18:31,420 --> 00:18:34,100
+NPR lost its funding
+and it was like, yeah.
+
+443
+00:18:34,180 --> 00:18:36,740
+And podcasting just got
+a little bit better.
+
+444
+00:18:39,090 --> 00:18:43,843
+Yeah, I mean, this kind of all fit
+that we're talking about the radius,
+
+445
+00:18:43,910 --> 00:18:45,450
+you know, radio centric
+
+446
+00:18:45,450 --> 00:18:48,178
+and nature of everything in radios,
+
+447
+00:18:48,256 --> 00:18:53,010
+radio stations making the digital
+transition, which feel like
+
+448
+00:18:53,010 --> 00:18:59,016
+they, they just didn't
+ever fully grasp how to
+
+449
+00:18:59,147 --> 00:19:04,370
+do in a way that didn't hurt them, their
+
+450
+00:19:04,370 --> 00:19:05,990
+traditional like revenue model.
+
+451
+00:19:07,300 --> 00:19:13,964
+Um, I mean, I, I feel, you know, I'm
+not, I'm not the expert on that topic,
+
+452
+00:19:14,053 --> 00:19:15,830
+but the conversation
+
+453
+00:19:15,830 --> 00:19:21,561
+we have with Rocky was very
+interesting around, you know,
+
+454
+00:19:21,662 --> 00:19:24,980
+what their trepidation with, with
+
+455
+00:19:24,980 --> 00:19:27,039
+digital and with internet, uh,
+
+456
+00:19:27,107 --> 00:19:31,430
+streaming based on how they got
+screwed by Mark Cuban and other
+
+457
+00:19:31,430 --> 00:19:35,475
+people in the early days who
+just kind of like used them to,
+
+458
+00:19:35,542 --> 00:19:37,430
+to make a fortune themselves
+
+459
+00:19:37,430 --> 00:19:40,090
+and discarded them, you
+know, to a dustbin.
+
+460
+00:19:40,730 --> 00:19:41,170
+Yes.
+
+461
+00:19:41,450 --> 00:19:43,484
+Um, I mean, like the, the first,
+
+462
+00:19:43,547 --> 00:19:47,360
+the first few minutes of this
+week's pod news weekly review,
+
+463
+00:19:47,480 --> 00:19:50,918
+like I said, I had a whole, I had a whole
+set of topics I want to talk about,
+
+464
+00:19:50,963 --> 00:19:54,417
+but like after hearing those first
+few minutes, I was like, no,
+
+465
+00:19:54,475 --> 00:19:57,390
+it just gave me so many
+thoughts about this topic.
+
+466
+00:19:57,450 --> 00:19:57,750
+Okay.
+
+467
+00:19:58,490 --> 00:20:04,770
+Um, and I mean, so I
+guess NPR, NPR is such a,
+
+468
+00:20:04,906 --> 00:20:10,640
+is so important to podcasting because they
+
+469
+00:20:10,640 --> 00:20:15,340
+were so early and they were one
+of the first ones to pop up.
+
+470
+00:20:15,340 --> 00:20:19,194
+I mean, back even, I think it was
+even before we called it podcasting,
+
+471
+00:20:19,249 --> 00:20:20,940
+they were already sniffing around.
+
+472
+00:20:21,020 --> 00:20:22,020
+They were there very early.
+
+473
+00:20:22,530 --> 00:20:25,298
+What's your, what's your, um, uh,
+
+474
+00:20:25,298 --> 00:20:29,450
+buddy over there at WGBH
+that Tony Khan, Tony Khan.
+
+475
+00:20:29,530 --> 00:20:29,630
+Yeah.
+
+476
+00:20:29,730 --> 00:20:29,870
+Yeah.
+
+477
+00:20:29,990 --> 00:20:30,130
+Yeah.
+
+478
+00:20:31,100 --> 00:20:35,326
+Um, and so I mean, there's this
+whole, there's, it's like,
+
+479
+00:20:35,399 --> 00:20:37,730
+there's multiple things that the
+
+480
+00:20:37,730 --> 00:20:40,435
+death of traditional mainstream,
+whatever you want to call it,
+
+481
+00:20:40,479 --> 00:20:41,570
+mainstream media, whether
+
+482
+00:20:41,570 --> 00:20:45,300
+it's, you know, TV or cable or, uh, radio.
+
+483
+00:20:45,500 --> 00:20:47,838
+I mean, that's been predicted forever,
+
+484
+00:20:47,900 --> 00:20:51,100
+but so as so often is the
+case with predictions like
+
+485
+00:20:51,100 --> 00:20:54,488
+this, it actually, it may
+ultimately come to pass,
+
+486
+00:20:54,556 --> 00:20:57,420
+but it takes a lot longer
+than you think it will.
+
+487
+00:20:57,420 --> 00:20:57,580
+Yeah.
+
+488
+00:20:57,640 --> 00:21:00,820
+This is why I'm not a billionaire because
+I always come up with great ideas.
+
+489
+00:21:00,960 --> 00:21:02,440
+At least 10 years too early.
+
+490
+00:21:02,920 --> 00:21:03,200
+Too early.
+
+491
+00:21:03,300 --> 00:21:03,400
+Yeah.
+
+492
+00:21:03,400 --> 00:21:05,760
+And then someone else goes
+off and makes money on it.
+
+493
+00:21:06,260 --> 00:21:10,740
+Like, how, how did Joe Rogan get two,
+two, $300 million and I got nothing?
+
+494
+00:21:12,400 --> 00:21:15,100
+You're not getting your
+royalty check from podcasting?
+
+495
+00:21:15,560 --> 00:21:16,000
+No.
+
+496
+00:21:16,000 --> 00:21:26,070
+Um, so, I mean, that, that's, so radio and
+TV and, and they're just sort of slow.
+
+497
+00:21:26,250 --> 00:21:28,730
+They're dying so slowly.
+
+498
+00:21:29,100 --> 00:21:29,290
+Yeah.
+
+499
+00:21:29,370 --> 00:21:30,550
+It was a very slow burn.
+
+500
+00:21:31,330 --> 00:21:31,610
+Yeah.
+
+501
+00:21:31,610 --> 00:21:31,710
+Yeah.
+
+502
+00:21:31,810 --> 00:21:35,432
+And so PBS, I don't know this, this, this,
+
+503
+00:21:35,518 --> 00:21:39,140
+this thing about NPR getting their funding
+
+504
+00:21:39,140 --> 00:21:41,310
+cut, they mentioned it a little bit.
+
+505
+00:21:41,390 --> 00:21:46,800
+They were mostly focused on the BBC
+and, uh, Spain, uh, public media,
+
+506
+00:21:46,879 --> 00:21:48,290
+but you know, NPR,
+
+507
+00:21:48,290 --> 00:21:55,387
+uh, is, was really corporation for
+public broadcasting lost, um, you know,
+
+508
+00:21:55,483 --> 00:21:57,880
+lost its federal funding,
+
+509
+00:21:57,880 --> 00:22:03,320
+which flows to PBS and NPR through the
+corporation for public broadcasting.
+
+510
+00:22:03,320 --> 00:22:10,000
+And I just wanted to kind of like
+visit this, this topic for a second,
+
+511
+00:22:10,095 --> 00:22:12,290
+because there's, I hear
+
+512
+00:22:12,290 --> 00:22:15,770
+constant misunderstanding about
+the way the money flow works.
+
+513
+00:22:15,850 --> 00:22:20,751
+And there, everybody
+has a different version
+
+514
+00:22:20,863 --> 00:22:25,430
+of what ultimately is not how this works.
+
+515
+00:22:25,430 --> 00:22:31,542
+Um, so PBS said that, that, that,
+that money that they lost, um,
+
+516
+00:22:31,637 --> 00:22:34,520
+made up about 20% of their revenue.
+
+517
+00:22:34,720 --> 00:22:40,382
+That's, that's a big deal for PBS, but
+you know, underwriters and donations,
+
+518
+00:22:40,456 --> 00:22:42,370
+I guess they make up 80%.
+
+519
+00:22:42,370 --> 00:22:45,370
+So there's 20%, they can,
+they can survive that.
+
+520
+00:22:45,370 --> 00:22:48,686
+I mean, underwriters are
+advertisers and if they
+
+521
+00:22:48,755 --> 00:22:51,450
+do some content and programming changes
+
+522
+00:22:51,450 --> 00:22:56,100
+to try to attract new audiences and that
+kind of thing, they can survive a 20% cut.
+
+523
+00:22:56,220 --> 00:23:00,577
+Just to, to set one thing kind
+of straight in the beginning,
+
+524
+00:23:00,649 --> 00:23:02,610
+PBS purchases a lot of that
+
+525
+00:23:02,610 --> 00:23:06,290
+programming from commercial
+production companies as does NPR.
+
+526
+00:23:07,500 --> 00:23:07,780
+Yes.
+
+527
+00:23:07,960 --> 00:23:08,160
+Yes.
+
+528
+00:23:08,220 --> 00:23:13,800
+So it's not like them, you know, so, um,
+often spot and a lot of it, PBS is a lot
+
+529
+00:23:13,800 --> 00:23:16,053
+of military industrial complex, you know,
+
+530
+00:23:16,108 --> 00:23:18,580
+like Boeing and Archer
+Daniel Midland company
+
+531
+00:23:18,580 --> 00:23:23,480
+and, you know, yeah, it's not
+really like consumer oriented.
+
+532
+00:23:23,480 --> 00:23:27,081
+They know exactly what their
+audience is and their, if anything,
+
+533
+00:23:27,137 --> 00:23:28,600
+it's virtue signaling, but
+
+534
+00:23:28,600 --> 00:23:30,447
+still, um, and, and with NPR,
+
+535
+00:23:30,510 --> 00:23:34,140
+it's even more prevalent how
+the money flows because the,
+
+536
+00:23:34,200 --> 00:23:39,900
+the local stations actually have to buy
+the national programming, uh, through NPR.
+
+537
+00:23:40,740 --> 00:23:44,200
+And, you know, so it's very convoluted.
+
+538
+00:23:45,050 --> 00:23:45,150
+Yeah.
+
+539
+00:23:45,150 --> 00:23:49,930
+And that's the, that's the real flow
+is PBS can survive the 20% cut.
+
+540
+00:23:50,850 --> 00:23:52,570
+NPR is going to be more affected.
+
+541
+00:23:53,600 --> 00:23:56,886
+Uh, they're, they're going to get the
+bigger hit from this because most,
+
+542
+00:23:56,931 --> 00:24:00,274
+like you said, most, the money
+flow is that most of the,
+
+543
+00:24:00,338 --> 00:24:03,240
+of that money from the
+government goes to the
+
+544
+00:24:03,240 --> 00:24:08,770
+member stations, which then turn around and
+buy the content from the NPR mothership.
+
+545
+00:24:08,790 --> 00:24:14,130
+And so the, the, the money does
+end up at the NPR mothership.
+
+546
+00:24:14,130 --> 00:24:17,550
+It just goes through a
+securitist route to get there.
+
+547
+00:24:18,180 --> 00:24:22,458
+So less money to the member stations
+means less money to purchase the content,
+
+548
+00:24:22,513 --> 00:24:25,910
+which ultimately means less
+money to NPR mothership.
+
+549
+00:24:26,070 --> 00:24:30,360
+So that's, that's how they get hurt
+out of this pro out of, out of this.
+
+550
+00:24:30,500 --> 00:24:31,600
+There is one other thing.
+
+551
+00:24:31,700 --> 00:24:34,540
+NPR pays an exorbitant amount of money.
+
+552
+00:24:34,540 --> 00:24:38,230
+I forget how much, but
+it's millions a year to
+
+553
+00:24:38,310 --> 00:24:42,720
+deliver the programming to the
+NPR stations via satellite.
+
+554
+00:24:43,660 --> 00:24:45,640
+That is such a waste of money.
+
+555
+00:24:45,940 --> 00:24:46,060
+Yeah.
+
+556
+00:24:47,350 --> 00:24:47,740
+Yes.
+
+557
+00:24:47,880 --> 00:24:49,438
+There must, and the,
+
+558
+00:24:49,516 --> 00:24:55,360
+knowing the way government operates and
+not just government, but government
+
+559
+00:24:55,360 --> 00:25:01,439
+and nonprofits and NGOs and knowing the
+way that whole thing is put together,
+
+560
+00:25:01,518 --> 00:25:06,119
+this is, there's probably a
+couple of people who have
+
+561
+00:25:06,206 --> 00:25:10,800
+contracts to deliver that through
+this old satellite system.
+
+562
+00:25:11,130 --> 00:25:15,710
+And they're just, they've been getting
+paid all this money for all these years.
+
+563
+00:25:15,710 --> 00:25:20,430
+And you know, you don't want
+to upset the apple cart.
+
+564
+00:25:20,630 --> 00:25:21,250
+No, no.
+
+565
+00:25:21,370 --> 00:25:23,910
+A lot of people, yeah, it's gravy train.
+
+566
+00:25:24,590 --> 00:25:24,710
+Yeah.
+
+567
+00:25:24,750 --> 00:25:28,777
+It's the grandson, the, the, the owner
+of whatever this delivery network is,
+
+568
+00:25:28,830 --> 00:25:29,890
+the grandson of some
+
+569
+00:25:29,890 --> 00:25:32,366
+Senator or something like,
+you know, you never,
+
+570
+00:25:32,419 --> 00:25:34,790
+you never know how this
+stuff works, but, um,
+
+571
+00:25:35,280 --> 00:25:40,970
+but it got me thinking, you know, so
+the point of public broadcasting,
+
+572
+00:25:41,052 --> 00:25:44,210
+like what, what is the actual point?
+
+573
+00:25:44,270 --> 00:25:51,040
+So that meaning tax funded broadcasting,
+and at least in the U S this is governed by
+
+574
+00:25:51,040 --> 00:25:54,097
+the public broadcasting act of 1967, um,
+
+575
+00:25:54,174 --> 00:25:58,530
+which established the corporation
+for public broadcasting
+
+576
+00:25:58,530 --> 00:26:01,994
+NPR was created a few
+years later, but, uh,
+
+577
+00:26:02,074 --> 00:26:05,780
+by the corporation for
+public broadcasting and
+
+578
+00:26:05,780 --> 00:26:09,746
+reading from that act, the
+goals of, of doing that,
+
+579
+00:26:09,824 --> 00:26:13,090
+of establishing this nonprofit corporation
+
+580
+00:26:13,090 --> 00:26:15,810
+for public broadcasting that
+would receive tax dollars.
+
+581
+00:26:15,810 --> 00:26:19,096
+The goals were things like this quote,
+
+582
+00:26:19,183 --> 00:26:23,680
+it is in the public interest
+to encourage the growth
+
+583
+00:26:23,680 --> 00:26:26,185
+and development of public
+radio and television,
+
+584
+00:26:26,238 --> 00:26:28,850
+including the use of such
+media for instructional
+
+585
+00:26:28,850 --> 00:26:30,690
+education and cultural purposes.
+
+586
+00:26:32,730 --> 00:26:35,530
+Uh, another quote is, uh, another
+quote is this is from the act itself.
+
+587
+00:26:35,530 --> 00:26:41,142
+It says to constitute an expression of
+diversity and excellence, you know,
+
+588
+00:26:41,218 --> 00:26:42,810
+so the public, public
+
+589
+00:26:42,810 --> 00:26:50,702
+broadcasting gets a hit from, you know,
+super right wing people, uh, for being,
+
+590
+00:26:50,802 --> 00:26:53,700
+you know, uh, lefty and
+that kind of thing.
+
+591
+00:26:53,700 --> 00:26:57,153
+And, but a lot of what
+they're programming is,
+
+592
+00:26:57,228 --> 00:27:00,380
+is actually in keeping with their mandate.
+
+593
+00:27:01,220 --> 00:27:03,670
+Uh, another, another quote
+is it is in the public
+
+594
+00:27:03,720 --> 00:27:05,720
+interest to encourage the development of
+
+595
+00:27:05,720 --> 00:27:09,044
+programming that involves
+creative risks and that
+
+596
+00:27:09,112 --> 00:27:12,300
+addresses the needs of
+unserved and underserved
+
+597
+00:27:12,300 --> 00:27:15,020
+audiences, particularly
+children and minorities.
+
+598
+00:27:15,020 --> 00:27:18,800
+So that's in the, the
+bill that created them.
+
+599
+00:27:19,380 --> 00:27:24,630
+So, you know, a lot, a lot of
+their programming is doing that.
+
+600
+00:27:24,630 --> 00:27:25,890
+Yeah.
+
+601
+00:27:25,890 --> 00:27:29,532
+So they, they are being
+true to their mission
+
+602
+00:27:29,613 --> 00:27:32,770
+statement as given to them by Congress.
+
+603
+00:27:33,870 --> 00:27:38,060
+Um, the pro, you know,
+that's not really a problem.
+
+604
+00:27:38,160 --> 00:27:45,490
+The problem has come in with the, the
+prohibitions that were also in that act.
+
+605
+00:27:45,490 --> 00:27:48,805
+And so for instance, this
+one, it says, quote,
+
+606
+00:27:48,877 --> 00:27:52,480
+the corporation may not
+contribute to or otherwise
+
+607
+00:27:52,480 --> 00:27:57,060
+support any political party or candidate
+for elective public office, unquote.
+
+608
+00:27:58,810 --> 00:27:58,910
+Right.
+
+609
+00:27:59,070 --> 00:28:03,930
+Now you can, you can support
+someone without supporting someone.
+
+610
+00:28:03,990 --> 00:28:04,370
+Yes.
+
+611
+00:28:04,370 --> 00:28:05,410
+Yes, absolutely.
+
+612
+00:28:06,120 --> 00:28:09,432
+And you see that done and
+you see that done every
+
+613
+00:28:09,499 --> 00:28:12,270
+week from pulpits and churches, you know,
+
+614
+00:28:12,310 --> 00:28:14,935
+people make statements
+that don't, you know,
+
+615
+00:28:14,995 --> 00:28:18,280
+because churches are also
+because they're tax exempt.
+
+616
+00:28:18,280 --> 00:28:21,400
+Do you know that the IRS just
+released a statement about the,
+
+617
+00:28:21,451 --> 00:28:23,190
+it's called the Johnson Amendment.
+
+618
+00:28:23,980 --> 00:28:27,305
+Uh, President Johnson added an
+amendment to the IRS law and that was,
+
+619
+00:28:27,353 --> 00:28:29,380
+I don't know, that must've
+been early sixties.
+
+620
+00:28:30,300 --> 00:28:33,798
+Um, no 501c3 nonprofit can,
+
+621
+00:28:33,928 --> 00:28:42,090
+that's why you have 501c4s because
+that's a lobbying nonprofit,
+
+622
+00:28:42,090 --> 00:28:43,590
+which is not tax deductible.
+
+623
+00:28:43,590 --> 00:28:48,655
+But the 501c3s, which most
+churches are, they can't, um,
+
+624
+00:28:48,746 --> 00:28:52,310
+they cannot favor any
+political candidates.
+
+625
+00:28:52,310 --> 00:28:56,274
+And the IRS just issued
+an opinion and they said,
+
+626
+00:28:56,354 --> 00:28:59,590
+this will no longer hold true for houses
+
+627
+00:28:59,590 --> 00:29:05,390
+of worship because it is the same as
+talking about politics inside your family.
+
+628
+00:29:05,390 --> 00:29:10,910
+Now how that works with, with podcasts
+by pastors and stuff like that.
+
+629
+00:29:10,970 --> 00:29:11,510
+I don't know.
+
+630
+00:29:12,210 --> 00:29:12,830
+Right.
+
+631
+00:29:12,990 --> 00:29:16,116
+You know, and, or when they
+stream a service live,
+
+632
+00:29:16,179 --> 00:29:18,430
+I think that's kind of questionable,
+
+633
+00:29:18,430 --> 00:29:21,010
+but that was just like two weeks ago.
+
+634
+00:29:21,010 --> 00:29:22,710
+That was an opinion the IRS released.
+
+635
+00:29:23,610 --> 00:29:24,210
+Oh, interesting.
+
+636
+00:29:24,430 --> 00:29:24,650
+Okay.
+
+637
+00:29:25,390 --> 00:29:25,530
+Yeah.
+
+638
+00:29:25,530 --> 00:29:29,543
+That, that's when, you know,
+the way, well, the way, yeah,
+
+639
+00:29:29,613 --> 00:29:31,550
+the way churches have gotten
+
+640
+00:29:31,550 --> 00:29:35,576
+around that forever, that, that ambiguity
+there is bus, you know, they'll,
+
+641
+00:29:35,631 --> 00:29:39,785
+you know, you make statements from, you
+know, from your sermon or whatever,
+
+642
+00:29:39,842 --> 00:29:41,770
+and you don't mention a particular
+
+643
+00:29:41,770 --> 00:29:44,431
+candidate or that kind of
+thing, but you, you said,
+
+644
+00:29:44,484 --> 00:29:46,550
+you mentioned all the things around it.
+
+645
+00:29:46,550 --> 00:29:47,610
+I'm voting red.
+
+646
+00:29:47,610 --> 00:29:50,890
+If you know what I mean, wink,
+wink, wink, wink, nudge, nudge.
+
+647
+00:29:51,050 --> 00:29:51,270
+Yes.
+
+648
+00:29:51,330 --> 00:29:51,590
+Right.
+
+649
+00:29:51,870 --> 00:29:55,090
+I'm just saying, make America great again.
+
+650
+00:29:55,950 --> 00:29:56,510
+Yeah.
+
+651
+00:29:56,690 --> 00:29:56,870
+Yeah.
+
+652
+00:29:57,210 --> 00:29:59,992
+It's like, or, you know, like,
+uh, if it's a, you know,
+
+653
+00:30:00,043 --> 00:30:01,560
+more of a left leaning church,
+
+654
+00:30:01,600 --> 00:30:03,800
+you miss like, uh, we're with her.
+
+655
+00:30:03,880 --> 00:30:04,140
+Yeah.
+
+656
+00:30:04,240 --> 00:30:10,389
+You know, quote, you know, like, by the
+way, during the 20, uh, 2024 election,
+
+657
+00:30:10,468 --> 00:30:14,410
+black churches, man, they, they
+were just all out vote for Kamala.
+
+658
+00:30:14,510 --> 00:30:16,250
+They were just saying it flat out.
+
+659
+00:30:16,730 --> 00:30:18,350
+It was, it was pretty crazy.
+
+660
+00:30:18,350 --> 00:30:19,150
+Like, okay.
+
+661
+00:30:19,990 --> 00:30:24,621
+But so, you know, in, in PR we've,
+you know, we've played clips of, uh,
+
+662
+00:30:24,686 --> 00:30:31,050
+of on the media, uh, you know,
+which is a, uh, NPR show.
+
+663
+00:30:31,170 --> 00:30:34,604
+We've played clips of them where
+they just flat out say Trump,
+
+664
+00:30:34,604 --> 00:30:36,130
+you know, Trump's a fascist.
+
+665
+00:30:36,210 --> 00:30:38,810
+We keep telling people this,
+but they won't listen to us.
+
+666
+00:30:39,850 --> 00:30:40,530
+That's right.
+
+667
+00:30:41,390 --> 00:30:41,790
+Literally.
+
+668
+00:30:41,790 --> 00:30:42,650
+That's what they said.
+
+669
+00:30:42,690 --> 00:30:43,410
+They won't listen.
+
+670
+00:30:43,630 --> 00:30:44,750
+Well, we're no good.
+
+671
+00:30:45,860 --> 00:30:46,020
+Yeah.
+
+672
+00:30:46,240 --> 00:30:51,547
+So this is the, the problem is not
+with the problem is not with their,
+
+673
+00:30:51,623 --> 00:30:55,340
+their following their mandate,
+which they mostly do.
+
+674
+00:30:55,540 --> 00:31:03,800
+Problem is that they've, they've gone
+so far, um, against the prohibitions.
+
+675
+00:31:03,800 --> 00:31:07,718
+And they're just basically that it's,
+there's another one in here that says,
+
+676
+00:31:07,770 --> 00:31:11,314
+quote, strict adherence to objectivity
+and balance in all programs
+
+677
+00:31:11,369 --> 00:31:13,580
+or series of programs of a controversial
+
+678
+00:31:13,580 --> 00:31:17,830
+nature, unquote, you know, and
+it's just not the case anymore.
+
+679
+00:31:17,830 --> 00:31:19,415
+And I don't actually,
+
+680
+00:31:19,491 --> 00:31:24,850
+I don't have a problem with the
+leftness or rightness of any particular
+
+681
+00:31:24,850 --> 00:31:27,150
+broadcaster, including NPR and PBS.
+
+682
+00:31:27,580 --> 00:31:33,240
+It's, um, I'm sort of immune to it.
+
+683
+00:31:33,300 --> 00:31:37,370
+I, it doesn't, I don't listen
+to those things anyway.
+
+684
+00:31:37,530 --> 00:31:40,730
+Mostly I used to, I used to listen
+to a lot of NPR when I was younger.
+
+685
+00:31:41,470 --> 00:31:47,333
+I, it's, I find it kind of boring these
+days, so I don't listen to it anymore,
+
+686
+00:31:47,408 --> 00:31:51,910
+but, um, I don't really have a problem
+with the left, right of all this.
+
+687
+00:31:53,050 --> 00:31:56,518
+Um, cause I think the
+leftward trend of NPR and
+
+688
+00:31:56,591 --> 00:32:02,120
+PBS is really just more of a
+general trend that follow it.
+
+689
+00:32:02,120 --> 00:32:07,216
+So it follows the, the
+education and income brackets,
+
+690
+00:32:07,312 --> 00:32:10,870
+the more money and the more education
+
+691
+00:32:10,870 --> 00:32:13,552
+a person has, the more
+likely they are to be left
+
+692
+00:32:13,607 --> 00:32:15,960
+on the left side of the
+political spectrum.
+
+693
+00:32:15,960 --> 00:32:23,144
+And so, you know, and why that is, is a
+question that people like Thomas Frank,
+
+694
+00:32:23,235 --> 00:32:26,850
+um, you can read his books have,
+they've contributed to answering.
+
+695
+00:32:26,950 --> 00:32:28,110
+It's a hard, it's a hard question.
+
+696
+00:32:28,170 --> 00:32:32,303
+It's multifactorial, you know,
+factorial, but it, it really,
+
+697
+00:32:32,371 --> 00:32:34,300
+that trend started under the
+
+698
+00:32:34,300 --> 00:32:36,180
+Bill Clinton years and it's kind of,
+
+699
+00:32:36,232 --> 00:32:38,790
+and it's just increased
+exponentially since then.
+
+700
+00:32:38,790 --> 00:32:42,968
+But much of NPR and member
+stations are tied to
+
+701
+00:32:43,057 --> 00:32:46,790
+Washington DC and those are the wealthiest
+
+702
+00:32:46,790 --> 00:32:49,670
+zip codes in the country and universities.
+
+703
+00:32:49,950 --> 00:32:54,150
+Like our local NPR station is UAB
+university here in Birmingham,
+
+704
+00:32:54,215 --> 00:32:55,790
+the United university of
+
+705
+00:32:55,790 --> 00:32:56,470
+Alabama, Birmingham.
+
+706
+00:32:56,730 --> 00:32:58,870
+It's, it's housed on their campus.
+
+707
+00:32:58,870 --> 00:33:00,620
+So there's your answer to you.
+
+708
+00:33:00,620 --> 00:33:02,180
+It's an organic thing.
+
+709
+00:33:02,300 --> 00:33:06,718
+They trend, the NPR and
+PBS trended left because
+
+710
+00:33:06,810 --> 00:33:10,860
+their staff and their
+listeners trended more
+
+711
+00:33:10,860 --> 00:33:12,960
+towards educated and high income.
+
+712
+00:33:13,180 --> 00:33:18,000
+So this is what I, it's not a new
+term, but it's audience capture.
+
+713
+00:33:19,000 --> 00:33:23,480
+And, and I've dealt with
+this for over 17 years,
+
+714
+00:33:23,573 --> 00:33:27,680
+whenever Dvorak and I
+disagreed with general
+
+715
+00:33:27,680 --> 00:33:34,200
+opinion, my timeline fills
+up with, I'm unsubscribing.
+
+716
+00:33:34,200 --> 00:33:35,820
+I'm no longer donating.
+
+717
+00:33:36,040 --> 00:33:36,980
+This is no good.
+
+718
+00:33:37,120 --> 00:33:39,480
+And we, we're just like, oh, fine.
+
+719
+00:33:39,620 --> 00:33:42,480
+You know, if we don't get enough
+donations, we'll go do something else.
+
+720
+00:33:42,580 --> 00:33:45,040
+That's always been our, uh, our take.
+
+721
+00:33:45,040 --> 00:33:48,670
+So we had alternative
+opinions during COVID.
+
+722
+00:33:48,810 --> 00:33:51,550
+We had alternative opinions about Ukraine.
+
+723
+00:33:51,550 --> 00:33:56,273
+We have definitely had alternative
+opinions about, uh, who runs,
+
+724
+00:33:56,347 --> 00:33:57,970
+who America is real or
+
+725
+00:33:57,970 --> 00:34:07,210
+Israel America and the amount of hate
+and anger and threats that I can.
+
+726
+00:34:07,210 --> 00:34:13,590
+And, and I, I see why it's so easy for many
+podcasters in particular to go, oh crap.
+
+727
+00:34:14,390 --> 00:34:16,550
+Uh, well, my audience doesn't like that.
+
+728
+00:34:16,550 --> 00:34:21,280
+So I, I must be wrong or, you know, and
+I think that's the same with all media.
+
+729
+00:34:21,460 --> 00:34:24,720
+You're in a milieu and that's what
+you're, that's what you're identifying.
+
+730
+00:34:24,840 --> 00:34:26,960
+You're, you're in the,
+you're literally on campus.
+
+731
+00:34:27,300 --> 00:34:29,140
+So you're going to be in a milieu.
+
+732
+00:34:30,110 --> 00:34:34,365
+Um, but it's very, very tough to
+stand up and say, no, I'm just,
+
+733
+00:34:34,431 --> 00:34:36,380
+I just have a different opinion.
+
+734
+00:34:36,500 --> 00:34:37,770
+And this is my opinion.
+
+735
+00:34:37,770 --> 00:34:40,690
+If you don't like it, then don't
+listen or don't donate or whatever.
+
+736
+00:34:40,770 --> 00:34:41,290
+That's fine.
+
+737
+00:34:41,450 --> 00:34:42,630
+You're not hurting me.
+
+738
+00:34:43,220 --> 00:34:44,964
+Uh, you think you are, but you're not,
+
+739
+00:34:45,010 --> 00:34:47,580
+which is why I have a donation
+model and not advertising
+
+740
+00:34:47,580 --> 00:34:50,290
+because advertisers would
+have gone away immediately.
+
+741
+00:34:50,290 --> 00:34:52,130
+Yeah.
+
+742
+00:34:52,370 --> 00:34:57,281
+I mean, the, the, the NPR mothership
+is in Washington DC and it's very,
+
+743
+00:34:57,351 --> 00:34:59,080
+they're, Washington DC is
+
+744
+00:34:59,080 --> 00:35:01,500
+a, is a place, a place of extreme wealth.
+
+745
+00:35:01,500 --> 00:35:07,720
+And so you're going to get a
+trend towards a trend left.
+
+746
+00:35:07,720 --> 00:35:11,785
+And in the universe, the
+universities, which many NPR station,
+
+747
+00:35:11,851 --> 00:35:13,490
+your member stations, you
+
+748
+00:35:13,490 --> 00:35:16,250
+know, are on, on university
+campuses are started that way.
+
+749
+00:35:17,920 --> 00:35:21,633
+The university professors
+and university staff are
+
+750
+00:35:21,707 --> 00:35:24,900
+also very well paid and
+that's a very, and,
+
+751
+00:35:24,900 --> 00:35:26,080
+and highly educated.
+
+752
+00:35:26,080 --> 00:35:27,840
+So that's also another
+trend towards the left.
+
+753
+00:35:27,920 --> 00:35:30,990
+It's just not, it's an,
+it happened organically.
+
+754
+00:35:31,150 --> 00:35:32,710
+It's an organic process.
+
+755
+00:35:32,710 --> 00:35:38,088
+There's, it's, you, you could have
+almost predicted it based on, you know,
+
+756
+00:35:38,161 --> 00:35:39,960
+just seeing where history was going.
+
+757
+00:35:40,060 --> 00:35:42,050
+So it's not, it's not surprising.
+
+758
+00:35:42,050 --> 00:35:49,097
+And it's, it's honestly not even that
+big of a deal, except here's my,
+
+759
+00:35:49,197 --> 00:35:51,110
+here's where I kind
+
+760
+00:35:51,110 --> 00:36:00,090
+of hit, you know, here's where it hits
+me or here's, here's where my mind went.
+
+761
+00:36:00,090 --> 00:36:04,371
+I don't, I don't think
+the problem is with,
+
+762
+00:36:04,470 --> 00:36:09,050
+is with a certain political
+bias problem I see
+
+763
+00:36:09,050 --> 00:36:13,863
+is that, um, being publicly
+funded with tax dollars
+
+764
+00:36:13,958 --> 00:36:17,930
+did not keep that political
+skew from happening.
+
+765
+00:36:18,070 --> 00:36:23,377
+So what's the point, you know,
+because the idea here is that, okay,
+
+766
+00:36:23,457 --> 00:36:25,120
+we're going to, we're
+
+767
+00:36:25,120 --> 00:36:29,861
+going to publicly fund this media
+with tax dollars and we're,
+
+768
+00:36:29,939 --> 00:36:32,970
+and that's going to allow, I'm speaking
+
+769
+00:36:32,970 --> 00:36:34,756
+as the government here,
+
+770
+00:36:34,833 --> 00:36:40,190
+that's going to allow us to dictate
+to this organization that they're
+
+771
+00:36:40,190 --> 00:36:45,900
+not allowed to show political
+bias, but that did not work.
+
+772
+00:36:45,900 --> 00:36:54,396
+And so if the, if the, if the receiving
+of tax dollars through congressional,
+
+773
+00:36:54,506 --> 00:37:00,305
+uh, dictate, dictate, if that does
+not keep the bias from happening,
+
+774
+00:37:00,386 --> 00:37:02,990
+then they're really no different
+
+775
+00:37:02,990 --> 00:37:06,960
+from any other non-tax
+funded organization.
+
+776
+00:37:06,960 --> 00:37:10,460
+And at that point, why
+give them tax money?
+
+777
+00:37:11,290 --> 00:37:12,669
+Because there's only,
+
+778
+00:37:12,735 --> 00:37:17,530
+there's only one argument for giving
+them tax money is there, is that you
+
+779
+00:37:17,530 --> 00:37:22,940
+can establish guardrails,
+fairness and balance.
+
+780
+00:37:22,940 --> 00:37:28,175
+And if that does not, if that
+doesn't effectuate in reality,
+
+781
+00:37:28,262 --> 00:37:30,880
+then there's no reason to have
+
+782
+00:37:30,880 --> 00:37:34,460
+a tax funded organization like that.
+
+783
+00:37:34,970 --> 00:37:39,100
+So, you know, what I'm saying
+is you can have two entities,
+
+784
+00:37:39,170 --> 00:37:41,340
+Fox news and NPR that both skew
+
+785
+00:37:41,340 --> 00:37:43,140
+hard to the left or the right.
+
+786
+00:37:43,300 --> 00:37:46,460
+One gets tax money and the other doesn't.
+
+787
+00:37:46,460 --> 00:37:53,370
+So the presence or lack of tax money
+as a balancing agent doesn't work.
+
+788
+00:37:53,370 --> 00:37:56,836
+I have, I have only one
+real problem with NPR
+
+789
+00:37:56,913 --> 00:38:00,070
+and this hit me four years ago and it hit
+
+790
+00:38:00,070 --> 00:38:02,580
+me just three weeks ago.
+
+791
+00:38:02,580 --> 00:38:10,010
+We had a devastating flood here in the
+hill country, 20 minutes South of me.
+
+792
+00:38:10,150 --> 00:38:14,470
+The only reason we weren't affected is
+because we're on at a higher elevation,
+
+793
+00:38:14,525 --> 00:38:15,190
+uh, comfort,
+
+794
+00:38:15,590 --> 00:38:18,410
+Curville, Hunt, Centerpoint.
+
+795
+00:38:19,120 --> 00:38:23,376
+I mean, everyone has seen the images,
+by the way, it's like the Grand Canyon,
+
+796
+00:38:23,431 --> 00:38:24,990
+unless you've actually been there.
+
+797
+00:38:25,190 --> 00:38:27,270
+You don't understand how vast that is.
+
+798
+00:38:28,180 --> 00:38:31,204
+And for all this noise, radio has for my,
+
+799
+00:38:31,278 --> 00:38:34,670
+I've been a radio guy
+since I was 13 years old
+
+800
+00:38:34,670 --> 00:38:36,310
+and built my first radio transmitter.
+
+801
+00:38:36,510 --> 00:38:39,130
+Radio is inherently a local medium.
+
+802
+00:38:39,130 --> 00:38:43,241
+When this hit and you turned on KTXI 90.1,
+
+803
+00:38:43,339 --> 00:38:48,800
+Hill Country's NPR station during
+this tragedy, what did you hear?
+
+804
+00:38:49,260 --> 00:38:51,330
+This is fresh air with Terry Gross.
+
+805
+00:38:52,550 --> 00:38:56,190
+That made me so mad or, Hey
+everybody, it's time for Marketplace.
+
+806
+00:38:57,160 --> 00:38:59,720
+And that was, I was
+like, what in the world?
+
+807
+00:39:00,570 --> 00:39:05,290
+And you know, so I, I was running spots
+on Hello Fred, you know, all kinds.
+
+808
+00:39:05,530 --> 00:39:06,850
+It was useless.
+
+809
+00:39:07,670 --> 00:39:14,090
+Uh, the rock station, um, uh, uh,
+was it, uh, KRV, I think, uh,
+
+810
+00:39:14,192 --> 00:39:16,740
+my buddy Cody over there,
+
+811
+00:39:16,860 --> 00:39:19,147
+he was, he'd stopped this
+whole morning show and
+
+812
+00:39:19,194 --> 00:39:21,100
+wasn't playing music and was just trying
+
+813
+00:39:21,100 --> 00:39:22,620
+to coordinate stuff on the air.
+
+814
+00:39:22,740 --> 00:39:28,701
+You know, and that's a very small, very
+niche rock station in Curville, but NPR,
+
+815
+00:39:28,776 --> 00:39:30,110
+our national treasure.
+
+816
+00:39:30,330 --> 00:39:32,010
+No, there was no one there.
+
+817
+00:39:32,110 --> 00:39:33,070
+They didn't know what to do.
+
+818
+00:39:33,170 --> 00:39:36,329
+They hadn't, they had no procedure
+for all this noise about, Oh,
+
+819
+00:39:36,379 --> 00:39:37,810
+what are you doing emergency?
+
+820
+00:39:38,770 --> 00:39:40,500
+No, none of that.
+
+821
+00:39:41,040 --> 00:39:42,140
+None of that.
+
+822
+00:39:42,450 --> 00:39:46,440
+And that was the same four years
+ago with Snowmageddon in Austin.
+
+823
+00:39:46,660 --> 00:39:47,980
+In fact, it was fresh air.
+
+824
+00:39:47,980 --> 00:39:52,011
+That was the same show that
+was running when electricity
+
+825
+00:39:52,083 --> 00:39:54,530
+was out for days and we sat in our
+
+826
+00:39:54,530 --> 00:39:56,190
+cars trying to get some information.
+
+827
+00:39:56,650 --> 00:39:57,790
+I want some fresh water.
+
+828
+00:39:58,230 --> 00:40:01,975
+And it was, uh, you know,
+literally, um, the top 40 station,
+
+829
+00:40:02,037 --> 00:40:03,660
+the weather guy was doing,
+
+830
+00:40:03,660 --> 00:40:05,960
+uh, all kinds of updates and reports.
+
+831
+00:40:06,340 --> 00:40:11,740
+And, and I guess that kind of flows into
+what is, what is the point anymore?
+
+832
+00:40:11,740 --> 00:40:16,226
+What is the point of radio, which
+is going back to the beginning,
+
+833
+00:40:16,295 --> 00:40:18,020
+which is why we're, we've
+
+834
+00:40:18,020 --> 00:40:23,345
+built something that we believe
+transitions radio to the digital realm,
+
+835
+00:40:23,420 --> 00:40:26,550
+which is no longer bound
+by terrestrial lines.
+
+836
+00:40:26,550 --> 00:40:30,318
+You know, Starlink, um, a,
+one of the no agenda guys,
+
+837
+00:40:30,389 --> 00:40:34,260
+he organized the meetup
+last Saturday here in town.
+
+838
+00:40:34,320 --> 00:40:34,980
+I'm like, what are you doing?
+
+839
+00:40:35,040 --> 00:40:37,310
+Oh, I'm here for, uh, for flood relief.
+
+840
+00:40:37,410 --> 00:40:38,230
+I said, what are you doing?
+
+841
+00:40:38,270 --> 00:40:40,530
+So I talked to the guy,
+he has a nonprofit.
+
+842
+00:40:40,750 --> 00:40:45,300
+It's called disaster lab
+tech, disaster lab tech.org.
+
+843
+00:40:45,720 --> 00:40:52,060
+And he says, and so he's funded by donors
+and, uh, tech companies give him gear.
+
+844
+00:40:52,060 --> 00:40:55,253
+He goes in, so he literally
+flew in from, from Holland,
+
+845
+00:40:55,311 --> 00:40:57,110
+from the South of Holland, flew
+
+846
+00:40:57,110 --> 00:41:00,870
+in, brought in, he has flight
+cases, the whole deal.
+
+847
+00:41:01,290 --> 00:41:06,297
+He sets up a wifi mesh network with
+a Starlink, multiple Starlink, uh,
+
+848
+00:41:06,368 --> 00:41:07,870
+satellite dishes, and
+
+849
+00:41:07,870 --> 00:41:09,850
+just sets up communications for everybody.
+
+850
+00:41:10,030 --> 00:41:12,290
+QR code, boom, you're
+online, you're connected.
+
+851
+00:41:12,730 --> 00:41:13,630
+Everybody can talk.
+
+852
+00:41:13,710 --> 00:41:16,780
+They've got IP based radios
+and they leave it there.
+
+853
+00:41:16,820 --> 00:41:17,560
+They don't take it back.
+
+854
+00:41:17,620 --> 00:41:18,120
+They leave it.
+
+855
+00:41:18,520 --> 00:41:19,680
+They leave all the tech there.
+
+856
+00:41:19,760 --> 00:41:21,020
+That's what I'm talking about.
+
+857
+00:41:21,660 --> 00:41:23,060
+That's useful.
+
+858
+00:41:23,770 --> 00:41:24,250
+That's cool.
+
+859
+00:41:24,510 --> 00:41:24,670
+Yeah.
+
+860
+00:41:26,180 --> 00:41:31,520
+I mean, they, so I guess
+I'm actually heading
+
+861
+00:41:31,639 --> 00:41:36,860
+somewhere with this and
+that is that I think
+
+862
+00:41:36,860 --> 00:41:47,620
+NPR, I think I got to sort of to, um, wrap
+kind of ways that I'm want to, that, that
+
+863
+00:41:47,620 --> 00:41:53,960
+this is heading from my, in my mind, NPR,
+I think they made a terrible mistake.
+
+864
+00:41:55,160 --> 00:42:01,100
+Um, when they canceled, they
+gutted the wrong people.
+
+865
+00:42:01,240 --> 00:42:06,120
+They got rid of their podcasting
+group or didn't get rid of them.
+
+866
+00:42:06,120 --> 00:42:11,750
+But they, they just gutted that
+whole, pretty much, pretty much, man.
+
+867
+00:42:11,970 --> 00:42:13,070
+They killed the future.
+
+868
+00:42:13,230 --> 00:42:14,070
+They killed the future.
+
+869
+00:42:14,070 --> 00:42:14,570
+They did.
+
+870
+00:42:14,690 --> 00:42:14,870
+Yeah.
+
+871
+00:42:14,990 --> 00:42:21,640
+They, they killed the future to, to
+preserve a declining, a declining business.
+
+872
+00:42:21,820 --> 00:42:25,150
+And they should have
+done the exact opposite.
+
+873
+00:42:25,970 --> 00:42:26,300
+Yep.
+
+874
+00:42:26,360 --> 00:42:28,750
+They should have, they
+should have doubled down.
+
+875
+00:42:28,950 --> 00:42:30,290
+They should have doubled down.
+
+876
+00:42:30,410 --> 00:42:30,710
+Yep.
+
+877
+00:42:30,710 --> 00:42:36,339
+And, and converted into a
+podcast first organization
+
+878
+00:42:36,447 --> 00:42:41,210
+who also took some of
+that content and stuck
+
+879
+00:42:41,210 --> 00:42:46,940
+it on broadcast radio for the member
+stations that, that, that they had.
+
+880
+00:42:47,010 --> 00:42:53,970
+I, so I think that on a, I'm actually
+hopeful about this whole thing.
+
+881
+00:42:53,970 --> 00:42:56,030
+I think it's, this is what it is.
+
+882
+00:42:56,030 --> 00:42:59,955
+You know, do you have, you know,
+those people that say, um,
+
+883
+00:43:00,022 --> 00:43:02,350
+like they own a successful business
+
+884
+00:43:02,350 --> 00:43:07,070
+and they say, you know, I should
+have, I should have quit my job.
+
+885
+00:43:07,660 --> 00:43:08,380
+I got fired.
+
+886
+00:43:08,380 --> 00:43:11,740
+And then I started this business
+and now it's successful.
+
+887
+00:43:12,060 --> 00:43:14,040
+And I should have done this 10 years ago.
+
+888
+00:43:14,680 --> 00:43:16,990
+It felt horrible at the time to get fired.
+
+889
+00:43:17,050 --> 00:43:18,750
+I thought I was really scared.
+
+890
+00:43:18,870 --> 00:43:20,410
+I thought everything
+was going to be awful.
+
+891
+00:43:20,650 --> 00:43:24,090
+But in retrospect, it was the best
+thing that ever happened to me.
+
+892
+00:43:24,350 --> 00:43:24,450
+Yeah.
+
+893
+00:43:24,720 --> 00:43:27,060
+I think that could be the same thing here.
+
+894
+00:43:27,510 --> 00:43:30,184
+I think this could be a
+really good thing for
+
+895
+00:43:30,243 --> 00:43:32,620
+these member stations to disconnect them
+
+896
+00:43:32,620 --> 00:43:38,399
+from their, their extreme dependence
+on the, on the mothership,
+
+897
+00:43:38,490 --> 00:43:40,600
+let them do their thing
+
+898
+00:43:40,600 --> 00:43:43,549
+and, but, and build up
+their local donation base
+
+899
+00:43:43,610 --> 00:43:46,190
+and their local programming even more than
+
+900
+00:43:46,190 --> 00:43:48,600
+it already is and connect.
+
+901
+00:43:48,600 --> 00:43:54,652
+And then the mothership should
+double down on podcast content,
+
+902
+00:43:54,750 --> 00:43:57,190
+do some sort of rev share
+
+903
+00:43:57,190 --> 00:43:59,890
+with, with the member stations.
+
+904
+00:44:00,230 --> 00:44:01,287
+They need to re they,
+
+905
+00:44:01,337 --> 00:44:05,010
+what I'm saying is they need to blow
+up this whole model and, and rethink
+
+906
+00:44:05,010 --> 00:44:07,670
+this thing from the ground up
+with a digital first strategy.
+
+907
+00:44:08,030 --> 00:44:11,030
+And when it comes to digital first
+strategy, this was the problem.
+
+908
+00:44:11,400 --> 00:44:14,400
+They had shows with 50
+people working on the show.
+
+909
+00:44:15,070 --> 00:44:16,530
+You know, it didn't make any money.
+
+910
+00:44:16,530 --> 00:44:18,250
+Yeah, that didn't make any money.
+
+911
+00:44:18,740 --> 00:44:22,050
+And the, and you know, the,
+the blueprint is there.
+
+912
+00:44:22,270 --> 00:44:26,210
+Use your audience, involve your audience,
+make your audience, your producers.
+
+913
+00:44:26,390 --> 00:44:27,390
+The blueprint is there.
+
+914
+00:44:27,530 --> 00:44:31,480
+They come, they approach
+it from an elite position.
+
+915
+00:44:31,680 --> 00:44:35,051
+Like, well, you know, we know how to
+do this and, you know, it's like, no,
+
+916
+00:44:35,097 --> 00:44:36,220
+it doesn't work that way.
+
+917
+00:44:36,300 --> 00:44:40,083
+If Dvorak and I, if we had, even if
+we had an editor, like, oh, well,
+
+918
+00:44:40,138 --> 00:44:42,660
+you should edit the show
+because we can't do that.
+
+919
+00:44:43,090 --> 00:44:44,530
+We wouldn't be able to make it.
+
+920
+00:44:46,100 --> 00:44:48,820
+It's like, no, we, we
+can't hire another person.
+
+921
+00:44:48,820 --> 00:44:50,880
+So we've got to do it ourselves.
+
+922
+00:44:51,060 --> 00:44:55,900
+And what we did is we outsourced it to
+the audience and said, congratulations.
+
+923
+00:44:56,100 --> 00:44:57,440
+You're now all producers.
+
+924
+00:44:57,640 --> 00:45:00,370
+You contribute time, talent, or treasure.
+
+925
+00:45:00,740 --> 00:45:02,920
+Lots of people have no time or talent.
+
+926
+00:45:03,020 --> 00:45:03,860
+They want to contribute.
+
+927
+00:45:04,180 --> 00:45:05,400
+Like, I'll write a check.
+
+928
+00:45:05,560 --> 00:45:07,450
+Turns out a lot of people like doing that.
+
+929
+00:45:08,050 --> 00:45:12,623
+But man, the boots on the ground from
+every vocation, every type of person,
+
+930
+00:45:12,684 --> 00:45:13,660
+every situation,
+
+931
+00:45:15,150 --> 00:45:17,470
+it's, it has been the success of the show.
+
+932
+00:45:18,650 --> 00:45:21,840
+And that's what NPR should look at.
+
+933
+00:45:22,320 --> 00:45:26,464
+They're stuck, you know, and by the
+way, Terry Gross making, you know,
+
+934
+00:45:26,524 --> 00:45:30,440
+$300,000 just for that one
+show, public information.
+
+935
+00:45:31,240 --> 00:45:34,140
+This, this financial
+shakeup may unstick them.
+
+936
+00:45:34,140 --> 00:45:37,380
+You know, and that's the, that's what I'm
+looking, you know, that's what I'm hopeful
+
+937
+00:45:37,380 --> 00:45:42,790
+for, but because NPR, NPR gets a bad
+rap for being stuck in the past.
+
+938
+00:45:42,950 --> 00:45:44,528
+And in a lot of ways, I think,
+
+939
+00:45:44,580 --> 00:45:47,630
+I think they're not so much
+stuck in the past as they are,
+
+940
+00:45:47,730 --> 00:45:51,920
+they're shackled to, to
+their funding model.
+
+941
+00:45:52,260 --> 00:45:52,360
+Yeah.
+
+942
+00:45:52,560 --> 00:45:55,620
+They can't, they, they could not
+figure out a way to get out of it.
+
+943
+00:45:55,680 --> 00:46:01,120
+And now they can, they have freedom
+now that they didn't have before.
+
+944
+00:46:01,240 --> 00:46:01,780
+Good luck.
+
+945
+00:46:02,410 --> 00:46:06,510
+I mean, they've obviously got very,
+they have talented people there.
+
+946
+00:46:07,090 --> 00:46:09,500
+They have many talented people there.
+
+947
+00:46:09,500 --> 00:46:12,220
+They have forward looking people there.
+
+948
+00:46:12,220 --> 00:46:18,965
+I mean, uh, that, you know, that we've
+talked to about podcasting stuff, uh,
+
+949
+00:46:19,054 --> 00:46:24,743
+in the past privately, they've got, they
+have a lot of people there that are in,
+
+950
+00:46:24,812 --> 00:46:28,810
+and they were the earliest adopted, one
+of the earliest adopters of podcasting.
+
+951
+00:46:28,910 --> 00:46:31,490
+They are actually very
+forward looking and talented.
+
+952
+00:46:31,770 --> 00:46:39,712
+They just, when somebody gets tied
+to Washington, the way they were,
+
+953
+00:46:39,829 --> 00:46:43,450
+it really corrupts the process.
+
+954
+00:46:43,450 --> 00:46:47,760
+It slows you down to where you are stuck.
+
+955
+00:46:48,230 --> 00:46:50,090
+They're stuck in 1967.
+
+956
+00:46:52,070 --> 00:46:53,390
+Sorry.
+
+957
+00:46:54,360 --> 00:46:59,400
+No, PBS is the one that I
+really want to talk about.
+
+958
+00:46:59,850 --> 00:47:04,250
+I think I've changed my mind
+on HLS video and podcasting.
+
+959
+00:47:04,250 --> 00:47:08,730
+I mean, I was, you know, I
+wanted this thing to work.
+
+960
+00:47:10,050 --> 00:47:15,477
+Uh, but actually I think
+now that I think about it,
+
+961
+00:47:15,583 --> 00:47:19,840
+I think it's actually imperative that we
+
+962
+00:47:19,840 --> 00:47:23,120
+try to get this thing to work in
+podcast apps and on the hosting side.
+
+963
+00:47:24,210 --> 00:47:24,310
+Explain.
+
+964
+00:47:24,470 --> 00:47:29,036
+Um, so, um, I think it
+was some stuff Stan,
+
+965
+00:47:29,143 --> 00:47:34,240
+Sam was saying on power
+that made me, that just,
+
+966
+00:47:34,240 --> 00:47:40,918
+this just kind of hit me
+is we, things like, uh,
+
+967
+00:47:41,057 --> 00:47:46,900
+video based public broadcasting that needs
+
+968
+00:47:46,900 --> 00:47:55,010
+a place to land and it's going until
+traditional linear television is going to die.
+
+969
+00:47:55,010 --> 00:47:59,362
+I mean, whether it's 20 years from now,
+five years from now, I don't know,
+
+970
+00:47:59,420 --> 00:48:01,160
+but it is heading off a cliff.
+
+971
+00:48:01,160 --> 00:48:05,860
+And I think there's only
+two places that it lands.
+
+972
+00:48:07,260 --> 00:48:08,700
+YouTube or podcast.
+
+973
+00:48:08,920 --> 00:48:09,060
+Yeah.
+
+974
+00:48:09,410 --> 00:48:10,480
+Amen to that.
+
+975
+00:48:10,640 --> 00:48:13,300
+I complete, this is, this is very deep.
+
+976
+00:48:13,360 --> 00:48:14,720
+I hadn't actually thought
+about it that way.
+
+977
+00:48:15,320 --> 00:48:18,070
+It would require them to see the light.
+
+978
+00:48:18,290 --> 00:48:18,850
+Obviously.
+
+979
+00:48:19,860 --> 00:48:23,967
+Um, it would, man, it would
+really boost the whole,
+
+980
+00:48:24,048 --> 00:48:27,430
+the whole ecosystem to an enormous degree.
+
+981
+00:48:27,490 --> 00:48:30,681
+In fact, I would say I'd
+like to now get a Senator
+
+982
+00:48:30,745 --> 00:48:33,170
+or representative to start introducing
+
+983
+00:48:33,170 --> 00:48:37,831
+bills to refund public media,
+decentralized, sorry, Sam,
+
+984
+00:48:37,914 --> 00:48:41,470
+let's not do freemium because
+that's where it's going.
+
+985
+00:48:42,100 --> 00:48:47,326
+That's where the NPR and PBS
+and other public broadcasters,
+
+986
+00:48:47,414 --> 00:48:50,160
+as we clearly see with BBC and,
+
+987
+00:48:50,160 --> 00:48:52,758
+and other public broadcasters
+around the world,
+
+988
+00:48:52,813 --> 00:48:55,300
+they're moving towards
+subscription freemium.
+
+989
+00:48:56,900 --> 00:49:00,480
+It's the, it's the wrong
+direction in my humble opinion.
+
+990
+00:49:03,230 --> 00:49:08,518
+People, if you want to spend tax
+dollars, build out the infrastructure,
+
+991
+00:49:08,593 --> 00:49:10,380
+spend it in a commercial
+
+992
+00:49:10,380 --> 00:49:14,027
+manner so that PBS, as an example,
+
+993
+00:49:14,134 --> 00:49:20,140
+can actually subsidize the
+infrastructure, decentralized
+
+994
+00:49:20,140 --> 00:49:23,194
+infrastructure, not,
+not, don't centralize,
+
+995
+00:49:23,266 --> 00:49:26,320
+don't try to be the
+boss of everything, you
+
+996
+00:49:26,320 --> 00:49:27,575
+know, but all of this, well,
+
+997
+00:49:27,620 --> 00:49:30,220
+we're going to block that app
+because they're making money
+
+998
+00:49:30,220 --> 00:49:33,948
+off of us because they make
+$3.99 a month from us,
+
+999
+00:49:34,022 --> 00:49:37,470
+from someone who buys a
+premium version of the app.
+
+1000
+00:49:37,920 --> 00:49:42,498
+Who we, who we, who we, I say, this, this,
+
+1001
+00:49:42,607 --> 00:49:47,730
+this would be a very good
+use of taxpayer money
+
+1002
+00:49:47,730 --> 00:49:51,935
+and it would benefit not just America,
+it would benefit the world really,
+
+1003
+00:49:51,993 --> 00:49:53,030
+but they're all so
+
+1004
+00:49:53,030 --> 00:49:56,557
+stuck in, got to make money, got to
+monetize, got to get ads, got to do this,
+
+1005
+00:49:56,603 --> 00:49:58,170
+got to do that, blah, blah, blah, blah.
+
+1006
+00:49:58,470 --> 00:50:01,740
+You know, the content
+is almost secondary at
+
+1007
+00:50:01,814 --> 00:50:05,010
+this point to many of
+these people and it's
+
+1008
+00:50:05,010 --> 00:50:06,190
+because of their own salaries.
+
+1009
+00:50:06,390 --> 00:50:06,910
+I get it.
+
+1010
+00:50:07,520 --> 00:50:08,760
+300 grand is great.
+
+1011
+00:50:09,160 --> 00:50:09,860
+Oh yeah.
+
+1012
+00:50:09,960 --> 00:50:11,040
+I don't want to rock that boat.
+
+1013
+00:50:11,820 --> 00:50:11,960
+Yeah.
+
+1014
+00:50:12,040 --> 00:50:14,589
+I mean, the NPR, don't, don't
+the like morning edition people,
+
+1015
+00:50:14,630 --> 00:50:15,740
+don't they make like half a
+
+1016
+00:50:15,740 --> 00:50:16,540
+million a year or something?
+
+1017
+00:50:16,700 --> 00:50:16,840
+Yeah.
+
+1018
+00:50:16,960 --> 00:50:18,060
+400,000 each.
+
+1019
+00:50:18,820 --> 00:50:18,980
+Yeah.
+
+1020
+00:50:19,000 --> 00:50:20,109
+I mean, that's, that's a lot of,
+
+1021
+00:50:20,143 --> 00:50:21,980
+you don't want to upset that
+apple cart if you're the
+
+1022
+00:50:21,980 --> 00:50:25,515
+one getting that paycheck,
+but, but everybody downstream,
+
+1023
+00:50:25,577 --> 00:50:27,500
+the staff downstream from that,
+
+1024
+00:50:27,500 --> 00:50:29,720
+they're not getting paid
+that, those kinds of bucks.
+
+1025
+00:50:29,760 --> 00:50:31,701
+So they, they are, they will be have,
+
+1026
+00:50:31,754 --> 00:50:34,220
+they will be willing to
+make these transitions.
+
+1027
+00:50:34,530 --> 00:50:38,072
+And, you know, just, and
+you, you look at, and that,
+
+1028
+00:50:38,140 --> 00:50:40,320
+this kind of what I was bringing
+
+1029
+00:50:40,320 --> 00:50:44,543
+up Stephen Colbert, you
+know, the quote unquote,
+
+1030
+00:50:44,631 --> 00:50:48,150
+the talent that gets paid the big bucks.
+
+1031
+00:50:49,070 --> 00:50:50,750
+They, they're not sacred.
+
+1032
+00:50:51,380 --> 00:50:53,340
+They can go away as well.
+
+1033
+00:50:53,900 --> 00:50:57,914
+When the, when the, when
+the format is unprofitable
+
+1034
+00:50:57,992 --> 00:51:01,770
+and it no longer makes
+sense to have the content
+
+1035
+00:51:01,770 --> 00:51:05,003
+there and to pay for it
+when you're losing money,
+
+1036
+00:51:05,069 --> 00:51:07,510
+the people at the top that make a lot
+
+1037
+00:51:07,510 --> 00:51:11,970
+of money have to adjust down or go
+figure out something else to do.
+
+1038
+00:51:11,970 --> 00:51:16,810
+And that leaves an entire staff
+there with the ability to pivot.
+
+1039
+00:51:17,990 --> 00:51:21,326
+And I think we can just, you know, this,
+
+1040
+00:51:21,410 --> 00:51:25,080
+I think we just have to
+make sure this stuff
+
+1041
+00:51:25,080 --> 00:51:26,200
+doesn't land on YouTube.
+
+1042
+00:51:27,260 --> 00:51:33,763
+I mean, it may ultimately land some
+of it there, but I just feel like if,
+
+1043
+00:51:33,852 --> 00:51:38,296
+if WNYC, they should be able to
+contract with Buzzsprout for
+
+1044
+00:51:38,368 --> 00:51:41,440
+their video delivery
+or WGBH should be able
+
+1045
+00:51:41,440 --> 00:51:46,235
+to like, what if the, you know, the, okay,
+they, maybe they choose rss.com, uh,
+
+1046
+00:51:46,296 --> 00:51:48,835
+TPT in Minnesota, uh,
+public broadcasting, they,
+
+1047
+00:51:48,888 --> 00:51:51,170
+maybe they go with
+blueberry or transistor.
+
+1048
+00:51:51,390 --> 00:51:55,999
+I just think we should
+be ready for a situation
+
+1049
+00:51:56,097 --> 00:52:00,510
+where we have public
+media and actually, and,
+
+1050
+00:52:00,570 --> 00:52:03,840
+and other entities too, but a lot of them
+are going to want to do it themselves,
+
+1051
+00:52:03,881 --> 00:52:09,305
+but public media to contract
+out with, with podcasts,
+
+1052
+00:52:09,425 --> 00:52:14,440
+delivery companies to deliver their video.
+
+1053
+00:52:14,440 --> 00:52:19,034
+I mean, cause they, they've
+already public media,
+
+1054
+00:52:19,128 --> 00:52:24,440
+they know podcasting they've
+built, they've built continent.
+
+1055
+00:52:24,440 --> 00:52:29,160
+Well, see, and I love you
+for being an idealist.
+
+1056
+00:52:29,710 --> 00:52:32,230
+I'm the more pirate guy.
+
+1057
+00:52:32,330 --> 00:52:33,230
+I'm like, screw it.
+
+1058
+00:52:33,350 --> 00:52:34,550
+We're going to do it ourselves.
+
+1059
+00:52:35,350 --> 00:52:39,130
+And, and my vision for
+local radio is churches.
+
+1060
+00:52:39,310 --> 00:52:43,720
+They already got that antenna on it,
+that dipole and a vertical antenna.
+
+1061
+00:52:45,570 --> 00:52:49,270
+They got, they got a dipole on the roof.
+
+1062
+00:52:50,000 --> 00:52:53,660
+Um, and I'm like, you know, this is how
+you speak into your local community.
+
+1063
+00:52:53,660 --> 00:52:56,320
+And by the way, value for
+value based business.
+
+1064
+00:52:56,420 --> 00:53:00,712
+I spoke, uh, this past
+Wednesday, I spoke, uh,
+
+1065
+00:53:00,805 --> 00:53:04,630
+I think it was like 45 early 20 year olds
+
+1066
+00:53:04,630 --> 00:53:07,990
+at the Patriot Academy, uh,
+here in Fredericksburg.
+
+1067
+00:53:08,070 --> 00:53:09,850
+The pay, do you know, do you
+know about the Patriot Academy?
+
+1068
+00:53:10,530 --> 00:53:11,540
+No, I never heard of it.
+
+1069
+00:53:11,540 --> 00:53:14,216
+Well, from the outside, it looks like, uh,
+
+1070
+00:53:14,280 --> 00:53:17,020
+that's where you go to
+turn your kid into a
+
+1071
+00:53:17,020 --> 00:53:18,540
+Christian nationalist militia.
+
+1072
+00:53:19,600 --> 00:53:20,440
+Okay.
+
+1073
+00:53:20,860 --> 00:53:23,340
+Do they have flyers that
+they drop from helicopters?
+
+1074
+00:53:23,740 --> 00:53:29,480
+But in reality, they've, they've, on the
+inside, they've got a 90 acre campus.
+
+1075
+00:53:29,640 --> 00:53:30,460
+It's all nonprofit.
+
+1076
+00:53:30,660 --> 00:53:31,980
+So it's all funded by community.
+
+1077
+00:53:32,220 --> 00:53:33,920
+They've been around for 20 years.
+
+1078
+00:53:33,980 --> 00:53:35,081
+They've been doing this,
+
+1079
+00:53:35,127 --> 00:53:38,340
+but now they finally have a campus
+for the first time in their history
+
+1080
+00:53:38,340 --> 00:53:39,620
+and it's in Fredericksburg.
+
+1081
+00:53:40,450 --> 00:53:44,462
+And, um, so kids who are on a gap
+year or right out of college,
+
+1082
+00:53:44,525 --> 00:53:45,990
+you go in and it's, uh,
+
+1083
+00:53:46,350 --> 00:53:47,440
+they have tiny homes.
+
+1084
+00:53:47,440 --> 00:53:48,860
+Everybody stays on campus.
+
+1085
+00:53:49,490 --> 00:53:53,750
+Um, and they've rebuilt the houses
+of Congress and the Senate.
+
+1086
+00:53:53,950 --> 00:53:57,383
+And so they teach these young
+people how to write a bill,
+
+1087
+00:53:57,443 --> 00:53:59,190
+how to get it into committee,
+
+1088
+00:53:59,270 --> 00:54:02,070
+how to get it out of committee,
+how to, how to argue it.
+
+1089
+00:54:02,210 --> 00:54:04,870
+And they have, you know, all
+kinds of speakers coming in.
+
+1090
+00:54:05,980 --> 00:54:09,800
+And, uh, so Rick Green, who, who runs
+it, he said, would you come and speak?
+
+1091
+00:54:09,880 --> 00:54:10,280
+I said, okay.
+
+1092
+00:54:10,400 --> 00:54:11,380
+And I wasn't quite sure.
+
+1093
+00:54:11,440 --> 00:54:16,290
+Like, all right, I'll just tell my history
+of media, uh, to these 20 year olds.
+
+1094
+00:54:16,290 --> 00:54:19,914
+And I realized pretty
+quickly that every 95% of
+
+1095
+00:54:19,991 --> 00:54:23,970
+all of my cultural pop references
+went way over their head.
+
+1096
+00:54:24,570 --> 00:54:26,810
+Like they don't know who
+Chevy Chase is anymore.
+
+1097
+00:54:26,970 --> 00:54:32,476
+Elvis Presley don't know
+who Elvis Presley is, but,
+
+1098
+00:54:32,584 --> 00:54:36,470
+but when I got to the media part for
+
+1099
+00:54:36,470 --> 00:54:38,690
+them and you know, I was
+able to entertain them.
+
+1100
+00:54:38,750 --> 00:54:41,770
+I've, I've got enough stories, you
+know, they do remember some people.
+
+1101
+00:54:42,450 --> 00:54:43,850
+You just told them about the poop app.
+
+1102
+00:54:43,970 --> 00:54:45,870
+I just said, I'm, I was on Joe Rogan.
+
+1103
+00:54:45,950 --> 00:54:46,710
+Oh, okay.
+
+1104
+00:54:46,810 --> 00:54:47,210
+Yeah, we know.
+
+1105
+00:54:47,270 --> 00:54:48,190
+And now we know who you are.
+
+1106
+00:54:49,000 --> 00:54:53,644
+Um, when I got to the media part
+and I explained algos and they all,
+
+1107
+00:54:53,713 --> 00:54:55,780
+they all know algos, they get it.
+
+1108
+00:54:55,820 --> 00:54:58,220
+They understand it, how you have
+to feed it to make it work.
+
+1109
+00:54:58,540 --> 00:54:59,910
+And then I started talking about art.
+
+1110
+00:55:00,030 --> 00:55:02,570
+None of them had heard of RSS, no idea.
+
+1111
+00:55:02,720 --> 00:55:06,880
+And so I went through kind of a
+top line summary, explained it.
+
+1112
+00:55:07,060 --> 00:55:08,893
+And I said, you know,
+
+1113
+00:55:08,980 --> 00:55:15,090
+ultimately this is going to cost you
+about 15 to $20 a month, but that
+
+1114
+00:55:15,090 --> 00:55:21,860
+will save you in everything you do from
+that moment on because you control it.
+
+1115
+00:55:21,900 --> 00:55:24,980
+It is your, your signal, your transmitter.
+
+1116
+00:55:25,690 --> 00:55:29,029
+And, uh, you know, and, and
+went through the, you know,
+
+1117
+00:55:29,090 --> 00:55:31,640
+the most powerful sentence in broadcasting
+
+1118
+00:55:31,640 --> 00:55:33,220
+is wherever you get your podcast.
+
+1119
+00:55:33,220 --> 00:55:34,260
+How does that work?
+
+1120
+00:55:34,260 --> 00:55:35,280
+Why is this important?
+
+1121
+00:55:36,150 --> 00:55:40,426
+And of all the stories I told, and
+I had a lot of stories, man, they,
+
+1122
+00:55:40,488 --> 00:55:43,640
+they lined up at the end
+of this to talk about RSS.
+
+1123
+00:55:44,640 --> 00:55:44,840
+Really?
+
+1124
+00:55:45,100 --> 00:55:45,620
+Oh yeah.
+
+1125
+00:55:45,800 --> 00:55:48,400
+But they're like, this, this
+seems really important.
+
+1126
+00:55:48,540 --> 00:55:49,100
+Mr. Curry.
+
+1127
+00:55:49,220 --> 00:55:52,560
+It's so weird when people say,
+Mr. Curry, Mr. Curry, Mr. Curry.
+
+1128
+00:55:52,580 --> 00:55:53,260
+That's my dad.
+
+1129
+00:55:53,340 --> 00:55:53,660
+I know.
+
+1130
+00:55:53,760 --> 00:55:54,960
+I was like, ah, okay.
+
+1131
+00:55:55,080 --> 00:55:55,440
+Flinch.
+
+1132
+00:55:56,020 --> 00:55:57,480
+Um, and value for value.
+
+1133
+00:55:57,600 --> 00:55:58,660
+They love that.
+
+1134
+00:55:59,220 --> 00:55:59,910
+Like, really?
+
+1135
+00:55:59,970 --> 00:56:00,730
+You can do that?
+
+1136
+00:56:00,750 --> 00:56:05,070
+And I told my story, you know, my, my
+no agenda story, how we, how we started
+
+1137
+00:56:05,190 --> 00:56:09,774
+implementing that and came up
+with the phrase and, you know,
+
+1138
+00:56:09,851 --> 00:56:11,990
+I was so positive about that
+
+1139
+00:56:11,990 --> 00:56:16,292
+because they all have an Instagram,
+a TikTok, a YouTube channel and,
+
+1140
+00:56:16,355 --> 00:56:17,620
+and all the things I
+
+1141
+00:56:17,620 --> 00:56:19,240
+was saying like, yeah, no, I know.
+
+1142
+00:56:19,320 --> 00:56:22,833
+It was like, if I don't upload something,
+then, you know, I go down and,
+
+1143
+00:56:22,882 --> 00:56:26,210
+you know, it's all about the likes
+and the clicks and then the light
+
+1144
+00:56:26,260 --> 00:56:28,110
+bulb really goes on when you say, you
+
+1145
+00:56:28,110 --> 00:56:31,925
+know, you can just do a podcast
+about your, your school team, about,
+
+1146
+00:56:31,981 --> 00:56:33,440
+you know, things happening
+
+1147
+00:56:33,440 --> 00:56:38,630
+in your town and people in your town
+will support you if you ask them.
+
+1148
+00:56:39,480 --> 00:56:41,340
+And so I was very encouraged by that.
+
+1149
+00:56:41,380 --> 00:56:46,560
+And so for me, that's, I, I have
+no patience for these people.
+
+1150
+00:56:46,710 --> 00:56:51,430
+Uh, you know, the PBS's, NPR's and
+I just have no patience for them.
+
+1151
+00:56:51,830 --> 00:56:57,099
+I want the excited 20 year old who
+just wants to get going, do something,
+
+1152
+00:56:57,171 --> 00:56:58,730
+this excited about it.
+
+1153
+00:56:58,810 --> 00:57:03,119
+And they, and quite frankly,
+enough of the boomers, me, uh,
+
+1154
+00:57:03,192 --> 00:57:05,310
+I've given into it now, 1964.
+
+1155
+00:57:05,730 --> 00:57:06,110
+Okay.
+
+1156
+00:57:06,230 --> 00:57:08,750
+I was the face of generation
+X would call me a boomer.
+
+1157
+00:57:09,090 --> 00:57:13,350
+We don't really have the, where's
+the next generation of podcasters?
+
+1158
+00:57:13,490 --> 00:57:14,840
+Where are they?
+
+1159
+00:57:15,310 --> 00:57:16,430
+Where's the 20 year olds?
+
+1160
+00:57:16,510 --> 00:57:16,750
+Okay.
+
+1161
+00:57:16,770 --> 00:57:19,590
+We have the millennial media
+offensive, but they're millennials.
+
+1162
+00:57:20,320 --> 00:57:22,190
+Where is this next generation?
+
+1163
+00:57:22,470 --> 00:57:24,070
+That's who we need to be speaking to.
+
+1164
+00:57:24,190 --> 00:57:25,710
+That's who we need to get into this.
+
+1165
+00:57:25,950 --> 00:57:27,670
+Otherwise it, everything's doomed.
+
+1166
+00:57:29,980 --> 00:57:30,160
+Yeah.
+
+1167
+00:57:30,880 --> 00:57:37,020
+I'm this, the, the age issue came,
+you know, it just comes up a lot.
+
+1168
+00:57:37,100 --> 00:57:41,154
+Well, you know, traditional
+television is, um, you know,
+
+1169
+00:57:41,226 --> 00:57:43,470
+like let's just say television,
+
+1170
+00:57:44,050 --> 00:57:48,090
+traditional television
+is like a bunch of old
+
+1171
+00:57:48,179 --> 00:57:51,770
+people that watch actually not the case.
+
+1172
+00:57:51,770 --> 00:57:54,400
+I mean, so my, I mean.
+
+1173
+00:57:54,560 --> 00:57:57,220
+Well, the numbers say, the
+numbers say that's true, Dave.
+
+1174
+00:57:57,500 --> 00:57:58,860
+The numbers say that's true.
+
+1175
+00:57:59,480 --> 00:58:00,580
+No, I didn't mean it.
+
+1176
+00:58:00,900 --> 00:58:02,420
+I misspoke.
+
+1177
+00:58:02,580 --> 00:58:08,395
+What I'm saying is it is the case
+that tradition, that linear media is,
+
+1178
+00:58:08,476 --> 00:58:10,820
+is watched by, by older people.
+
+1179
+00:58:11,770 --> 00:58:15,500
+Content is not only older people.
+
+1180
+00:58:15,680 --> 00:58:15,980
+Correct.
+
+1181
+00:58:16,490 --> 00:58:20,187
+So like the, the most
+popular content on all
+
+1182
+00:58:20,271 --> 00:58:23,800
+the streaming media platforms are the old,
+
+1183
+00:58:23,920 --> 00:58:27,150
+are like Seinfeld and The Office.
+
+1184
+00:58:27,410 --> 00:58:27,810
+Mm-hmm.
+
+1185
+00:58:28,240 --> 00:58:32,040
+And these shows that are
+like 10, 15, 20 years old.
+
+1186
+00:58:32,040 --> 00:58:32,820
+30, 30 years old.
+
+1187
+00:58:32,820 --> 00:58:33,700
+30 years old.
+
+1188
+00:58:33,700 --> 00:58:37,188
+And so the, it's the, the content that,
+
+1189
+00:58:37,277 --> 00:58:41,570
+and that's the problem
+with a lot of what public
+
+1190
+00:58:41,570 --> 00:58:43,270
+media became is it's boring.
+
+1191
+00:58:44,520 --> 00:58:48,360
+It's always the content,
+always the content.
+
+1192
+00:58:48,570 --> 00:58:51,340
+It has to stop being boring.
+
+1193
+00:58:51,700 --> 00:58:52,670
+Think back.
+
+1194
+00:58:52,730 --> 00:58:56,025
+Like, you know, I think
+back to public media,
+
+1195
+00:58:56,098 --> 00:58:59,540
+the content that I really
+liked and in the past
+
+1196
+00:58:59,540 --> 00:59:06,130
+and stuck with me, things like Ken
+Burns documentaries, Car Talk, Cosmos.
+
+1197
+00:59:06,790 --> 00:59:12,110
+I mean, like these were good programs,
+but there's no, all that stuff's gone.
+
+1198
+00:59:12,730 --> 00:59:14,210
+They don't have that stuff anymore.
+
+1199
+00:59:14,210 --> 00:59:15,890
+And it's just boring.
+
+1200
+00:59:16,050 --> 00:59:17,691
+You turn on, you know,
+
+1201
+00:59:17,766 --> 00:59:22,690
+you turn on an NPR member station
+on Sunday morning and it's like,
+
+1202
+00:59:22,770 --> 00:59:27,690
+it's that, that game show of
+the wait, wait, don't tell me.
+
+1203
+00:59:27,690 --> 00:59:29,030
+Wait, wait, wait, don't tell me.
+
+1204
+00:59:29,190 --> 00:59:29,370
+Yeah.
+
+1205
+00:59:29,470 --> 00:59:30,590
+Nobody, it's boring.
+
+1206
+00:59:30,790 --> 00:59:31,890
+Nobody cares about that.
+
+1207
+00:59:32,130 --> 00:59:33,290
+Nobody's going to listen to that.
+
+1208
+00:59:33,310 --> 00:59:38,220
+They've, they've got to get
+the content back to be king.
+
+1209
+00:59:38,360 --> 00:59:42,205
+And if you do that and focus
+and start pushing it out over,
+
+1210
+00:59:42,270 --> 00:59:44,290
+over podcasts where you can get
+
+1211
+00:59:44,290 --> 00:59:48,272
+it everywhere and just forget
+the whole, let the member,
+
+1212
+00:59:48,343 --> 00:59:51,090
+the member stations can
+take care of themselves.
+
+1213
+00:59:51,090 --> 00:59:54,700
+They need to go and
+address that whole market.
+
+1214
+00:59:54,700 --> 00:59:58,606
+And they just, they're going
+through the same growing
+
+1215
+00:59:58,680 --> 01:00:02,220
+pain as a growing pains
+that Christian radio is.
+
+1216
+01:00:02,220 --> 01:00:07,103
+They're trying to find out
+how to survive and reinvent
+
+1217
+01:00:07,193 --> 01:00:10,720
+themselves into a digital first medium.
+
+1218
+01:00:10,860 --> 01:00:13,640
+And they're going to have
+to do that on their own.
+
+1219
+01:00:13,740 --> 01:00:16,460
+They can, NPR cannot do that for them.
+
+1220
+01:00:17,230 --> 01:00:18,950
+It's just, they can't.
+
+1221
+01:00:19,290 --> 01:00:25,378
+And so that, yeah, I, I think this whole,
+I think this whole thing, it, yes,
+
+1222
+01:00:25,459 --> 01:00:29,400
+the age thing is an issue, but
+it's only an issue on the medium.
+
+1223
+01:00:29,540 --> 01:00:36,613
+If they trend, if, if these public
+media people transition to, to,
+
+1224
+01:00:36,721 --> 01:00:39,400
+we're going to be podcast
+
+1225
+01:00:39,400 --> 01:00:42,860
+first, we're going to be digital first.
+
+1226
+01:00:42,940 --> 01:00:49,683
+And then, you know, what, and then
+the member stations can, you know,
+
+1227
+01:00:49,780 --> 01:00:53,130
+redesign their profile based on that.
+
+1228
+01:00:54,170 --> 01:00:57,400
+They, I think they can survive and
+I think there'll be better for it.
+
+1229
+01:00:59,110 --> 01:01:00,550
+But I just, do you hear this?
+
+1230
+01:01:01,150 --> 01:01:03,110
+Do you hear that?
+
+1231
+01:01:03,630 --> 01:01:04,430
+Yeah.
+
+1232
+01:01:04,570 --> 01:01:06,510
+That's you speaking into the wind.
+
+1233
+01:01:10,450 --> 01:01:12,170
+I know.
+
+1234
+01:01:12,470 --> 01:01:12,850
+I know.
+
+1235
+01:01:13,320 --> 01:01:15,090
+But I don't think they'll
+have a choice though.
+
+1236
+01:01:16,510 --> 01:01:22,358
+You know, I mean, NPR is, it's PBS, PBS
+is going to survive longer, but NPR,
+
+1237
+01:01:22,434 --> 01:01:23,670
+this was a death blow.
+
+1238
+01:01:24,230 --> 01:01:25,870
+They're, this is a hard one.
+
+1239
+01:01:26,130 --> 01:01:31,770
+They're, they are going to have to
+reorganize to survive, you know, and,
+
+1240
+01:01:31,848 --> 01:01:34,380
+and a lot, that's like
+getting fired from your job.
+
+1241
+01:01:34,760 --> 01:01:35,040
+Yes.
+
+1242
+01:01:35,120 --> 01:01:36,600
+You got to figure out what comes next.
+
+1243
+01:01:36,620 --> 01:01:37,380
+What do you do next?
+
+1244
+01:01:37,700 --> 01:01:38,380
+Exactly right.
+
+1245
+01:01:38,460 --> 01:01:38,600
+Yeah.
+
+1246
+01:01:39,550 --> 01:01:42,271
+Um, anyway, that's, that was,
+
+1247
+01:01:42,365 --> 01:01:47,900
+I just think it was an important
+topic because NPR actually
+
+1248
+01:01:47,900 --> 01:01:57,640
+is very important to podcasting and,
+you know, they're, they, they, they're
+
+1249
+01:01:57,660 --> 01:02:01,954
+they, for a long time, they were,
+
+1250
+01:02:01,954 --> 01:02:08,520
+they were 50% of what
+podcasting was, was NPR shows.
+
+1251
+01:02:08,780 --> 01:02:14,070
+Again, they were the first ones on the
+homepage of Apple and iTunes when it started.
+
+1252
+01:02:15,000 --> 01:02:15,400
+Yeah.
+
+1253
+01:02:15,660 --> 01:02:17,352
+And, and I don't want to,
+
+1254
+01:02:17,419 --> 01:02:21,750
+and I want to see them make this
+transition successfully because
+
+1255
+01:02:21,750 --> 01:02:23,989
+I think in the process,
+
+1256
+01:02:24,086 --> 01:02:30,900
+having to face reality financially
+means they will naturally rebalance
+
+1257
+01:02:30,900 --> 01:02:32,462
+the other things that,
+
+1258
+01:02:32,533 --> 01:02:37,290
+that are causing them trouble like
+bias and all these other issues.
+
+1259
+01:02:37,290 --> 01:02:44,580
+I think when you have to live in the real
+world, you have, you, you don't, you know,
+
+1260
+01:02:44,620 --> 01:02:49,540
+you don't get to, you don't get
+to ignore your audience anymore.
+
+1261
+01:02:49,540 --> 01:02:54,386
+Well, so I'm in agreement with you
+that HLS video would be great and,
+
+1262
+01:02:54,456 --> 01:02:58,030
+and I will support, I
+will support the idea.
+
+1263
+01:02:58,210 --> 01:03:05,850
+I just, I wish we could put a lot more
+focus into lit and funding and location,
+
+1264
+01:03:05,946 --> 01:03:08,670
+uh, because that, I think
+we can do it all at once.
+
+1265
+01:03:09,540 --> 01:03:11,350
+Well, dev cycles.
+
+1266
+01:03:11,350 --> 01:03:12,610
+Something has to be one or the other.
+
+1267
+01:03:12,810 --> 01:03:16,870
+Dev cycles at, uh, at hosting companies
+are, are a scarcity, you know?
+
+1268
+01:03:17,700 --> 01:03:19,755
+Well, the good thing is most
+of the hosting companies
+
+1269
+01:03:19,794 --> 01:03:21,190
+already have a fund and they already
+
+1270
+01:03:21,190 --> 01:03:22,290
+support the funding tag.
+
+1271
+01:03:22,960 --> 01:03:23,610
+That's true.
+
+1272
+01:03:23,790 --> 01:03:24,290
+That's true.
+
+1273
+01:03:25,160 --> 01:03:32,350
+You know, so, you know, between lit and
+lit and, um, HLS can go hand in hand.
+
+1274
+01:03:32,550 --> 01:03:37,972
+I was, um, yeah, you know this, but
+I was asked to do a keynote at, uh,
+
+1275
+01:03:38,048 --> 01:03:39,270
+NRB in February,
+
+1276
+01:03:40,400 --> 01:03:42,400
+the National Religious
+Broadcasters Conference.
+
+1277
+01:03:42,700 --> 01:03:43,510
+Yep.
+
+1278
+01:03:43,510 --> 01:03:46,190
+And I'm going to go completely lit.
+
+1279
+01:03:46,320 --> 01:03:48,880
+I'm going to go lit
+funding the whole thing.
+
+1280
+01:03:48,980 --> 01:03:51,500
+I'm just going to lay it all out
+there and tell them they're dying.
+
+1281
+01:03:52,790 --> 01:03:53,950
+Adam's talk was lit.
+
+1282
+01:03:55,830 --> 01:03:57,620
+And again, say, you're dead.
+
+1283
+01:03:57,720 --> 01:03:58,580
+You're dead to me.
+
+1284
+01:03:58,900 --> 01:04:00,020
+Just think about it.
+
+1285
+01:04:00,080 --> 01:04:01,960
+Think about, ah, forget about it.
+
+1286
+01:04:02,000 --> 01:04:04,240
+I mean, it's get rid of the transmitters.
+
+1287
+01:04:04,360 --> 01:04:06,880
+You can pay your host
+the 300 grand a year.
+
+1288
+01:04:07,060 --> 01:04:08,300
+Get rid of the transmitters.
+
+1289
+01:04:09,590 --> 01:04:10,150
+Get, wake up.
+
+1290
+01:04:10,150 --> 01:04:11,910
+Is that how much a cost per
+year for a transmitter?
+
+1291
+01:04:12,150 --> 01:04:12,770
+300 grand?
+
+1292
+01:04:14,270 --> 01:04:16,220
+You know, that's a good question.
+
+1293
+01:04:16,360 --> 01:04:19,320
+Well, first of all, AM or
+FM makes a big difference.
+
+1294
+01:04:19,320 --> 01:04:32,600
+Um, so let's say, what is the cost to run
+a 100,000 watt FM station transmitter?
+
+1295
+01:04:32,980 --> 01:04:36,080
+I mean, who knows if I'll get an
+answer here, but you never know.
+
+1296
+01:04:36,200 --> 01:04:40,650
+Could come out of, okay.
+
+1297
+01:04:40,850 --> 01:04:47,789
+About, um, well, of course you have to
+have your tower, your infrastructure,
+
+1298
+01:04:47,880 --> 01:04:49,250
+your licensing,
+
+1299
+01:04:49,570 --> 01:04:55,450
+all of that, but, uh, it seems like
+20 grand a month in power alone.
+
+1300
+01:04:55,570 --> 01:04:56,800
+Seems about right.
+
+1301
+01:04:57,210 --> 01:04:57,590
+Yeah.
+
+1302
+01:04:57,590 --> 01:04:58,410
+Seems about right.
+
+1303
+01:04:58,880 --> 01:04:59,120
+Yeah.
+
+1304
+01:05:00,000 --> 01:05:03,660
+And that, you know, that doesn't
+include maintenance and all this stuff.
+
+1305
+01:05:03,700 --> 01:05:06,280
+And there's a lot, a lot that
+goes into, and that's FM.
+
+1306
+01:05:07,060 --> 01:05:07,800
+AM, man.
+
+1307
+01:05:07,820 --> 01:05:09,460
+You're, you're, you're burning diesel.
+
+1308
+01:05:09,680 --> 01:05:10,100
+Let me see.
+
+1309
+01:05:10,200 --> 01:05:12,820
+What is, uh, AM station?
+
+1310
+01:05:13,690 --> 01:05:17,740
+Is digital, uh, radio, is that any
+cheaper or is it roughly the same?
+
+1311
+01:05:19,270 --> 01:05:19,550
+Digital?
+
+1312
+01:05:19,690 --> 01:05:21,450
+What do you mean digital radio?
+
+1313
+01:05:21,610 --> 01:05:22,950
+But you like, uh.
+
+1314
+01:05:23,070 --> 01:05:24,090
+Like DAB and stuff.
+
+1315
+01:05:24,110 --> 01:05:24,450
+DAB.
+
+1316
+01:05:24,510 --> 01:05:26,890
+Well, but DAB has no reach in America.
+
+1317
+01:05:27,440 --> 01:05:27,990
+Yeah, I know.
+
+1318
+01:05:28,050 --> 01:05:32,210
+But I mean, if, if like, uh, what was
+the, um, was it HD radio and all that?
+
+1319
+01:05:32,390 --> 01:05:32,690
+Yeah.
+
+1320
+01:05:33,370 --> 01:05:34,300
+Is that the same?
+
+1321
+01:05:34,440 --> 01:05:38,660
+Well, you just run it, you just run it
+on a sideband of your existing signal.
+
+1322
+01:05:39,120 --> 01:05:39,560
+Okay.
+
+1323
+01:05:39,760 --> 01:05:40,040
+I guess.
+
+1324
+01:05:40,350 --> 01:05:43,710
+So I, I mean, obviously there's equipment
+costs, but that, that was, that failed.
+
+1325
+01:05:43,730 --> 01:05:47,660
+And it's just so obvious.
+
+1326
+01:05:47,860 --> 01:05:49,820
+Look, look at the room,
+look at the room there is.
+
+1327
+01:05:50,000 --> 01:05:51,700
+I mean, people are only listening.
+
+1328
+01:05:52,020 --> 01:05:52,820
+What was the stat?
+
+1329
+01:05:52,840 --> 01:05:53,440
+It's pretty low.
+
+1330
+01:05:53,560 --> 01:05:57,860
+Like below 30% are listening to
+audio in the car that is not radio.
+
+1331
+01:05:59,510 --> 01:06:02,930
+You know, there's, there's your,
+there's your room to grow.
+
+1332
+01:06:03,210 --> 01:06:04,870
+70 more percent to go.
+
+1333
+01:06:05,340 --> 01:06:08,590
+You know, just give people
+some, give people a reason.
+
+1334
+01:06:09,070 --> 01:06:12,440
+You know, it's all about the content.
+
+1335
+01:06:13,430 --> 01:06:15,050
+No agenda is not on Spotify.
+
+1336
+01:06:15,230 --> 01:06:16,210
+Hasn't heard us.
+
+1337
+01:06:17,590 --> 01:06:19,090
+You know, people just use a different app.
+
+1338
+01:06:20,300 --> 01:06:21,000
+No, those guys.
+
+1339
+01:06:21,000 --> 01:06:21,700
+I want to hear them,
+
+1340
+01:06:21,735 --> 01:06:24,080
+but I'll have to use a different
+app because Spotify doesn't do it.
+
+1341
+01:06:24,080 --> 01:06:26,070
+You know?
+
+1342
+01:06:26,670 --> 01:06:27,190
+Yeah.
+
+1343
+01:06:27,210 --> 01:06:30,470
+It's, it's gotta be, it's
+gotta be a podcast first.
+
+1344
+01:06:31,220 --> 01:06:33,380
+It's just a podcast first, first future.
+
+1345
+01:06:33,680 --> 01:06:36,120
+I said, I said, I'm back.
+
+1346
+01:06:36,200 --> 01:06:41,810
+I said, cause he was talking about AI right
+up my alley, but I spanked him on that.
+
+1347
+01:06:44,000 --> 01:06:45,540
+Get over my knee, Glenn Beck.
+
+1348
+01:06:45,600 --> 01:06:47,120
+I'm going to spank your bottom boy.
+
+1349
+01:06:48,480 --> 01:06:50,310
+His eyes got all wide.
+
+1350
+01:06:50,410 --> 01:06:51,820
+I'm like, no, no, no.
+
+1351
+01:06:51,820 --> 01:06:55,830
+Um, I said, really leave
+the smartphone out of it.
+
+1352
+01:06:55,890 --> 01:06:58,290
+But the two most important, um,
+
+1353
+01:06:58,367 --> 01:07:02,470
+technologies of the past 20
+years is RSS and Bitcoin.
+
+1354
+01:07:02,470 --> 01:07:05,450
+And they're, they're both owned by no one.
+
+1355
+01:07:05,450 --> 01:07:07,850
+They're universally deployed.
+
+1356
+01:07:07,990 --> 01:07:08,690
+They work.
+
+1357
+01:07:09,600 --> 01:07:11,250
+They're unstoppable.
+
+1358
+01:07:11,590 --> 01:07:13,980
+And they're inherently not sexy.
+
+1359
+01:07:14,640 --> 01:07:14,920
+You know?
+
+1360
+01:07:15,250 --> 01:07:15,620
+So.
+
+1361
+01:07:15,800 --> 01:07:15,900
+Yeah.
+
+1362
+01:07:16,020 --> 01:07:16,220
+Yeah.
+
+1363
+01:07:16,530 --> 01:07:16,930
+Yeah.
+
+1364
+01:07:16,930 --> 01:07:18,630
+It's old, old, boring technology.
+
+1365
+01:07:18,770 --> 01:07:21,790
+Old, boring technology for
+very non-boring content.
+
+1366
+01:07:22,380 --> 01:07:23,200
+Yep.
+
+1367
+01:07:23,280 --> 01:07:24,280
+That's exactly right.
+
+1368
+01:07:25,810 --> 01:07:31,180
+We got, we got some, uh,
+we got a couple of notes.
+
+1369
+01:07:31,380 --> 01:07:32,260
+We got some feedback.
+
+1370
+01:07:32,600 --> 01:07:33,480
+Oh, feedback.
+
+1371
+01:07:34,260 --> 01:07:34,640
+Yeah.
+
+1372
+01:07:35,140 --> 01:07:35,840
+Uh, Dreb.
+
+1373
+01:07:36,320 --> 01:07:37,670
+Was there money attached to it?
+
+1374
+01:07:37,710 --> 01:07:39,570
+Like a boostogram or was just feedback?
+
+1375
+01:07:40,210 --> 01:07:40,950
+Just feedback.
+
+1376
+01:07:41,070 --> 01:07:41,710
+Oh, okay.
+
+1377
+01:07:43,110 --> 01:07:45,485
+Uh, Dreb said, uh, that OP3,
+
+1378
+01:07:45,570 --> 01:07:51,620
+that the OP3.dev IP address is getting
+blocked by some corporate firewalls.
+
+1379
+01:07:51,620 --> 01:07:51,840
+Yeah.
+
+1380
+01:07:51,940 --> 01:07:53,120
+Palo Alto, I think.
+
+1381
+01:07:53,640 --> 01:07:53,890
+Yeah.
+
+1382
+01:07:53,890 --> 01:07:54,550
+That's no good.
+
+1383
+01:07:54,870 --> 01:07:55,090
+No.
+
+1384
+01:07:55,250 --> 01:07:58,884
+Well, typically these are
+things that come, you know,
+
+1385
+01:07:58,953 --> 01:08:01,490
+someone will load in a new blacklist.
+
+1386
+01:08:01,710 --> 01:08:06,237
+We've had this, I've had this happen so
+many times and most of these blacklists,
+
+1387
+01:08:06,294 --> 01:08:09,870
+you can go in and you can say, Hey,
+you know, we're not a spam outfit.
+
+1388
+01:08:10,010 --> 01:08:10,670
+Here's what we're doing.
+
+1389
+01:08:10,770 --> 01:08:13,730
+And they'll, and it will
+remove you some auto remove.
+
+1390
+01:08:13,930 --> 01:08:17,190
+If you just go up, show up and
+say, Hey, this is not true.
+
+1391
+01:08:18,240 --> 01:08:20,160
+Um, this is an ongoing problem.
+
+1392
+01:08:20,160 --> 01:08:27,450
+No agenda gets blocked on all kinds of
+corporate firewalls for, um, um, what is it?
+
+1393
+01:08:27,570 --> 01:08:29,880
+Um, what is it?
+
+1394
+01:08:29,940 --> 01:08:32,770
+The term they use extremist views.
+
+1395
+01:08:34,180 --> 01:08:43,690
+Oh, Oh, Nathan just posted on the, on the
+Mastodon that, uh, Radiotopia, that's PRX.
+
+1396
+01:08:43,830 --> 01:08:47,830
+They've implemented, uh, his
+fall is podcast follow tag.
+
+1397
+01:08:47,970 --> 01:08:49,090
+Ooh, very cool.
+
+1398
+01:08:49,730 --> 01:08:52,350
+That's not even a formalized tag yet.
+
+1399
+01:08:53,470 --> 01:08:56,950
+Now, what was, what was the company that
+was, that had just switched to funding?
+
+1400
+01:08:57,330 --> 01:08:58,830
+That's, that's a public media.
+
+1401
+01:08:58,950 --> 01:09:00,090
+I mean, that's what I'm saying.
+
+1402
+01:09:00,170 --> 01:09:04,050
+They're, they're, they're, they're,
+that's the public media exchange.
+
+1403
+01:09:04,050 --> 01:09:07,060
+Yeah, but they're, but, but
+it's, they're the same.
+
+1404
+01:09:07,960 --> 01:09:09,380
+They're, they're in the same circles.
+
+1405
+01:09:09,380 --> 01:09:10,600
+I mean, they're hungry.
+
+1406
+01:09:11,470 --> 01:09:11,670
+Yeah.
+
+1407
+01:09:11,670 --> 01:09:13,628
+I think there's people there
+at these organizations
+
+1408
+01:09:13,666 --> 01:09:15,010
+that are hungry to do these things.
+
+1409
+01:09:15,090 --> 01:09:15,310
+Yes.
+
+1410
+01:09:15,370 --> 01:09:17,990
+Well, when the hosts get hungry,
+then things will change.
+
+1411
+01:09:18,260 --> 01:09:20,650
+Well, they're not going to be hungry
+because they make a lot of money.
+
+1412
+01:09:21,730 --> 01:09:24,030
+They're not, they're by
+definition, not hungry.
+
+1413
+01:09:24,130 --> 01:09:26,930
+Hunger is the mother of all
+invention or is it something else?
+
+1414
+01:09:27,490 --> 01:09:30,290
+Hunger requires not, not lots of money.
+
+1415
+01:09:30,550 --> 01:09:31,950
+Definitely, definitely helps.
+
+1416
+01:09:32,230 --> 01:09:33,170
+Definitely helps.
+
+1417
+01:09:33,450 --> 01:09:34,780
+This, this is really cool.
+
+1418
+01:09:34,880 --> 01:09:38,100
+I guess we've got to formalize the tag
+now that somebody's actually using this.
+
+1419
+01:09:38,100 --> 01:09:38,880
+Go for it.
+
+1420
+01:09:39,820 --> 01:09:44,960
+Now, do you want to talk about
+any of these, um, um, what is it?
+
+1421
+01:09:45,000 --> 01:09:55,226
+The, uh, or the L402 or there was another,
+there was a whole conversation about,
+
+1422
+01:09:55,354 --> 01:09:58,320
+uh, podcast OAuth endpoints.
+
+1423
+01:09:58,320 --> 01:10:01,590
+Have you seen that GitHub entry?
+
+1424
+01:10:04,480 --> 01:10:12,160
+Created a repo for the, for the secure
+RSSL4 tooth stuff this morning.
+
+1425
+01:10:12,610 --> 01:10:14,190
+Daniel Matthews put this in.
+
+1426
+01:10:14,910 --> 01:10:16,430
+He's from, where is this?
+
+1427
+01:10:16,550 --> 01:10:17,530
+Is there a link for this?
+
+1428
+01:10:17,730 --> 01:10:20,070
+Uh, I can give it to you
+real quick right now.
+
+1429
+01:10:20,130 --> 01:10:20,890
+It's a discussion.
+
+1430
+01:10:21,730 --> 01:10:22,670
+Yeah, you're right, Nathan.
+
+1431
+01:10:22,790 --> 01:10:24,870
+Andrew over at PRX, you're right.
+
+1432
+01:10:24,970 --> 01:10:26,390
+They're, they are on the ball.
+
+1433
+01:10:27,010 --> 01:10:28,430
+They got, they got stuff coming too.
+
+1434
+01:10:29,450 --> 01:10:34,230
+They're, I'm, I'm, I'm, I'm excited, I'm
+excited about what they can get done.
+
+1435
+01:10:38,760 --> 01:10:39,220
+You got it.
+
+1436
+01:10:39,680 --> 01:10:40,640
+Optimistically skeptical.
+
+1437
+01:10:41,680 --> 01:10:42,720
+It's okay.
+
+1438
+01:10:43,030 --> 01:10:43,290
+Yeah.
+
+1439
+01:10:43,470 --> 01:10:44,430
+Uh, let's see.
+
+1440
+01:10:45,980 --> 01:10:48,160
+Exclusive episodes on the RSS feed.
+
+1441
+01:10:49,360 --> 01:10:53,940
+And the reason I ask is because this was
+a, you're not on that, uh, WhatsApp group.
+
+1442
+01:10:54,340 --> 01:10:59,273
+There's a whole conversation about it,
+but even about L402, you know, not,
+
+1443
+01:10:59,340 --> 01:11:01,400
+not everybody's on board with that.
+
+1444
+01:11:03,000 --> 01:11:09,730
+Um, oh, wait, there's, is
+this, uh, L402 failed for me.
+
+1445
+01:11:09,790 --> 01:11:10,850
+I was trying to subscribe.
+
+1446
+01:11:11,050 --> 01:11:16,137
+Uh, I became a subscriber of this week
+in Bitcoin mainly because, you know,
+
+1447
+01:11:16,204 --> 01:11:17,900
+it's a, it's the fountain
+
+1448
+01:11:17,900 --> 01:11:20,300
+fountain hosting round Robin.
+
+1449
+01:11:20,660 --> 01:11:25,630
+And I, I like, uh, Chris and
+I like his, his podcast.
+
+1450
+01:11:26,130 --> 01:11:27,610
+And so I said, I'm just testing something.
+
+1451
+01:11:27,650 --> 01:11:31,960
+I'm doing a, he did a freemium
+episode of one minute and 20 seconds.
+
+1452
+01:11:33,040 --> 01:11:36,840
+And I said, if not, if you subscribe,
+then you can get this bonus content.
+
+1453
+01:11:36,920 --> 01:11:39,320
+I'm like, okay, I'll go
+for your bonus content.
+
+1454
+01:11:39,320 --> 01:11:41,700
+But then it failed and I
+got some kind of error.
+
+1455
+01:11:41,820 --> 01:11:42,720
+I'm not sure what's going on.
+
+1456
+01:11:42,720 --> 01:11:43,160
+How did it fail?
+
+1457
+01:11:43,160 --> 01:11:50,739
+Uh, I posted a, I posted a picture on,
+uh, on the Mastodon, uh, the error,
+
+1458
+01:11:50,841 --> 01:11:57,860
+which showed up, the error
+was, um, state failed source.
+
+1459
+01:11:57,860 --> 01:12:03,760
+Well, yeah, you should get a
+402 if you don't have a token,
+
+1460
+01:12:03,860 --> 01:12:07,460
+but you should have a token already.
+
+1461
+01:12:24,720 --> 01:12:25,580
+I'm tokenless.
+
+1462
+01:12:32,460 --> 01:12:33,620
+Yeah.
+
+1463
+01:12:33,760 --> 01:12:37,260
+Dan, Daniel Matthews, Nathan says,
+uh, Daniel Matthews founded Podacy.
+
+1464
+01:12:37,440 --> 01:12:37,700
+Okay.
+
+1465
+01:12:38,750 --> 01:12:40,800
+I'll, I'll respond.
+
+1466
+01:12:40,900 --> 01:12:41,900
+Thanks for linking this.
+
+1467
+01:12:41,940 --> 01:12:42,640
+I'll respond to this.
+
+1468
+01:12:42,640 --> 01:12:48,300
+Cause I think, I mean, he clearly has put
+a lot of work into this proposal here.
+
+1469
+01:12:48,300 --> 01:12:52,130
+I think L4O2 is farther along.
+
+1470
+01:12:52,990 --> 01:12:56,133
+It looks like, uh, it looks like, um,
+
+1471
+01:12:56,218 --> 01:13:00,720
+Russell mentioned to him
+that he's going to send him,
+
+1472
+01:13:00,720 --> 01:13:05,810
+uh, the L4O2 secure RSS documents.
+
+1473
+01:13:05,890 --> 01:13:11,304
+I think, I mean, I think we've already got
+implementations in multiple places of,
+
+1474
+01:13:11,371 --> 01:13:12,440
+of L4O2 support.
+
+1475
+01:13:12,440 --> 01:13:17,190
+So I'm, I'm really reluctant to try
+to build some new spec on this.
+
+1476
+01:13:17,690 --> 01:13:22,186
+So I think, uh, I think
+we should try to pull him
+
+1477
+01:13:22,278 --> 01:13:27,020
+into what's already happening
+rather than build a new spec.
+
+1478
+01:13:27,560 --> 01:13:34,178
+Maybe hopefully our,
+hopefully Russell, Oscar and,
+
+1479
+01:13:34,310 --> 01:13:39,340
+or Oscar can get the documentation for
+
+1480
+01:13:39,340 --> 01:13:43,070
+the current L4O2 up on the, the namespace.
+
+1481
+01:13:43,110 --> 01:13:44,650
+And we can just link him over there.
+
+1482
+01:13:46,140 --> 01:13:51,010
+I think, I mean, uh, yeah,
+it's a good, it's a good idea.
+
+1483
+01:13:51,150 --> 01:13:52,480
+I like it.
+
+1484
+01:13:53,120 --> 01:13:55,480
+The, the, the auth stuff or the L4O2?
+
+1485
+01:13:56,020 --> 01:13:56,860
+No, the L4O2.
+
+1486
+01:13:57,080 --> 01:13:57,320
+Yeah.
+
+1487
+01:13:57,540 --> 01:14:00,122
+Just, just the whole idea
+of being able to, you know,
+
+1488
+01:14:00,171 --> 01:14:04,380
+pay for content right in the app somehow.
+
+1489
+01:14:05,930 --> 01:14:06,210
+Yeah.
+
+1490
+01:14:06,310 --> 01:14:07,470
+I mean, I like it.
+
+1491
+01:14:10,710 --> 01:14:12,952
+It just, we, we got to make, I think,
+
+1492
+01:14:13,013 --> 01:14:16,770
+I think the problem right now is
+lack of public documentation.
+
+1493
+01:14:17,050 --> 01:14:18,190
+Yeah.
+
+1494
+01:14:18,250 --> 01:14:19,990
+And that's why I met,
+that's why I built that.
+
+1495
+01:14:19,990 --> 01:14:21,890
+Yeah, you were at, yeah, I saw
+that you were asking for that.
+
+1496
+01:14:21,990 --> 01:14:22,130
+Yeah.
+
+1497
+01:14:22,550 --> 01:14:22,760
+Yeah.
+
+1498
+01:14:22,760 --> 01:14:25,399
+Cause we have, we just
+have to be able to say,
+
+1499
+01:14:25,456 --> 01:14:27,980
+go here and look at the
+spec because the L2,
+
+1500
+01:14:28,060 --> 01:14:29,840
+the L4O2 spec is not enough.
+
+1501
+01:14:29,840 --> 01:14:33,698
+You have to have the, what
+they're calling secure RSS and,
+
+1502
+01:14:33,764 --> 01:14:35,560
+and I don't have a problem.
+
+1503
+01:14:35,600 --> 01:14:38,430
+People are like, some people are
+bothered by the name secure.
+
+1504
+01:14:38,530 --> 01:14:39,350
+It doesn't bother me.
+
+1505
+01:14:40,320 --> 01:14:43,990
+I mean, it's marketing sometimes.
+
+1506
+01:14:44,110 --> 01:14:45,790
+I mean, we, we call it pod ping.
+
+1507
+01:14:46,070 --> 01:14:46,330
+Yeah.
+
+1508
+01:14:46,470 --> 01:14:46,710
+Really?
+
+1509
+01:14:47,050 --> 01:14:50,653
+We, we, we, it's, it's
+really a, um, you know,
+
+1510
+01:14:50,732 --> 01:14:54,570
+blockchain message bus for
+podcast notifications,
+
+1511
+01:14:54,570 --> 01:14:55,970
+but that's too hard to say.
+
+1512
+01:14:55,970 --> 01:15:00,690
+The domain name is unwieldy, you
+know, pod ping is much easier.
+
+1513
+01:15:01,400 --> 01:15:01,600
+Yes.
+
+1514
+01:15:01,620 --> 01:15:02,880
+Secure RSS TM.
+
+1515
+01:15:04,390 --> 01:15:08,000
+So I, I think, you know, I don't have
+a problem with, with the name there.
+
+1516
+01:15:08,530 --> 01:15:09,474
+Uh, but it's, you know,
+
+1517
+01:15:09,515 --> 01:15:12,020
+all you're saying is it's just
+a shorthand to say the ability
+
+1518
+01:15:12,020 --> 01:15:15,400
+to buy paywalled content inside the feed.
+
+1519
+01:15:15,420 --> 01:15:16,660
+And I don't have a problem with that.
+
+1520
+01:15:17,200 --> 01:15:17,400
+Yeah.
+
+1521
+01:15:17,440 --> 01:15:17,860
+Me neither.
+
+1522
+01:15:18,040 --> 01:15:19,980
+I, I'm, I'm okay with all versions.
+
+1523
+01:15:20,120 --> 01:15:23,459
+I know it works for me, but
+I'm, I'm okay with, uh,
+
+1524
+01:15:23,524 --> 01:15:25,750
+with all versions of monetization.
+
+1525
+01:15:25,750 --> 01:15:29,610
+And there's probably a few versions
+that haven't even been invented yet.
+
+1526
+01:15:30,310 --> 01:15:31,170
+People come up with.
+
+1527
+01:15:31,940 --> 01:15:32,200
+Oh yeah.
+
+1528
+01:15:32,800 --> 01:15:35,412
+So, but value for value does seem to work,
+
+1529
+01:15:35,474 --> 01:15:38,570
+whether you're subscribed
+through Patreon or whatever.
+
+1530
+01:15:38,570 --> 01:15:40,330
+I mean, that, that does seem to work.
+
+1531
+01:15:40,880 --> 01:15:42,638
+I'm not sure if, uh, if the guy,
+
+1532
+01:15:42,693 --> 01:15:45,550
+who are those guys making
+a million dollars a month?
+
+1533
+01:15:45,590 --> 01:15:46,250
+That's a lot of money.
+
+1534
+01:15:47,390 --> 01:15:48,130
+A million dollars a month.
+
+1535
+01:15:48,190 --> 01:15:51,290
+Are they on some kind of, uh, is
+that like for exclusive content?
+
+1536
+01:15:52,510 --> 01:15:53,730
+Because who are these guys?
+
+1537
+01:15:53,850 --> 01:15:55,710
+Uh, I think it's, is it diary of a CEO?
+
+1538
+01:15:56,830 --> 01:15:57,150
+I'm thinking.
+
+1539
+01:15:57,210 --> 01:15:58,030
+Oh, I don't know.
+
+1540
+01:15:58,110 --> 01:15:58,630
+I don't know.
+
+1541
+01:15:58,710 --> 01:16:00,570
+Um, yeah, that was a power.
+
+1542
+01:16:00,950 --> 01:16:01,130
+Joe Budden.
+
+1543
+01:16:01,210 --> 01:16:01,970
+Joe Budden.
+
+1544
+01:16:02,470 --> 01:16:02,650
+Joe.
+
+1545
+01:16:02,710 --> 01:16:03,410
+Oh, Joe Budden.
+
+1546
+01:16:03,470 --> 01:16:03,790
+That's right.
+
+1547
+01:16:03,830 --> 01:16:04,710
+Oh, that's a, yeah.
+
+1548
+01:16:04,870 --> 01:16:07,360
+Oh, he, he, he is the podfather.
+
+1549
+01:16:07,460 --> 01:16:08,460
+They call him the podfather.
+
+1550
+01:16:10,410 --> 01:16:12,250
+Is he called the podfather?
+
+1551
+01:16:12,430 --> 01:16:13,450
+Yeah, I think so.
+
+1552
+01:16:13,830 --> 01:16:15,310
+I, um, I'm going to be honest with you.
+
+1553
+01:16:15,310 --> 01:16:16,130
+I don't know.
+
+1554
+01:16:16,630 --> 01:16:22,580
+I had never heard of Joe
+Budden until like a year ago.
+
+1555
+01:16:23,400 --> 01:16:25,220
+It went, whenever he, he dropped,
+
+1556
+01:16:25,276 --> 01:16:28,420
+everybody made a big deal
+because he dropped his, because
+
+1557
+01:16:28,420 --> 01:16:31,200
+he got out of his Spotify contract.
+
+1558
+01:16:31,520 --> 01:16:32,220
+Right, right, right.
+
+1559
+01:16:32,260 --> 01:16:33,200
+I'm like, who is this?
+
+1560
+01:16:33,280 --> 01:16:35,220
+I'm like, I never even
+heard this person's name.
+
+1561
+01:16:35,380 --> 01:16:35,620
+Yeah.
+
+1562
+01:16:35,930 --> 01:16:37,040
+I don't know.
+
+1563
+01:16:37,040 --> 01:16:40,970
+I don't know who, who he is or how
+he makes a million dollars a month.
+
+1564
+01:16:42,010 --> 01:16:43,110
+Oh, good for him.
+
+1565
+01:16:43,780 --> 01:16:43,980
+Yeah.
+
+1566
+01:16:44,000 --> 01:16:46,960
+I mean, if, if, if it's,
+if he's got it coming.
+
+1567
+01:16:47,160 --> 01:16:51,720
+So how has it been getting back
+to, uh, getting back to the.
+
+1568
+01:16:51,740 --> 01:16:54,020
+Uh, the real world getting
+back to the day job?
+
+1569
+01:16:55,530 --> 01:16:56,350
+Uh, difficult.
+
+1570
+01:16:56,630 --> 01:16:57,190
+I came back.
+
+1571
+01:16:57,540 --> 01:17:01,040
+I had like 1700 emails in my
+mailbox, in my inbox at work.
+
+1572
+01:17:01,340 --> 01:17:04,800
+I was like, it was crushing.
+
+1573
+01:17:04,940 --> 01:17:06,040
+Give me an example.
+
+1574
+01:17:06,200 --> 01:17:09,740
+What were some of the, what were
+some of the, the tickets about?
+
+1575
+01:17:11,950 --> 01:17:15,340
+Um, a remote work, remote worker.
+
+1576
+01:17:15,680 --> 01:17:18,860
+Uh, I, my left monitor
+is blinking on and off.
+
+1577
+01:17:19,860 --> 01:17:24,960
+I'm like, wait, didn't you have, didn't you
+get to hire a guy who could do stuff for
+
+1578
+01:17:24,960 --> 01:17:26,180
+that or was he gone too?
+
+1579
+01:17:27,170 --> 01:17:30,885
+Oh no, no, it's, it, it's all, you,
+that's the thing is when, you know,
+
+1580
+01:17:30,937 --> 01:17:34,417
+when you're on a team or
+whatever, you come back and you,
+
+1581
+01:17:34,482 --> 01:17:37,360
+you have to sort through
+what's already been
+
+1582
+01:17:37,360 --> 01:17:42,250
+handled, what hasn't, you know, you
+have to kind of like, so every,
+
+1583
+01:17:42,323 --> 01:17:43,710
+every email is like
+
+1584
+01:17:43,710 --> 01:17:48,680
+a triage process where you have to
+go through and figure out, you know,
+
+1585
+01:17:48,750 --> 01:17:49,940
+and you know, oh,
+
+1586
+01:17:49,940 --> 01:17:55,176
+this, this contract is coming up for
+renewal, you know, do you want to,
+
+1587
+01:17:55,250 --> 01:17:56,430
+do you want this
+
+1588
+01:17:56,430 --> 01:18:00,620
+new version of this software that
+it's like, are we still using this?
+
+1589
+01:18:00,720 --> 01:18:04,980
+It's just every, every email
+has to be touched and triaged.
+
+1590
+01:18:05,440 --> 01:18:10,910
+But I'm mostly, I got caught up with
+that, uh, yesterday, uh, afternoon.
+
+1591
+01:18:11,170 --> 01:18:14,707
+So that's, you know, that's
+been good being, man,
+
+1592
+01:18:14,779 --> 01:18:17,450
+being out in the wilderness was nice.
+
+1593
+01:18:18,210 --> 01:18:18,610
+Amazing.
+
+1594
+01:18:18,870 --> 01:18:20,930
+How long were you cut
+off from any connection?
+
+1595
+01:18:22,170 --> 01:18:23,290
+Uh, about six days.
+
+1596
+01:18:23,850 --> 01:18:24,170
+Wow.
+
+1597
+01:18:24,270 --> 01:18:24,990
+How did that feel?
+
+1598
+01:18:26,140 --> 01:18:26,620
+Amazing.
+
+1599
+01:18:27,190 --> 01:18:31,833
+I was like, oh, we got, we, we
+got, we started in June Lake,
+
+1600
+01:18:31,911 --> 01:18:34,310
+California and got on, we hiked
+
+1601
+01:18:34,310 --> 01:18:40,080
+about nine and a half miles in to
+connect with the John Muir trail.
+
+1602
+01:18:40,200 --> 01:18:46,770
+Then, so then we, then we,
+that was the first day.
+
+1603
+01:18:46,910 --> 01:18:50,870
+And then the next day we
+hiked over Donahue pass.
+
+1604
+01:18:50,970 --> 01:18:52,130
+That was 11,000 feet.
+
+1605
+01:18:52,230 --> 01:18:58,130
+There was, we had hiked through
+some snow, came down into Yosemite,
+
+1606
+01:18:58,218 --> 01:19:00,420
+into Yosemite wilderness.
+
+1607
+01:19:00,660 --> 01:19:06,633
+And then, so then over the course of
+the next four days, we hiked, um,
+
+1608
+01:19:06,719 --> 01:19:13,080
+about 40 miles over to, um, Yosemite
+Valley and landed right there.
+
+1609
+01:19:13,220 --> 01:19:15,760
+It came out right there next
+to Curry, Curry village.
+
+1610
+01:19:16,160 --> 01:19:17,760
+Did you go into Curry village?
+
+1611
+01:19:18,420 --> 01:19:19,040
+We did not.
+
+1612
+01:19:19,120 --> 01:19:21,411
+We were going to go into
+Curry village to get
+
+1613
+01:19:21,462 --> 01:19:23,600
+a shower because somebody told us the, uh,
+
+1614
+01:19:23,600 --> 01:19:25,600
+the, the door code for the showers.
+
+1615
+01:19:25,860 --> 01:19:30,710
+Hey, if you just mentioned my name, we
+would have gotten a shower and a coffee.
+
+1616
+01:19:32,440 --> 01:19:34,200
+Hey, uh, do you know, Adam?
+
+1617
+01:19:34,260 --> 01:19:34,460
+Yeah.
+
+1618
+01:19:34,460 --> 01:19:35,220
+He's my bro.
+
+1619
+01:19:35,660 --> 01:19:36,620
+Uh, we need, yeah.
+
+1620
+01:19:36,700 --> 01:19:37,800
+We, how about that shower?
+
+1621
+01:19:37,860 --> 01:19:40,440
+How about you hook us up with that
+wifi password and the shower code?
+
+1622
+01:19:41,600 --> 01:19:44,540
+You're too cheap to even go
+get the shower code, Dave.
+
+1623
+01:19:44,540 --> 01:19:44,880
+Really?
+
+1624
+01:19:46,240 --> 01:19:48,160
+No, see, we, there was two parts.
+
+1625
+01:19:48,280 --> 01:19:49,820
+This was our 25th wedding anniversary.
+
+1626
+01:19:50,330 --> 01:19:51,880
+So there was two parts to this trip.
+
+1627
+01:19:51,880 --> 01:19:58,140
+Oh, wait, there was, there was certainly
+a luxurious suite part of the, uh, yes.
+
+1628
+01:19:58,360 --> 01:19:58,900
+Oh yeah.
+
+1629
+01:19:59,020 --> 01:19:59,420
+Okay.
+
+1630
+01:19:59,420 --> 01:20:00,600
+Good, good, good.
+
+1631
+01:20:00,800 --> 01:20:03,920
+There was the back country
+part and the bougie part.
+
+1632
+01:20:04,330 --> 01:20:07,873
+So we went back country to
+bougie and like the first set,
+
+1633
+01:20:07,935 --> 01:20:09,800
+the first six days were hiking
+
+1634
+01:20:09,800 --> 01:20:11,100
+into Yosemite Valley.
+
+1635
+01:20:11,100 --> 01:20:12,380
+That was about 60 miles.
+
+1636
+01:20:12,500 --> 01:20:17,900
+And then the next three days were
+lap of luxury at the Awani lodge.
+
+1637
+01:20:18,040 --> 01:20:19,940
+Oh, nice, nice.
+
+1638
+01:20:20,200 --> 01:20:20,640
+Yeah.
+
+1639
+01:20:20,780 --> 01:20:21,500
+Good on you.
+
+1640
+01:20:21,640 --> 01:20:22,160
+Good on you.
+
+1641
+01:20:22,160 --> 01:20:24,300
+We got the suite, you
+know, and all this stuff.
+
+1642
+01:20:24,360 --> 01:20:26,340
+So yeah, we were, you know,
+it was, it was a great trip.
+
+1643
+01:20:26,460 --> 01:20:27,300
+It was, it was amazing.
+
+1644
+01:20:27,580 --> 01:20:30,314
+Once you're, once you're out there
+in the wilderness for a while,
+
+1645
+01:20:30,356 --> 01:20:31,870
+like we got close enough to Yosemite
+
+1646
+01:20:31,870 --> 01:20:34,550
+Valley, the lat on day
+six in the afternoon.
+
+1647
+01:20:34,670 --> 01:20:36,620
+And I was like, I wonder
+if I have cell coverage.
+
+1648
+01:20:36,960 --> 01:20:39,380
+And so I, I turned off
+airplane mode cause I'd kept
+
+1649
+01:20:39,427 --> 01:20:41,920
+it in an airplane mode to
+keep the battery from dying.
+
+1650
+01:20:41,940 --> 01:20:42,080
+Yeah.
+
+1651
+01:20:42,220 --> 01:20:42,440
+Yeah.
+
+1652
+01:20:42,890 --> 01:20:46,259
+So I took it off airplane mode and, um,
+
+1653
+01:20:46,345 --> 01:20:50,750
+then like a hundred text
+messages start flowing in.
+
+1654
+01:20:50,750 --> 01:20:52,810
+And I'm like, no, no, put
+it back on airplane mode.
+
+1655
+01:20:53,370 --> 01:20:53,810
+Boop, boop, boop, boop, boop, boop.
+
+1656
+01:20:53,810 --> 01:20:55,450
+I'm like, no, I don't want it.
+
+1657
+01:20:55,530 --> 01:20:55,710
+I don't want it.
+
+1658
+01:20:55,710 --> 01:20:56,930
+Server down, server down.
+
+1659
+01:20:57,190 --> 01:20:57,590
+Yeah.
+
+1660
+01:20:58,130 --> 01:20:58,330
+Yeah.
+
+1661
+01:20:58,410 --> 01:20:58,690
+Yeah.
+
+1662
+01:20:58,690 --> 01:21:01,990
+You know, you left without actually
+giving me access to reboot anything.
+
+1663
+01:21:02,750 --> 01:21:03,190
+I know.
+
+1664
+01:21:03,230 --> 01:21:05,980
+I couldn't, I, I, I ran out of time.
+
+1665
+01:21:06,100 --> 01:21:06,460
+I know.
+
+1666
+01:21:06,560 --> 01:21:09,478
+And, and, you know, cause you
+would give me a thing and I was,
+
+1667
+01:21:09,525 --> 01:21:10,560
+and I tried to connect
+
+1668
+01:21:10,560 --> 01:21:12,080
+it to my Linode account.
+
+1669
+01:21:12,180 --> 01:21:12,880
+It didn't work.
+
+1670
+01:21:12,880 --> 01:21:13,980
+And I said, well, try this.
+
+1671
+01:21:13,980 --> 01:21:15,140
+And you just left.
+
+1672
+01:21:15,180 --> 01:21:16,820
+And I'm like, well,
+that's how God wants it.
+
+1673
+01:21:16,820 --> 01:21:18,840
+So God will keep it running.
+
+1674
+01:21:19,200 --> 01:21:20,400
+If not, oh well.
+
+1675
+01:21:20,560 --> 01:21:20,980
+God or Dave.
+
+1676
+01:21:21,120 --> 01:21:22,120
+God or Dave, whatever.
+
+1677
+01:21:23,040 --> 01:21:23,760
+One or the other.
+
+1678
+01:21:23,820 --> 01:21:25,780
+Like I worried about it the night before.
+
+1679
+01:21:25,860 --> 01:21:27,160
+And then I was like, nah, it's fine.
+
+1680
+01:21:27,300 --> 01:21:27,840
+Your stuff.
+
+1681
+01:21:28,080 --> 01:21:32,760
+The one thing I can say about Dave
+Jones, his stuff runs forever.
+
+1682
+01:21:34,840 --> 01:21:35,240
+Stop.
+
+1683
+01:21:35,640 --> 01:21:36,500
+You son of a bitch.
+
+1684
+01:21:36,500 --> 01:21:38,620
+I invite the boogeyman in.
+
+1685
+01:21:39,480 --> 01:21:40,340
+Don't you dare.
+
+1686
+01:21:40,800 --> 01:21:42,020
+Hey, let's thank some people, Dave.
+
+1687
+01:21:42,690 --> 01:21:43,040
+Okay.
+
+1688
+01:21:43,220 --> 01:21:43,440
+All right.
+
+1689
+01:21:45,050 --> 01:21:46,610
+You got some, uh, let's see.
+
+1690
+01:21:46,630 --> 01:21:48,270
+I've got PayPal's and Boostergram.
+
+1691
+01:21:48,270 --> 01:21:48,630
+Yeah.
+
+1692
+01:21:48,790 --> 01:21:51,995
+I'll, uh, I'll do the stuff that
+came in during the program,
+
+1693
+01:21:52,048 --> 01:21:53,330
+during the board meeting
+
+1694
+01:21:53,330 --> 01:21:56,580
+and a millennial was
+listening and a millennial.
+
+1695
+01:21:56,580 --> 01:21:58,320
+Butt got warm when I
+was talking about him.
+
+1696
+01:21:59,250 --> 01:22:00,210
+1776 sats.
+
+1697
+01:22:00,330 --> 01:22:01,230
+Thanks for the shout out.
+
+1698
+01:22:01,370 --> 01:22:05,050
+MMO is oftentimes described
+as a boomerless no agenda.
+
+1699
+01:22:06,060 --> 01:22:07,660
+Oh, I feel the love.
+
+1700
+01:22:07,800 --> 01:22:08,420
+Just kidding.
+
+1701
+01:22:08,520 --> 01:22:09,100
+All love.
+
+1702
+01:22:09,460 --> 01:22:12,660
+Listen to MMO live Tuesdays,
+530 on the no agenda stream.
+
+1703
+01:22:12,880 --> 01:22:13,220
+Okay.
+
+1704
+01:22:14,100 --> 01:22:17,640
+Uh, Martin Lindeskog,
+1776 boost to Graham.
+
+1705
+01:22:17,780 --> 01:22:18,540
+Freedom of expression.
+
+1706
+01:22:19,050 --> 01:22:23,410
+I'm having a conversation with Grok
+in Buy Me Coffee's Twitter X thread.
+
+1707
+01:22:23,810 --> 01:22:24,170
+All right.
+
+1708
+01:22:24,210 --> 01:22:25,290
+You need to step away.
+
+1709
+01:22:25,800 --> 01:22:26,740
+What does that even mean?
+
+1710
+01:22:27,000 --> 01:22:30,500
+Maybe I should ask about the
+funding tag and podcasting 2.0.
+
+1711
+01:22:30,600 --> 01:22:32,060
+Best, best premises, Martin.
+
+1712
+01:22:32,220 --> 01:22:32,540
+P.S.
+
+1713
+01:22:33,000 --> 01:22:37,672
+In Sweden, you can't decide regarding
+the state-owned television and radio,
+
+1714
+01:22:37,734 --> 01:22:38,980
+SVT, Sveriges Radio.
+
+1715
+01:22:39,580 --> 01:22:43,620
+They get funded by a public service fee
+levied as a tax on personal income.
+
+1716
+01:22:44,050 --> 01:22:46,890
+Is it time for new pirate
+radio and TV revolution?
+
+1717
+01:22:47,110 --> 01:22:48,730
+You know, that's what podcasting is.
+
+1718
+01:22:49,890 --> 01:22:52,470
+Uh, and Martin Lindeskog, another 1776.
+
+1719
+01:22:52,650 --> 01:22:53,910
+Adam and Dave, I've missed you guys.
+
+1720
+01:22:53,970 --> 01:22:55,610
+And now I hear you talk about poop.
+
+1721
+01:22:56,780 --> 01:22:56,940
+Yes.
+
+1722
+01:22:58,280 --> 01:22:58,680
+Today.
+
+1723
+01:22:59,040 --> 01:22:59,300
+The poop app.
+
+1724
+01:22:59,480 --> 01:22:59,800
+The poop app.
+
+1725
+01:22:59,800 --> 01:23:01,280
+Go straight to the top of the leaderboard.
+
+1726
+01:23:01,580 --> 01:23:04,540
+Today, I'm wearing podcasting
+2.0 certified t-shirt.
+
+1727
+01:23:04,680 --> 01:23:07,120
+Maybe I'll take a selfie and
+post it on the interwebs.
+
+1728
+01:23:07,180 --> 01:23:10,380
+I'm happy to be the number one super
+fan on true fans of your podcast.
+
+1729
+01:23:10,480 --> 01:23:11,360
+All the best from Martin.
+
+1730
+01:23:12,330 --> 01:23:13,970
+Uh, Eric PP, 3333.
+
+1731
+01:23:14,210 --> 01:23:15,270
+Welcome back, he says.
+
+1732
+01:23:15,270 --> 01:23:18,570
+Uh, boosting in from,
+uh, the, uh, boost CLI.
+
+1733
+01:23:19,760 --> 01:23:27,090
+And we have, let me see, uh, pre-boost, uh,
+triple, uh, four sevens from Dreb Scott.
+
+1734
+01:23:27,430 --> 01:23:29,910
+Pre-boosting the boost boost
+listening live via Cast-O-Matic.
+
+1735
+01:23:30,030 --> 01:23:30,450
+Yes, indeed.
+
+1736
+01:23:30,570 --> 01:23:31,450
+Came in from Cast-O-Matic.
+
+1737
+01:23:31,770 --> 01:23:34,150
+Hoping you both had a
+great and relaxing break.
+
+1738
+01:23:34,350 --> 01:23:35,850
+Hashtag go podcasting.
+
+1739
+01:23:36,490 --> 01:23:38,350
+And, uh, and I hit the delimiter.
+
+1740
+01:23:38,470 --> 01:23:38,870
+That's it.
+
+1741
+01:23:40,290 --> 01:23:41,490
+Uh, let's see.
+
+1742
+01:23:41,730 --> 01:23:47,410
+Uh, we got, did we get, I'm
+starting, I'm just hit me that
+
+1743
+01:23:47,410 --> 01:23:51,350
+Cast-O-Matic didn't tell me
+that the Bat-Sigma went out.
+
+1744
+01:23:51,470 --> 01:23:52,970
+I sent, I'm pretty sure I sent it.
+
+1745
+01:23:53,270 --> 01:23:54,190
+Yeah, yeah, it's there.
+
+1746
+01:23:54,290 --> 01:23:54,470
+Okay.
+
+1747
+01:23:54,630 --> 01:23:54,950
+It's there.
+
+1748
+01:23:55,110 --> 01:23:55,290
+Okay.
+
+1749
+01:23:55,730 --> 01:23:56,410
+Don't scare me.
+
+1750
+01:23:56,430 --> 01:23:56,910
+False alarm.
+
+1751
+01:23:57,410 --> 01:23:57,590
+Yeah.
+
+1752
+01:23:58,030 --> 01:23:58,490
+False alarm.
+
+1753
+01:23:59,350 --> 01:24:01,000
+Uh, look who we got.
+
+1754
+01:24:01,060 --> 01:24:03,420
+We got Buzzsprout came in
+here with a thousand dollars.
+
+1755
+01:24:03,500 --> 01:24:03,640
+Bam!
+
+1756
+01:24:04,670 --> 01:24:08,140
+Shot collar, 20-inch blades on the Impala.
+
+1757
+01:24:08,720 --> 01:24:09,300
+Thank you.
+
+1758
+01:24:09,440 --> 01:24:10,100
+Thank you.
+
+1759
+01:24:10,240 --> 01:24:10,900
+Thank you.
+
+1760
+01:24:11,170 --> 01:24:11,880
+Thank you.
+
+1761
+01:24:12,140 --> 01:24:14,430
+That keeps everything running here.
+
+1762
+01:24:14,710 --> 01:24:18,430
+All, all boostsagrams, all
+donations, everything matters.
+
+1763
+01:24:18,650 --> 01:24:22,040
+It really evens out with some
+of our, our hosting supporters.
+
+1764
+01:24:22,040 --> 01:24:23,320
+Thank you, boys and girls.
+
+1765
+01:24:24,490 --> 01:24:27,560
+And I went away and I came
+back to a thousand dollars.
+
+1766
+01:24:28,510 --> 01:24:30,410
+Uh, thank, uh, thanks guys.
+
+1767
+01:24:30,510 --> 01:24:32,470
+Thanks, Kevin and Tom and the crew.
+
+1768
+01:24:32,570 --> 01:24:34,660
+Uh, and then guess who else came in?
+
+1769
+01:24:34,860 --> 01:24:34,960
+Who?
+
+1770
+01:24:35,080 --> 01:24:38,900
+Ben and Alberto at RSS.com with $777.
+
+1771
+01:24:39,380 --> 01:24:39,540
+Oh!
+
+1772
+01:24:39,780 --> 01:24:40,260
+Baller!
+
+1773
+01:24:40,400 --> 01:24:40,840
+Nice!
+
+1774
+01:24:41,140 --> 01:24:44,100
+Shot collar, 20-inch blades on the Impala.
+
+1775
+01:24:44,620 --> 01:24:48,520
+That is, uh, that is a,
+that's, thank you so much.
+
+1776
+01:24:48,580 --> 01:24:50,060
+I should go to the woods more often.
+
+1777
+01:24:50,660 --> 01:24:51,420
+Go away!
+
+1778
+01:24:51,640 --> 01:24:52,560
+Go away, Dave!
+
+1779
+01:24:52,560 --> 01:24:53,040
+Go away!
+
+1780
+01:24:53,680 --> 01:24:55,420
+We do better when I leave.
+
+1781
+01:24:56,370 --> 01:25:00,388
+Uh, Ben says, thank you for your
+consistent work, clear thinking,
+
+1782
+01:25:00,450 --> 01:25:01,810
+and steady commitment.
+
+1783
+01:25:02,210 --> 01:25:05,370
+Here's to open podcasting
+with RSS, the RSS.com team.
+
+1784
+01:25:05,550 --> 01:25:07,660
+Thank you, RSS.com team.
+
+1785
+01:25:07,820 --> 01:25:09,290
+Much appreciated.
+
+1786
+01:25:10,630 --> 01:25:17,920
+Uh, my RSS.com shirt is, um,
+the ones that Ben's wife made.
+
+1787
+01:25:18,370 --> 01:25:19,920
+Oh, I, I don't have one.
+
+1788
+01:25:20,140 --> 01:25:20,760
+Funny, you know.
+
+1789
+01:25:20,780 --> 01:25:25,860
+On the, on the vinyl, uh, application
+machine, it is, it is in bad shape.
+
+1790
+01:25:25,860 --> 01:25:26,400
+It's peeling.
+
+1791
+01:25:26,620 --> 01:25:30,160
+It's peeling after a couple of, uh,
+washes, it starts to peel a bit.
+
+1792
+01:25:30,630 --> 01:25:32,660
+I'm in need of a, of a
+replacement RSS.com.
+
+1793
+01:25:32,660 --> 01:25:36,324
+Is it kind of like the old, the old
+t-shirt merch that you'd buy at, uh,
+
+1794
+01:25:36,375 --> 01:25:39,360
+at the rock shows and it would be
+just kind of almost like ironed on?
+
+1795
+01:25:40,140 --> 01:25:40,720
+Oh, yeah, yeah.
+
+1796
+01:25:40,760 --> 01:25:43,000
+It's like a, yeah, like
+the vinyl cut thing.
+
+1797
+01:25:43,140 --> 01:25:43,320
+Yeah.
+
+1798
+01:25:43,500 --> 01:25:54,198
+Uh, we got, oh, we got a one off, I see,
+one off from, uh, Shakozi, uh, Nagy,
+
+1799
+01:25:54,337 --> 01:25:57,430
+uh, for $20 and there's no note.
+
+1800
+01:25:57,630 --> 01:25:58,310
+Thank you, Shakozi.
+
+1801
+01:25:58,310 --> 01:25:58,850
+Thank you, Shakozi.
+
+1802
+01:25:59,710 --> 01:26:04,600
+And, uh, we got one from Francis
+Navilla, Navillio, uh, for $10.
+
+1803
+01:26:04,920 --> 01:26:05,480
+Thank you, Francis.
+
+1804
+01:26:05,660 --> 01:26:06,160
+Appreciate that.
+
+1805
+01:26:08,520 --> 01:26:09,480
+Uh, let's see.
+
+1806
+01:26:09,940 --> 01:26:10,830
+Uh, what do we got?
+
+1807
+01:26:10,890 --> 01:26:17,040
+We got, uh, Boostergrams somewhere in box.
+
+1808
+01:26:17,080 --> 01:26:17,380
+Here we go.
+
+1809
+01:26:17,400 --> 01:26:17,920
+Oh, here we go.
+
+1810
+01:26:18,620 --> 01:26:23,000
+Uh, we got, uh, Bob Rathmel, 3,500 sats.
+
+1811
+01:26:23,100 --> 01:26:25,100
+Hey, that sounds like a new one.
+
+1812
+01:26:25,220 --> 01:26:26,020
+Bob Rathmel.
+
+1813
+01:26:26,520 --> 01:26:27,730
+Never heard that name before.
+
+1814
+01:26:30,370 --> 01:26:31,870
+You're defragmented, Bob.
+
+1815
+01:26:32,500 --> 01:26:34,310
+Dribbs, kids, just defragmented you.
+
+1816
+01:26:34,790 --> 01:26:36,990
+Uh, through Podverse, uh, 3,500 sats.
+
+1817
+01:26:37,210 --> 01:26:39,110
+He says, uh, no need to read in the show.
+
+1818
+01:26:39,390 --> 01:26:39,650
+Okay.
+
+1819
+01:26:39,750 --> 01:26:40,710
+Well, you got it anyway.
+
+1820
+01:26:40,710 --> 01:26:41,410
+You got it done.
+
+1821
+01:26:42,150 --> 01:26:44,350
+I'm excited to hear all
+the updates of your work.
+
+1822
+01:26:44,410 --> 01:26:46,630
+I had some trouble updating
+my Albi wallet to boost.
+
+1823
+01:26:47,230 --> 01:26:48,890
+I'm sorry for the trouble, but you got it.
+
+1824
+01:26:48,950 --> 01:26:49,690
+Seems like you got it.
+
+1825
+01:26:49,730 --> 01:26:49,870
+Yeah.
+
+1826
+01:26:49,950 --> 01:26:52,870
+I guess, uh, some of the
+Albi wallets had problems.
+
+1827
+01:26:52,990 --> 01:26:56,200
+Some of their, uh, inbound
+liquidity failed or something.
+
+1828
+01:26:57,380 --> 01:26:58,260
+Oh, oh yeah.
+
+1829
+01:26:58,260 --> 01:27:00,300
+Um, I think Chad F mentioned that.
+
+1830
+01:27:00,620 --> 01:27:00,720
+Yeah.
+
+1831
+01:27:00,760 --> 01:27:02,940
+We had a, we had a node issue too.
+
+1832
+01:27:03,840 --> 01:27:05,940
+Um, what, why did we have to reboot?
+
+1833
+01:27:06,770 --> 01:27:10,590
+Because it's so fun to
+reboot, uh, a Bitcoin node.
+
+1834
+01:27:11,440 --> 01:27:11,840
+Hours.
+
+1835
+01:27:12,100 --> 01:27:12,340
+Yeah.
+
+1836
+01:27:13,020 --> 01:27:17,540
+Now, what happened was, uh, Randy
+Black, he set up his own node.
+
+1837
+01:27:17,600 --> 01:27:18,820
+He says, can you give me some liquidity?
+
+1838
+01:27:18,820 --> 01:27:21,300
+And I kept trying and I
+kept getting this error.
+
+1839
+01:27:21,300 --> 01:27:26,230
+Like you can't open a channel unless
+the node is fully synced to the chain.
+
+1840
+01:27:26,230 --> 01:27:27,890
+And so I, of course, blamed Randy.
+
+1841
+01:27:27,890 --> 01:27:29,690
+He said, yeah, you're crappy set up.
+
+1842
+01:27:29,790 --> 01:27:30,930
+It's not synced to the chain.
+
+1843
+01:27:31,170 --> 01:27:35,212
+Then I go into voltage because,
+uh, we have, you know, our, our,
+
+1844
+01:27:35,275 --> 01:27:37,540
+our big node is, uh, hosted by voltage.
+
+1845
+01:27:37,540 --> 01:27:39,780
+All of your sats, everything is on that.
+
+1846
+01:27:40,490 --> 01:27:41,850
+And we provide liquidity.
+
+1847
+01:27:42,050 --> 01:27:44,090
+We have over a thousand
+channels, by the way.
+
+1848
+01:27:44,250 --> 01:27:45,290
+We have quite a lot of channels.
+
+1849
+01:27:45,730 --> 01:27:50,410
+We have to have, we have to be in near
+the top as far as channel count goes.
+
+1850
+01:27:50,910 --> 01:27:54,090
+Channel count, maybe, but
+not liquidity, but count.
+
+1851
+01:27:54,090 --> 01:27:54,870
+No, not liquidity.
+
+1852
+01:27:55,290 --> 01:27:56,690
+And so I kept getting this problem.
+
+1853
+01:27:56,750 --> 01:27:59,545
+Then I go into voltage
+into the dashboard and
+
+1854
+01:27:59,607 --> 01:28:02,030
+our node is so big and so powerful that
+
+1855
+01:28:02,030 --> 01:28:07,090
+the dashboard never shows anything properly,
+but I see this flashing chain sync.
+
+1856
+01:28:07,190 --> 01:28:09,010
+I'm like, Hey, so I ping Graham.
+
+1857
+01:28:09,010 --> 01:28:12,857
+Now when you ping Graham on signal,
+I don't care what time zone,
+
+1858
+01:28:12,917 --> 01:28:14,360
+what day or night it is.
+
+1859
+01:28:15,040 --> 01:28:16,000
+He is right away.
+
+1860
+01:28:16,080 --> 01:28:17,560
+You see the three dots coming up.
+
+1861
+01:28:17,620 --> 01:28:18,080
+What's going on?
+
+1862
+01:28:18,630 --> 01:28:18,730
+Yeah.
+
+1863
+01:28:18,750 --> 01:28:20,330
+It could be three o'clock in the morning.
+
+1864
+01:28:20,690 --> 01:28:21,090
+Anywhere.
+
+1865
+01:28:21,490 --> 01:28:21,890
+Anywhere.
+
+1866
+01:28:22,110 --> 01:28:24,470
+And he says, Oh, what version are you on?
+
+1867
+01:28:24,530 --> 01:28:25,250
+I said, Oh yeah.
+
+1868
+01:28:25,350 --> 01:28:26,550
+He says, no, you're on older version.
+
+1869
+01:28:26,890 --> 01:28:28,180
+It's time to update.
+
+1870
+01:28:29,040 --> 01:28:30,780
+I'm like, Oh, that means a reboot.
+
+1871
+01:28:30,980 --> 01:28:31,920
+That means a reboot.
+
+1872
+01:28:32,160 --> 01:28:34,020
+And there's two, two parts to it.
+
+1873
+01:28:34,040 --> 01:28:35,080
+One, you got a reboot.
+
+1874
+01:28:36,240 --> 01:28:38,300
+You know, you have to hit
+update and it reboots.
+
+1875
+01:28:38,750 --> 01:28:43,691
+It doesn't really give you a great
+signal as to where it's, where it is,
+
+1876
+01:28:43,759 --> 01:28:45,240
+but he's right there in the back.
+
+1877
+01:28:45,280 --> 01:28:45,880
+And now I see it.
+
+1878
+01:28:45,900 --> 01:28:46,680
+It's all going fine.
+
+1879
+01:28:46,720 --> 01:28:47,100
+It's okay.
+
+1880
+01:28:47,520 --> 01:28:51,990
+And then the system, cause Graham
+has no access to the node.
+
+1881
+01:28:51,990 --> 01:28:55,610
+The system will send me an email
+saying you have to unlock the node.
+
+1882
+01:28:55,690 --> 01:28:57,870
+And so you kind of like waiting on that.
+
+1883
+01:28:57,970 --> 01:29:01,610
+And so that took several hours, but then it
+worked out and I was able to give all of
+
+1884
+01:29:01,610 --> 01:29:04,190
+this to say, I gave Randy
+some inbound liquidity.
+
+1885
+01:29:05,610 --> 01:29:07,750
+Long way to go to get Randy some inbound.
+
+1886
+01:29:07,810 --> 01:29:10,890
+It took two guys, several hours,
+but we got it done, Randy.
+
+1887
+01:29:11,050 --> 01:29:12,010
+You got your liquidity.
+
+1888
+01:29:12,640 --> 01:29:14,120
+This stuff's ready for prime time.
+
+1889
+01:29:16,210 --> 01:29:18,990
+Are we on the latest L&D now?
+
+1890
+01:29:19,590 --> 01:29:20,350
+Yeah, we are.
+
+1891
+01:29:21,320 --> 01:29:21,540
+Okay.
+
+1892
+01:29:22,240 --> 01:29:22,510
+Yeah.
+
+1893
+01:29:22,510 --> 01:29:25,930
+Cause that, I mean, our node,
+how long does it take to reboot?
+
+1894
+01:29:26,110 --> 01:29:27,350
+Like seven hours?
+
+1895
+01:29:27,550 --> 01:29:28,170
+No, no.
+
+1896
+01:29:28,250 --> 01:29:29,050
+It went much faster.
+
+1897
+01:29:29,600 --> 01:29:32,540
+I think it was three and a
+half, three and a half hours.
+
+1898
+01:29:32,880 --> 01:29:34,440
+It used to be like 10.
+
+1899
+01:29:34,560 --> 01:29:34,820
+Yeah.
+
+1900
+01:29:34,820 --> 01:29:36,880
+Oh, 10 or 12 hours is what it used to be.
+
+1901
+01:29:36,980 --> 01:29:37,160
+Yeah.
+
+1902
+01:29:37,180 --> 01:29:39,140
+Right now we're on, let me see.
+
+1903
+01:29:39,180 --> 01:29:40,860
+I'll tell you what, what we're on.
+
+1904
+01:29:41,060 --> 01:29:43,740
+Well, it's also a new
+version of voltage cloud.
+
+1905
+01:29:44,570 --> 01:29:47,570
+You know, so it had to be all
+kinds of versions of stuff.
+
+1906
+01:29:47,650 --> 01:29:50,030
+Let me just check, go to
+infrastructure owner.
+
+1907
+01:29:50,270 --> 01:29:50,910
+I'm the owner.
+
+1908
+01:29:51,130 --> 01:29:51,390
+Yes.
+
+1909
+01:29:51,510 --> 01:29:52,270
+Lightning nodes.
+
+1910
+01:29:52,410 --> 01:29:52,590
+Yes.
+
+1911
+01:29:52,650 --> 01:29:52,910
+Okay.
+
+1912
+01:29:53,690 --> 01:29:56,960
+We are on, let me see.
+
+1913
+01:29:59,150 --> 01:30:03,860
+Why doesn't it tell me what the, hmm.
+
+1914
+01:30:04,120 --> 01:30:04,420
+Oh, wait.
+
+1915
+01:30:04,580 --> 01:30:04,920
+Node.
+
+1916
+01:30:05,200 --> 01:30:05,600
+Node.
+
+1917
+01:30:06,630 --> 01:30:07,110
+Info.
+
+1918
+01:30:07,110 --> 01:30:09,910
+We're on 0.19.2-beta of LLD.
+
+1919
+01:30:16,850 --> 01:30:19,330
+We're pretty, yeah, we're
+pretty, we're pretty recent.
+
+1920
+01:30:19,490 --> 01:30:19,890
+And I even.
+
+1921
+01:30:19,890 --> 01:30:23,070
+I wonder if that has the SQL stuff in it.
+
+1922
+01:30:24,100 --> 01:30:26,480
+Cause you know, they're
+transitioning to a SQLite backend.
+
+1923
+01:30:27,040 --> 01:30:30,720
+And I see that voltage, the voltage
+version already has an update.
+
+1924
+01:30:31,850 --> 01:30:33,450
+So I'm not going to do it.
+
+1925
+01:30:33,850 --> 01:30:34,910
+Not today, Satan.
+
+1926
+01:30:35,610 --> 01:30:37,030
+Wait till Randy needs more.
+
+1927
+01:30:37,210 --> 01:30:37,450
+Yeah.
+
+1928
+01:30:38,110 --> 01:30:39,690
+Well, it should work, I guess.
+
+1929
+01:30:39,850 --> 01:30:44,257
+But yeah, if it has a SQL backend, then
+that'll, I mean, your, your stats,
+
+1930
+01:30:44,317 --> 01:30:47,030
+your daily stats email has
+been broken for months.
+
+1931
+01:30:48,070 --> 01:30:48,430
+Oh yeah.
+
+1932
+01:30:48,490 --> 01:30:49,650
+It doesn't even work anymore.
+
+1933
+01:30:49,650 --> 01:30:55,090
+I switched it over to just be like away from
+the full report to just like a balance.
+
+1934
+01:30:55,510 --> 01:30:55,650
+Yeah.
+
+1935
+01:30:56,320 --> 01:31:01,180
+Bruce, the ugly quacking duck,
+2222 through podcast guru says,
+
+1936
+01:31:01,259 --> 01:31:03,560
+bravo team on the images tag.
+
+1937
+01:31:03,640 --> 01:31:04,820
+Another win for podcasting.
+
+1938
+01:31:04,900 --> 01:31:06,580
+Enjoy the tech discussion on this episode.
+
+1939
+01:31:06,890 --> 01:31:07,750
+Thanks for all you do.
+
+1940
+01:31:07,970 --> 01:31:08,490
+73s.
+
+1941
+01:31:08,850 --> 01:31:09,330
+73s.
+
+1942
+01:31:09,370 --> 01:31:10,830
+Kilo five, alpha, Charlie, Charlie.
+
+1943
+01:31:11,510 --> 01:31:13,130
+Hey, look, look who we have here.
+
+1944
+01:31:13,410 --> 01:31:14,280
+Who do we have here?
+
+1945
+01:31:14,320 --> 01:31:14,640
+Dave?
+
+1946
+01:31:14,780 --> 01:31:19,340
+Comic strip blogger, 12, nine,
+one, five through fountain.
+
+1947
+01:31:19,460 --> 01:31:19,960
+All right.
+
+1948
+01:31:19,960 --> 01:31:22,700
+Comic strip blogger says,
+howdy, Dave and Adam.
+
+1949
+01:31:23,240 --> 01:31:26,210
+Are you missing Moe facts
+with Adam Curry podcast?
+
+1950
+01:31:26,660 --> 01:31:28,460
+I have a replacement for you.
+
+1951
+01:31:28,460 --> 01:31:31,704
+So I have recommended this
+podcast to Adam Curry's
+
+1952
+01:31:31,769 --> 01:31:34,170
+keeper podcast before I knew that the
+
+1953
+01:31:34,170 --> 01:31:36,330
+president of France is suing her.
+
+1954
+01:31:36,530 --> 01:31:39,028
+So I recommend to her again here,
+
+1955
+01:31:39,104 --> 01:31:43,040
+a political podcast called
+Candace by Candace Owens.
+
+1956
+01:31:43,430 --> 01:31:47,703
+I'm not sure that she is always
+right, but she is very entertaining,
+
+1957
+01:31:47,766 --> 01:31:53,450
+presents a strongly black American point
+of view, akin to Moe from Moe facts.
+
+1958
+01:31:53,950 --> 01:31:56,590
+I don't think it's
+exactly the same as Moe.
+
+1959
+01:31:56,850 --> 01:31:57,350
+Very different.
+
+1960
+01:31:57,850 --> 01:31:58,410
+Very different.
+
+1961
+01:31:58,410 --> 01:31:59,570
+Quite, quite different.
+
+1962
+01:31:59,670 --> 01:32:00,290
+I would say.
+
+1963
+01:32:00,450 --> 01:32:01,430
+Yeah, it's quite different.
+
+1964
+01:32:01,790 --> 01:32:03,050
+Thank you, CSB.
+
+1965
+01:32:03,570 --> 01:32:05,650
+And do we have any, anything else?
+
+1966
+01:32:05,690 --> 01:32:06,270
+Any monthlies?
+
+1967
+01:32:06,810 --> 01:32:08,580
+Yeah, we got, we got a lot of monthlies.
+
+1968
+01:32:08,700 --> 01:32:08,820
+Yeah.
+
+1969
+01:32:09,560 --> 01:32:11,760
+This happens, what happens when
+you're gone for half a month?
+
+1970
+01:32:11,900 --> 01:32:12,080
+Yeah.
+
+1971
+01:32:12,160 --> 01:32:15,110
+We got Podverse, $50.
+
+1972
+01:32:15,490 --> 01:32:15,830
+Thank you, Podverse.
+
+1973
+01:32:15,830 --> 01:32:16,630
+Thank you, Podverse.
+
+1974
+01:32:17,370 --> 01:32:18,830
+Basil Phillip, $25.
+
+1975
+01:32:19,310 --> 01:32:21,040
+Christopher Horabarik, $10.
+
+1976
+01:32:21,940 --> 01:32:24,520
+Mitch, that's Mitch Downey
+over at Podverse, $10.
+
+1977
+01:32:25,020 --> 01:32:26,270
+Terry Keller, $5.
+
+1978
+01:32:26,710 --> 01:32:27,930
+Chris Cowan, $5.
+
+1979
+01:32:28,890 --> 01:32:30,270
+Silicon Florist, $10.
+
+1980
+01:32:30,730 --> 01:32:33,310
+Derek J. Visker, the best
+name in podcasting, $21.
+
+1981
+01:32:33,810 --> 01:32:37,070
+Paul Saltzman, $22.22.
+
+1982
+01:32:38,110 --> 01:32:39,950
+Damon Kassajak, $15.
+
+1983
+01:32:40,760 --> 01:32:42,600
+Jeremy Gerds, $5.
+
+1984
+01:32:43,170 --> 01:32:44,920
+Michael Hall, $5.50.
+
+1985
+01:32:45,040 --> 01:32:47,970
+New Media, that's Todd, $30.
+
+1986
+01:32:48,650 --> 01:32:50,050
+Gene Liverman, $5.
+
+1987
+01:32:50,430 --> 01:32:51,650
+Timothy Voice, $10.
+
+1988
+01:32:52,350 --> 01:32:55,070
+Lauren Ball, $24.20.
+
+1989
+01:32:55,580 --> 01:32:57,540
+Oystein Berra, $5.
+
+1990
+01:32:58,000 --> 01:33:00,040
+Jorge Hernandez, $5.
+
+1991
+01:33:00,700 --> 01:33:01,990
+Michael Goggin, $5.
+
+1992
+01:33:02,390 --> 01:33:03,710
+Cohn Glotzbach, $5.
+
+1993
+01:33:04,110 --> 01:33:05,560
+Christopher Reamer, $10.
+
+1994
+01:33:06,160 --> 01:33:07,420
+James Sullivan, $10.
+
+1995
+01:33:07,740 --> 01:33:08,920
+And Jordan Dunville, $10.
+
+1996
+01:33:09,400 --> 01:33:10,440
+Wow.
+
+1997
+01:33:10,540 --> 01:33:13,460
+Thank you all so much for
+supporting the Podcast Index.
+
+1998
+01:33:14,040 --> 01:33:18,700
+All funds go directly into the
+Podcast Index Maintenance Fund.
+
+1999
+01:33:19,260 --> 01:33:20,440
+Everything runs from that.
+
+2000
+01:33:20,560 --> 01:33:23,820
+All servers, everything,
+except the Mastodon.
+
+2001
+01:33:24,000 --> 01:33:28,420
+I contribute the Mastodon out
+of it because I love everybody.
+
+2002
+01:33:28,780 --> 01:33:29,760
+And I have all the power.
+
+2003
+01:33:31,290 --> 01:33:32,370
+You control.
+
+2004
+01:33:32,630 --> 01:33:33,570
+I control everything.
+
+2005
+01:33:34,030 --> 01:33:35,730
+The node, et cetera, everything.
+
+2006
+01:33:36,070 --> 01:33:39,330
+We're so appreciative of that
+because people are now building.
+
+2007
+01:33:39,450 --> 01:33:39,970
+We're building.
+
+2008
+01:33:40,270 --> 01:33:41,930
+We are indirectly benefiting.
+
+2009
+01:33:42,110 --> 01:33:43,730
+People are building on Podcast Index.
+
+2010
+01:33:43,890 --> 01:33:45,290
+It's a very important resource.
+
+2011
+01:33:45,670 --> 01:33:47,690
+And all of your contributions
+help keep that running.
+
+2012
+01:33:47,770 --> 01:33:49,170
+Go to podcastindex.org.
+
+2013
+01:33:49,230 --> 01:33:52,010
+Down at the bottom, there's
+a red donate button.
+
+2014
+01:33:52,090 --> 01:33:56,830
+If you hit on that, then you can send us
+your fiat fund coupons through PayPal.
+
+2015
+01:33:57,410 --> 01:33:58,990
+And, of course, you can always boost.
+
+2016
+01:33:59,090 --> 01:34:00,410
+Boost the gram goes into the node.
+
+2017
+01:34:00,890 --> 01:34:05,946
+And that just keeps getting more
+valuable, which is, you know, we have,
+
+2018
+01:34:06,017 --> 01:34:09,150
+Podcast Index indeed
+has a Bitcoin treasury.
+
+2019
+01:34:10,850 --> 01:34:11,650
+We are.
+
+2020
+01:34:11,730 --> 01:34:13,250
+We are just like MicroStrategy.
+
+2021
+01:34:14,420 --> 01:34:15,880
+Yes, that's right.
+
+2022
+01:34:15,880 --> 01:34:18,580
+We are the sailors of podcasting.
+
+2023
+01:34:19,710 --> 01:34:20,570
+Michael Saylor.
+
+2024
+01:34:21,270 --> 01:34:25,470
+Yeah, we're going to, one day we're
+going to leverage it for, to do a float.
+
+2025
+01:34:26,100 --> 01:34:26,420
+Oh, yeah.
+
+2026
+01:34:26,460 --> 01:34:26,740
+Oh, yeah.
+
+2027
+01:34:26,860 --> 01:34:27,680
+A SPAC.
+
+2028
+01:34:27,960 --> 01:34:28,920
+A reverse merger.
+
+2029
+01:34:29,480 --> 01:34:30,740
+Yeah, we're going to SPAC.
+
+2030
+01:34:31,260 --> 01:34:32,020
+Do a SPAC.
+
+2031
+01:34:32,140 --> 01:34:32,920
+Wrap it all up.
+
+2032
+01:34:32,940 --> 01:34:34,800
+We're going to wrap everything
+up into a SPAC, yeah.
+
+2033
+01:34:34,940 --> 01:34:36,180
+So, you sent me an ISO.
+
+2034
+01:34:36,360 --> 01:34:37,740
+Is that meant for the end of the show?
+
+2035
+01:34:37,940 --> 01:34:39,300
+Or what was that meant for?
+
+2036
+01:34:39,810 --> 01:34:42,780
+I was hoping you'd drop it in the
+middle of our public radio discussion.
+
+2037
+01:34:43,840 --> 01:34:46,350
+London Corning.
+
+2038
+01:34:46,470 --> 01:34:50,050
+You're listening to a news bulletin read
+in the overseas service of the BBC.
+
+2039
+01:34:51,470 --> 01:34:54,810
+I actually forgot about it.
+
+2040
+01:34:54,910 --> 01:34:55,250
+I'm sorry.
+
+2041
+01:34:55,710 --> 01:34:56,450
+That's all right.
+
+2042
+01:34:56,590 --> 01:34:57,210
+That's all right.
+
+2043
+01:34:57,550 --> 01:34:58,850
+Thanks for the pre-production.
+
+2044
+01:34:59,070 --> 01:35:03,330
+As usual, anything we do before the
+show is forgotten or just is no good.
+
+2045
+01:35:03,930 --> 01:35:04,790
+That's how it always works.
+
+2046
+01:35:04,790 --> 01:35:05,610
+It just falls on the floor.
+
+2047
+01:35:05,650 --> 01:35:08,090
+We fly by the seat of our
+pants every single time.
+
+2048
+01:35:08,890 --> 01:35:10,210
+Brother Dave, good to have you back.
+
+2049
+01:35:10,270 --> 01:35:10,950
+I apologize.
+
+2050
+01:35:11,990 --> 01:35:14,650
+On Tuesday, we're going down to Florida.
+
+2051
+01:35:14,650 --> 01:35:18,520
+I'm speaking in front of
+the, what are they called?
+
+2052
+01:35:18,640 --> 01:35:19,960
+The embassy churches.
+
+2053
+01:35:21,010 --> 01:35:23,290
+I'm doing a talk with Pastor Jim.
+
+2054
+01:35:23,390 --> 01:35:23,730
+What is it?
+
+2055
+01:35:25,470 --> 01:35:28,775
+They're, so it's, it's a
+group of churches and they
+
+2056
+01:35:28,840 --> 01:35:31,950
+want to speak beyond the
+walls of the sanctuary.
+
+2057
+01:35:32,010 --> 01:35:36,754
+And so, Pastor Jimmy and I are
+literally doing a talk on media,
+
+2058
+01:35:36,829 --> 01:35:38,410
+the church and media.
+
+2059
+01:35:40,460 --> 01:35:42,100
+Your, your, your wheelhouse.
+
+2060
+01:35:42,240 --> 01:35:42,400
+Yes.
+
+2061
+01:35:43,360 --> 01:35:43,800
+Yes.
+
+2062
+01:35:44,080 --> 01:35:45,520
+Two wheelhouses actually.
+
+2063
+01:35:46,090 --> 01:35:49,670
+So, and that will be promoting
+podcasting, obviously.
+
+2064
+01:35:50,030 --> 01:35:54,120
+And since everyone, everybody who's,
+who's in church has a podcast now,
+
+2065
+01:35:54,177 --> 01:35:57,230
+they just don't know what
+to do with them or, or how.
+
+2066
+01:35:57,230 --> 01:36:01,747
+I think we, I think we probably have
+to bring a lot of, by the way, a,
+
+2067
+01:36:01,811 --> 01:36:04,650
+these would be good
+customers for HLS video.
+
+2068
+01:36:04,650 --> 01:36:06,360
+Ah, yeah.
+
+2069
+01:36:06,360 --> 01:36:10,700
+And they need it because the, the
+amount of times I hear the story.
+
+2070
+01:36:10,820 --> 01:36:14,020
+Well, YouTube took down the sermon again.
+
+2071
+01:36:14,720 --> 01:36:19,361
+You know, we got a strike, even though
+they all pay royalties for, you know,
+
+2072
+01:36:19,422 --> 01:36:21,010
+all kinds of music rights.
+
+2073
+01:36:22,740 --> 01:36:24,560
+That's actually, that's not a bad idea.
+
+2074
+01:36:24,880 --> 01:36:26,300
+I'll probably bring that up with them.
+
+2075
+01:36:26,380 --> 01:36:32,974
+They probably don't know that you can do
+video and that may be a good constituency
+
+2076
+01:36:33,055 --> 01:36:36,030
+to push RSS-based video into reality.
+
+2077
+01:36:36,230 --> 01:36:37,890
+So I will, I'll bring that up there.
+
+2078
+01:36:38,130 --> 01:36:38,690
+Yeah, definitely.
+
+2079
+01:36:39,670 --> 01:36:41,750
+And you're just going to be
+going through support tickets?
+
+2080
+01:36:43,220 --> 01:36:44,320
+Yeah, that's right.
+
+2081
+01:36:45,640 --> 01:36:50,499
+Yeah, I'm hoping to work on, I need to,
+
+2082
+01:36:50,624 --> 01:36:56,480
+I need to go answer this
+post about secure RSS.
+
+2083
+01:36:56,480 --> 01:36:58,820
+And, and, and purchasing
+content and that kind of thing.
+
+2084
+01:36:58,920 --> 01:37:03,420
+But I think I'm, I'm hopefully going to
+work on the new aggregator this week.
+
+2085
+01:37:03,520 --> 01:37:03,880
+Ooh.
+
+2086
+01:37:04,370 --> 01:37:04,930
+A little bit.
+
+2087
+01:37:04,990 --> 01:37:05,150
+Yeah.
+
+2088
+01:37:05,190 --> 01:37:06,810
+I need, I need to get into that.
+
+2089
+01:37:07,540 --> 01:37:09,860
+It's been sitting on
+the table for too long.
+
+2090
+01:37:09,980 --> 01:37:11,920
+So I need, I need to make
+some progress on that.
+
+2091
+01:37:12,040 --> 01:37:12,540
+Gathering dust.
+
+2092
+01:37:12,540 --> 01:37:13,460
+Yeah, it's just sitting around.
+
+2093
+01:37:13,460 --> 01:37:14,360
+Yeah, it's getting gooey.
+
+2094
+01:37:14,540 --> 01:37:16,440
+It's that thick dust from the server room.
+
+2095
+01:37:16,560 --> 01:37:17,220
+It's just gooey.
+
+2096
+01:37:17,220 --> 01:37:17,880
+Blow it off.
+
+2097
+01:37:18,000 --> 01:37:18,160
+Yeah.
+
+2098
+01:37:18,340 --> 01:37:18,620
+Okay.
+
+2099
+01:37:18,740 --> 01:37:19,000
+Yeah.
+
+2100
+01:37:19,450 --> 01:37:20,020
+All right, brother.
+
+2101
+01:37:20,360 --> 01:37:22,140
+Well, have yourself a great weekend, Dave.
+
+2102
+01:37:22,720 --> 01:37:22,980
+And, uh.
+
+2103
+01:37:23,000 --> 01:37:23,120
+Great, man.
+
+2104
+01:37:23,140 --> 01:37:23,360
+You too.
+
+2105
+01:37:23,360 --> 01:37:24,300
+Thank you very much.
+
+2106
+01:37:24,400 --> 01:37:26,000
+Oystein Bergen is standing by.
+
+2107
+01:37:26,000 --> 01:37:29,020
+He's coming up with, uh, his
+mutton, mead, and music.
+
+2108
+01:37:29,200 --> 01:37:32,960
+We'll be back here in two
+weeks on Podcasting 2.0.
+
+2109
+01:37:33,060 --> 01:37:33,760
+See you at boardroom.
+
+2110
+01:37:45,950 --> 01:37:53,540
+You have been listening to Podcasting 2.0.
+
+2111
+01:37:53,540 --> 01:37:57,460
+Visit podcastindex.org
+for more information.
+
+2112
+01:37:57,760 --> 01:37:59,320
+Go podcasting!
+
+2113
+01:37:59,680 --> 01:38:01,460
+You do you, boo.

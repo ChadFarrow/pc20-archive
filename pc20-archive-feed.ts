@@ -37,6 +37,8 @@ const CDX = "https://web.archive.org/cdx/search/cdx";
 const ART_URL = "https://chadfarrow.github.io/pc20-archive/cover.jpg";
 const REHOST_BASE = "https://chadfarrow.github.io/pc20-archive/chapters/";
 const REHOST_DIR = "chapters";
+const CAPTIONS_BASE = "https://chadfarrow.github.io/pc20-archive/captions/";
+const CAPTIONS_DIR = "captions";
 
 // Channel-level Value-4-Value split, copied verbatim from the active feed at
 // https://feeds.podcastindex.org/pc20.xml. `split` is a proportional share,
@@ -207,6 +209,28 @@ function rehostedChapters(): Pc20File[] {
       kind: "chapters",
       ext: "json",
       mimeType: "application/json+chapters",
+    });
+  }
+  return out;
+}
+
+// Files in ./captions/ were made by transcribe.mjs for episodes whose server
+// captions are a "Transcript is Processing" placeholder, another episode's
+// transcript, or missing. Each one replaces the server's captions for its
+// episode — see main().
+function rehostedCaptions(): Pc20File[] {
+  if (!existsSync(CAPTIONS_DIR)) return [];
+  const out: Pc20File[] = [];
+  for (const filename of readdirSync(CAPTIONS_DIR)) {
+    const m = filename.match(/^PC20-0*(\d{1,4})-Captions\.srt$/);
+    if (!m) continue;
+    out.push({
+      filename,
+      url: CAPTIONS_BASE + encodeURIComponent(filename),
+      episode: parseInt(m[1], 10),
+      kind: "captions",
+      ext: "srt",
+      mimeType: "application/srt",
     });
   }
   return out;
@@ -458,7 +482,16 @@ async function main() {
   if (rehosted.length) {
     console.error(`      rehosted chapters from ${REHOST_DIR}/: ${rehosted.length}`);
   }
-  const files = [...scraped, ...rehosted];
+  const captions = rehostedCaptions();
+  const captioned = new Set(captions.map((f) => f.episode));
+  if (captions.length) {
+    console.error(`      rehosted captions from ${CAPTIONS_DIR}/: ${captions.length}`);
+  }
+  const files = [
+    ...scraped.filter((f) => !(f.kind === "captions" && captioned.has(f.episode))),
+    ...rehosted,
+    ...captions,
+  ];
 
   if (process.env.DUMP_FILES === "1") {
     for (const f of files.sort((a, b) => a.episode - b.episode || a.filename.localeCompare(b.filename))) {

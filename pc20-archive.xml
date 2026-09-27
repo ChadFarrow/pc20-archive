@@ -247,6 +247,7 @@ PodcastIndex.org
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-10-Captions.srt" type="application/srt" rel="captions"/>
     </item>
     <item>
       <title>Episode 11: Streaming Sats</title>
@@ -592,7 +593,7 @@ Keywords</p>]]></description>
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>22</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-22-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-22-Captions.srt" type="application/srt" rel="captions"/>
     </item>
     <item>
       <title>Episode 23: Moving to Milli's</title>
@@ -1412,7 +1413,7 @@ Keywords</p>]]></description>
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>46</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-46-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-46-Captions.srt" type="application/srt" rel="captions"/>
     </item>
     <item>
       <title>Episode 47: Mongo in the Congo</title>
@@ -1569,7 +1570,7 @@ Keywords</p>]]></description>
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-50-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-50-Captions.srt" type="application/srt" rel="captions"/>
     </item>
     <item>
       <title>Episode 51: Preserve, Protect and Extend</title>
@@ -1608,7 +1609,7 @@ Keywords</p>]]></description>
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>51</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-51-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-51-Captions.srt" type="application/srt" rel="captions"/>
     </item>
     <item>
       <title>Episode 52: Celebrating Our First Anniversary</title>
@@ -2937,7 +2938,7 @@ Keywords</p>]]></description>
       <itunes:image href="https://chadfarrow.github.io/pc20-archive/cover.jpg"/>
       <itunes:episode>86</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <podcast:transcript url="https://mp3s.nashownotes.com/PC20-86-Captions.srt" type="application/srt" rel="captions"/>
+      <podcast:transcript url="https://chadfarrow.github.io/pc20-archive/captions/PC20-86-Captions.srt" type="application/srt" rel="captions"/>
       <podcast:chapters url="https://chadfarrow.github.io/pc20-archive/chapters/PC20-86-Chapters.json" type="application/json+chapters"/>
     </item>
     <item>
