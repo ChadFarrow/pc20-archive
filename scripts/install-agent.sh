@@ -2,12 +2,13 @@
 #
 # Generates and loads the launchd agent that mirrors mp3s.nashownotes.com to the NAS.
 #
-#   ./scripts/install-agent.sh              # install and load
+#   NAS_SMB_URL=smb://user@host/pc20-archive ./scripts/install-agent.sh   # install and load
+#   ./scripts/install-agent.sh              # reinstall, keeping the installed NAS_SMB_URL
 #   ./scripts/install-agent.sh --check      # print what would be written, change nothing
 #
 # The plist is generated rather than committed because it has to name absolute
-# paths — this repo is public, and publishing someone's home directory layout
-# buys nothing.
+# paths and the NAS user name — this repo is public, and publishing someone's
+# home directory layout buys nothing.
 
 set -euo pipefail
 
@@ -17,8 +18,17 @@ LABEL="com.chadfarrow.pc20-nas-sync"
 TEMPLATE="$REPO/launchd/$LABEL.plist.template"
 TARGET="$HOME/Library/LaunchAgents/$LABEL.plist"
 
+if [ -z "${NAS_SMB_URL:-}" ] && [ -f "$TARGET" ]; then
+  NAS_SMB_URL="$(/usr/libexec/PlistBuddy -c "Print :EnvironmentVariables:NAS_SMB_URL" "$TARGET" 2>/dev/null || true)"
+fi
+if ! [[ "${NAS_SMB_URL:-}" =~ ^smb://[A-Za-z0-9._~%@:/-]+$ ]]; then
+  echo "set NAS_SMB_URL, e.g. NAS_SMB_URL=smb://user@192.168.0.81/pc20-archive $0" >&2
+  exit 1
+fi
+
 render() {
-  sed -e "s|__REPO__|$REPO|g" -e "s|__NODE__|$NODE|g" -e "s|__HOME__|$HOME|g" "$TEMPLATE"
+  sed -e "s|__REPO__|$REPO|g" -e "s|__NODE__|$NODE|g" -e "s|__HOME__|$HOME|g" \
+      -e "s|__NAS_SMB_URL__|$NAS_SMB_URL|g" "$TEMPLATE"
 }
 
 if [ "${1:-}" = "--check" ]; then
@@ -35,8 +45,6 @@ if [ "${1:-}" = "--check" ]; then
   exit 0
 fi
 
-[ -d /Volumes/pc20-archive ] || echo "warning: /Volumes/pc20-archive not mounted — the agent will no-op until it is"
-
 mkdir -p "$HOME/Library/LaunchAgents"
 render > "$TARGET"
 
@@ -46,4 +54,5 @@ launchctl load "$TARGET"
 echo "installed and loaded $LABEL"
 echo "  repo:  $REPO"
 echo "  node:  $NODE"
+echo "  share: $NAS_SMB_URL"
 echo "  log:   $HOME/Library/Logs/pc20-nas-sync.log"

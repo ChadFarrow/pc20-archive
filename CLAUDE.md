@@ -81,13 +81,15 @@ The NAS share `//192.168.0.81/pc20-archive` mounts at `/Volumes/pc20-archive` (n
 
 **`sync-nas.mjs` keeps it current.** It fetches any `PC20-*` file that is missing from the share, or whose autoindex date is newer than the local mtime, then sets the local mtime to that date. It never deletes. Downloads go to a hidden `.<name>.sync-tmp` and are renamed only after the byte count matches `Content-Length`. Plain Node, no dependencies, so launchd can run it without `npm install`. `--dry-run` lists what it would fetch.
 
-It runs from the launchd agent `com.chadfarrow.pc20-nas-sync` — Fridays at 22:00 local time, after the week's episode is out (the show lands 19:11–21:04 UTC on Fridays). `scripts/install-agent.sh` renders `launchd/*.plist.template` into `~/Library/LaunchAgents` (`--check` diffs it). Log: `~/Library/Logs/pc20-nas-sync.log`.
+It runs from the launchd agent `com.chadfarrow.pc20-nas-sync` — Fridays at 22:00 local time, after the week's episode is out (the show lands 19:11–21:04 UTC on Fridays). `scripts/install-agent.sh` renders `launchd/*.plist.template` into `~/Library/LaunchAgents` (`--check` diffs it). Install with `NAS_SMB_URL=smb://<user>@192.168.0.81/pc20-archive ./scripts/install-agent.sh`; a later reinstall keeps the installed URL. The user name stays in the generated plist, out of this public repo. Log: `~/Library/Logs/pc20-nas-sync.log`.
+
+**It mounts the share itself.** The agent ran on 2026-10-03, 10-17 and 10-24 while the share was not mounted, logged "not a mounted share — nothing to do" and fetched nothing. Since 2026-10-29, when the share is not mounted and `NAS_SMB_URL` is set, `ensureMounted()` runs `osascript -e 'mount volume "<url>"'` (60 s timeout) and checks again. `mount volume` goes through NetFS, which can create the mount point in the root-owned `/Volumes` and takes the password from the login Keychain; `mount_smbfs` can do neither. A failed mount exits 1. Without `NAS_SMB_URL` the old behavior stays: one log line, exit 0.
 
 The share had one bulk copy on 2026-05-12 (eps 1–259) and nothing after it until this agent. Before that, nothing kept it current. Two odd names are the server's own, mirrored as-is: `PC20-2025-06-06-Final.mp3` (no episode number) and `PC20-87-2024-08-02-Final.mp3.filepart` (an incomplete upload).
 
 Fourteen `PC20-{N}-Captions.srt` files on the share are **not** the server's: `node transcribe.mjs --nas` wrote the `captions/` transcripts over the server's placeholders and duplicates (and added eps 10 and 244), so `pc20-clips`, which reads the share's captions first, gets a real transcript. Their mtime is the copy date, which is newer than the server's date for the file, so `sync-nas.mjs` leaves them alone — until the server posts a newer file, which then wins. That is the intended outcome: a real transcript from the show replaces a machine one.
 
-Both `sync-nas.mjs` and `fetch-archived-chapters.ts` refuse to write when the share is not mounted. `sync-nas.mjs` also checks that `/Volumes/pc20-archive` is on a different device from `/Volumes`, so a stale local directory there cannot fill the Mac's disk. `fetch-archived-chapters.ts` only checks `existsSync`.
+Both `sync-nas.mjs` and `fetch-archived-chapters.ts` refuse to write when the share is not mounted (after `sync-nas.mjs` has tried to mount it). `sync-nas.mjs` also checks that `/Volumes/pc20-archive` is on a different device from `/Volumes`, so a stale local directory there cannot fill the Mac's disk. `fetch-archived-chapters.ts` only checks `existsSync`.
 
 ## Deploying
 

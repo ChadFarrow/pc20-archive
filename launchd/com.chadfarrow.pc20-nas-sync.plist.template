@@ -9,9 +9,10 @@
   afternoon (19:11–21:04 UTC across May–September 2026). A run with nothing to
   fetch is one 1 MB index request. launchd runs a missed slot on wake if the Mac
   was asleep, but not if it was off; `node sync-nas.mjs` catches up by hand. If
-  the share is not mounted the run logs one line and exits 0.
+  the share is not mounted the run mounts it from NAS_SMB_URL, with the password
+  from the login Keychain.
 
-  Install:  ./scripts/install-agent.sh
+  Install:  NAS_SMB_URL=smb://user@host/pc20-archive ./scripts/install-agent.sh
   Stop:     launchctl unload ~/Library/LaunchAgents/com.chadfarrow.pc20-nas-sync.plist
 -->
 <plist version="1.0">
@@ -24,6 +25,12 @@
         <string>__NODE__</string>
         <string>__REPO__/sync-nas.mjs</string>
     </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>NAS_SMB_URL</key>
+        <string>__NAS_SMB_URL__</string>
+    </dict>
 
     <key>StartCalendarInterval</key>
     <dict>
