@@ -15,6 +15,10 @@
  * after the byte count matches Content-Length, so a dropped connection never
  * leaves a truncated PC20-*.mp3 for the clip tool or the wiki to read.
  *
+ * If the share is not mounted and NAS_SMB_URL is set
+ * (smb://user@host/pc20-archive), the script mounts it with `mount volume`,
+ * which takes the password from the login Keychain.
+ *
  * Run:
  *   node sync-nas.mjs             # sync
  *   node sync-nas.mjs --dry-run   # list what would be fetched, write nothing
@@ -22,14 +26,17 @@
  * Runs unattended via launchd — see launchd/ and scripts/install-agent.sh.
  */
 
+import { execFile } from "node:child_process";
 import { createWriteStream } from "node:fs";
 import { rename, stat, unlink, utimes } from "node:fs/promises";
 import { join } from "node:path";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
+import { promisify } from "node:util";
 
 const INDEX_URL = "https://mp3s.nashownotes.com/";
 const NAS_DIR = process.env.NAS_DIR ?? "/Volumes/pc20-archive";
+const SMB_URL = process.env.NAS_SMB_URL ?? "";
 const UA = "Mozilla/5.0 pc20-archive-nas-sync (+https://github.com/ChadFarrow/pc20-archive)";
 const dryRun = process.argv.includes("--dry-run");
 
@@ -46,6 +53,23 @@ async function shareMounted() {
   } catch {
     return false;
   }
+}
+
+// `mount volume` goes through NetFS, which creates the mount point under the
+// root-owned /Volumes and reads the password from the login Keychain.
+// mount_smbfs can do neither. A share that lands at /Volumes/pc20-archive-1
+// (stale directory in the way) still fails shareMounted(), so nothing is written.
+async function ensureMounted() {
+  if (await shareMounted()) return true;
+  if (!SMB_URL) return false;
+  if (!/^smb:\/\/[^"\\]+$/.test(SMB_URL)) throw new Error(`bad NAS_SMB_URL: ${SMB_URL}`);
+  log(`${NAS_DIR} not mounted — mounting ${SMB_URL}`);
+  try {
+    await promisify(execFile)("osascript", ["-e", `mount volume "${SMB_URL}"`], { timeout: 60_000 });
+  } catch (e) {
+    log(`  mount: ${e?.stderr?.trim() || e?.message || e}`);
+  }
+  return shareMounted();
 }
 
 // nginx autoindex rows: <a href="PC20-...">…</a></td><td class="size">…</td><td class="date">2026-May-15 19:31</td>
@@ -89,9 +113,9 @@ async function download(filename, date) {
 }
 
 async function main() {
-  if (!(await shareMounted())) {
+  if (!(await ensureMounted())) {
     log(`${NAS_DIR} is not a mounted share — nothing to do`);
-    return 0;
+    return SMB_URL ? 1 : 0;
   }
 
   const remote = await listRemote();
