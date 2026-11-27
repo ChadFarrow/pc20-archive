@@ -30,6 +30,9 @@ import { join } from "node:path";
 import { pipeline } from "node:stream/promises";
 import { Readable } from "node:stream";
 import { XMLParser } from "fast-xml-parser";
+import { USER_AGENT } from "./user-agent.mjs";
+
+const HEADERS = { "User-Agent": USER_AGENT };
 
 const INDEX_URL = "https://mp3s.nashownotes.com/";
 const FEED_URL = "https://mp3s.nashownotes.com/pc20rss.xml";
@@ -143,7 +146,7 @@ function extractMtime(segment: string): Date | undefined {
 
 // ---------- 2) scrape the nginx autoindex ----------
 async function scrapeIndex(): Promise<Pc20File[]> {
-  const html = await fetch(INDEX_URL).then((r) => r.text());
+  const html = await fetch(INDEX_URL, { headers: HEADERS }).then((r) => r.text());
   const linkRe = /href="([^"?][^"]*)"/g;
   const links = [...html.matchAll(linkRe)];
   const out: Pc20File[] = [];
@@ -241,7 +244,7 @@ async function listSnapshots(maxSnaps: number): Promise<string[]> {
   const url =
     `${CDX}?url=${encodeURIComponent(FEED_URL)}&output=json` +
     `&fl=timestamp,statuscode,digest&filter=statuscode:200&collapse=digest`;
-  const rows = (await fetch(url).then((r) => r.json())) as string[][];
+  const rows = (await fetch(url, { headers: HEADERS }).then((r) => r.json())) as string[][];
   rows.shift();
   rows.sort((a, b) => a[0].localeCompare(b[0]));
   return rows.slice(0, maxSnaps).map(([ts]) => `https://web.archive.org/web/${ts}id_/${FEED_URL}`);
@@ -257,7 +260,7 @@ function filenameFromUrl(u: string): string | undefined {
 
 async function parseSnapshot(url: string): Promise<FeedItem[]> {
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, { headers: HEADERS });
     if (!res.ok) return [];
     const xml = await res.text();
     const parser = new XMLParser({
@@ -315,7 +318,7 @@ async function fillLengths(files: Pc20File[], concurrency = 6) {
       while (i < files.length) {
         const idx = i++;
         try {
-          const r = await fetch(files[idx].url, { method: "HEAD" });
+          const r = await fetch(files[idx].url, { method: "HEAD", headers: HEADERS });
           const len = r.headers.get("content-length");
           if (len) files[idx].length = parseInt(len, 10);
         } catch {
@@ -343,14 +346,14 @@ async function downloadFiles(files: Pc20File[], dir: string, concurrency = 3) {
         try {
           const localSize = await stat(dest).then((s) => s.size).catch(() => null);
           if (localSize !== null) {
-            const head = await fetch(f.url, { method: "HEAD" });
+            const head = await fetch(f.url, { method: "HEAD", headers: HEADERS });
             const remote = parseInt(head.headers.get("content-length") ?? "0", 10);
             if (remote > 0 && localSize === remote) {
               console.error(`  ${tag} skip   ${f.filename}  (${fmt(localSize)})`);
               continue;
             }
           }
-          const res = await fetch(f.url);
+          const res = await fetch(f.url, { headers: HEADERS });
           if (!res.ok || !res.body) throw new Error(`HTTP ${res.status}`);
           await pipeline(Readable.fromWeb(res.body as any), createWriteStream(dest));
           const sz = (await stat(dest)).size;

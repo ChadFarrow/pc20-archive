@@ -16,8 +16,8 @@
 import { mkdir, writeFile, readFile, stat } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
+import { USER_AGENT as UA } from "./user-agent.mjs";
 
-const UA = "Mozilla/5.0 pc20-archive-recovery (+https://github.com/ChadFarrow/pc20-archive)";
 const OUT_DIR = "chapters";
 const NAS_DIR = "/Volumes/pc20-archive";
 const DELAY_MS = 6000;       // between successful fetches
