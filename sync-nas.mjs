@@ -33,11 +33,11 @@ import { join } from "node:path";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import { promisify } from "node:util";
+import { USER_AGENT as UA } from "./user-agent.mjs";
 
 const INDEX_URL = "https://mp3s.nashownotes.com/";
 const NAS_DIR = process.env.NAS_DIR ?? "/Volumes/pc20-archive";
 const SMB_URL = process.env.NAS_SMB_URL ?? "";
-const UA = "Mozilla/5.0 pc20-archive-nas-sync (+https://github.com/ChadFarrow/pc20-archive)";
 const dryRun = process.argv.includes("--dry-run");
 
 const log = (msg) => console.log(`${new Date().toISOString()} ${msg}`);

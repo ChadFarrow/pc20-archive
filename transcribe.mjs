@@ -53,9 +53,9 @@ import { dirname, join } from "node:path";
 import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import { fileURLToPath, pathToFileURL } from "node:url";
+import { USER_AGENT as UA } from "./user-agent.mjs";
 
 const INDEX_URL = "https://mp3s.nashownotes.com/";
-const UA = "Mozilla/5.0 pc20-archive-transcribe (+https://github.com/ChadFarrow/pc20-archive)";
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = join(ROOT, "captions");
 const WORK_DIR = process.env.WORK_DIR ?? join(tmpdir(), "pc20-transcribe");
